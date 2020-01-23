@@ -1,0 +1,51 @@
+[
+  { "regex": "^(discover )?genres$", "url": ["/discover/genres"] },
+  { "regex": "^(discover )?moods$", "url": ["/discover/moods"] },
+  { "regex": "^(discover )?featured$", "url": ["/discover/featured"] },
+  { "regex": "^(discover )?tastemakers$", "url": ["/discover/tastemakers"] },
+  { "regex": "^(discover )?eras$", "url": ["/discover/eras"] },
+
+  { "regex": "^workout( music|songs|playlist|playlists)?$", "url": ["/discover/moods", "/discover/moods/workout"] },
+  { "regex": "^party( (music|songs|tracks|playlist|playlists))?$", "url": ["/discover/moods", "/discover/moods/party"] },
+  { "regex": "^relax(ing)?( (music|songs|tracks|playlist|playlists))?$", "url": ["/discover/moods", "/discover/moods/relax"] },
+  { "regex": "^(romance|romantic)?( (music|songs|tracks|playlist|playlists))?$", "url": ["/discover/moods", "/discover/moods/romance"] },
+
+  { "regex": "^rock( music|songs|playlist|playlists)?$", "url": ["/discover/genres", "/discover/genres/rock"] },
+  { "regex": "^jazz( music|songs|playlist|playlists)?$", "url": ["/discover/genres", "/discover/genres/jazz"] },
+  { "regex": "^urban( music|songs|playlist|playlists)?$", "url": ["/discover/genres", "/discover/genres/urban"] },
+  { "regex": "^pop( (music|songs|tracks))?$", "url": ["/discover/genres", "/discover/genres/pop"] },
+  { "regex": "^classical( music|songs|playlist|playlists)?$", "url": ["/discover/genres", "/discover/genres/classical"] },
+  { "regex": "^(electronic|electro)( music| playlist| playlists)?$", "url": ["/discover/genres", "/discover/genres/electronic"] },
+  { "regex": "^(country)( music| songs)?$", "url": ["/discover/genres", "/discover/genres/country"] },
+
+  { "regex": "^(my|favourited) (radio stations|radio|radios)$", "url": ["/radio/favourites"] },
+  { "regex": "^(popular|trending) radio( stations)?$", "url": ["/radio/popular"] },
+  { "regex": "^radio stations$", "url": ["/radio/popular"] },
+  { "regex": "^rock (radio|radios)$", "url": ["/radio/genres", "/radio/genres/rock"] },
+  { "regex": "^classical (radio|radios)$", "url": ["/radio/genres", "/radio/genres/classical"] },
+  { "regex": "^jazz (radio|radios)$", "url": ["/radio/genres", "/radio/genres/jazz"] },
+  { "regex": "^electronic (radio|radios)$", "url": ["/radio/genres", "/radio/genres/electronic"] },
+  { "regex": "^news (radio|radios)$", "url": ["/radio/genres/news"] },
+  { "regex": "^urban (radio|radios)$", "url": ["/radio/genres", "/radio/genres/urban"] },
+  { "regex": "^country (radio|radios)$", "url": ["/radio/genres", "/radio/genres/country"] },
+
+  { "regex": "^my (favourite|favourites|liked)$", "url": ["/mymusic/favourites/tracks"] },
+  { "regex": "^my (favourite |favourites |liked )?(track|tracks|song|songs|music)$", "url": ["/mymusic/favourites/tracks"] },
+  { "regex": "^my (favourite |favourites |liked )?(album|release|albums|releases)$", "url": ["/mymusic/favourites/releases"] },
+  { "regex": "^my (playlists)$", "url": ["/mymusic/favourites/playlists"] },
+  { "regex": "^my (mixtapes)$", "url": ["/mymusic/favourites/mixtapes"] },
+  { "regex": "^my (radio|radios|radio stations)$", "url": ["/mymusic/favourites/radio"] },
+
+  { "regex": "^(singles chart)$", "url": ["/charts/singles"] },
+  { "regex": "^(top|popular|trending) (songs|tracks|music)?$", "url": ["/charts/singles"] },
+  { "regex": "^(new|recent|trending) (albums|releases)?$", "url": ["/charts/new-releases"] },
+  { "regex": "^(essential) (albums|releases|music)?$", "url": ["/charts/essential-albums"] },
+
+  { "regex": "^(sing along|sing with (the )?stars)", "url": ["/singalong/party-performer"] },
+  { "regex": "^sing (with|for) kids$", "url": ["/singalong/kids"] },
+
+  { "regex": "^sound machine(s)?$", "url": ["/soundmachine/relax"] },
+  { "regex": "^meditate$", "url": ["/soundmachine/meditate"] },
+  { "regex": "^relax$", "url": ["/soundmachine/relax"] },
+  { "regex": "^sleep$", "url": ["/soundmachine/sleep"] }
+]

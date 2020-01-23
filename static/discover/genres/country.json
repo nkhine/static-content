@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Country and Folk"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Lovin' Folk",
+      "type": "playlist",
+      "image": "playlist-images/lovin-folk.jpg",
+      "playable": "playlists/genres/lovin-folk"
+    },
+    {
+      "title": "Classic Country",
+      "type": "playlist",
+      "image": "playlist-images/classic-country.jpg",
+      "playable": "playlists/genres/classic-country"
+    },
+    {
+      "title": "Country Loving",
+      "type": "playlist",
+      "image": "playlist-images/country-loving.jpg",
+      "playable": "playlists/genres/country-loving"
+    },
+    {
+      "title": "New Country",
+      "type": "playlist",
+      "image": "playlist-images/ountry.jpg",
+      "playable": "playlists/genres/new-country"
+    },
+    {
+      "title": "Essential Johnny Cash",
+      "type": "playlist",
+      "image": "playlist-images/johnnycash.jpg",
+      "playable": "playlists/genres/essential-johnny-cash"
+    },
+    {
+      "title": "Alternative Country",
+      "type": "playlist",
+      "image": "playlist-images/sc-01.jpg",
+      "playable": "playlists/tastemakers/sheryl-crow-alternative-country"
+    },
+    {
+      "title": "Old School Country",
+      "type": "playlist",
+      "image": "playlist-images/sc-02.jpg",
+      "playable": "playlists/tastemakers/sheryl-crow-old-school-country"
+    }
+  ]
+}

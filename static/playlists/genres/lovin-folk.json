@@ -1,0 +1,127 @@
+{
+  "type": "playlist",
+  "name": "Lovin' Folk",
+  "image": "playlist-images/lovin-folk.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 20017489
+    },
+    {
+      "type": "track",
+      "trackId": 47124172
+    },
+    {
+      "type": "track",
+      "trackId": 60225051
+    },
+    {
+      "type": "track",
+      "trackId": 46648065
+    },
+    {
+      "type": "track",
+      "trackId": 48211527
+    },
+    {
+      "type": "track",
+      "trackId": 58217773
+    },
+    {
+      "type": "track",
+      "trackId": 50563771
+    },
+    {
+      "type": "track",
+      "trackId": 59362168
+    },
+    {
+      "type": "track",
+      "trackId": 70868846
+    },
+    {
+      "type": "track",
+      "trackId": 52445272
+    },
+    {
+      "type": "track",
+      "trackId": 64207945
+    },
+    {
+      "type": "track",
+      "trackId": 1283213
+    },
+    {
+      "type": "track",
+      "trackId": 62900871
+    },
+    {
+      "type": "track",
+      "trackId": 37304693
+    },
+    {
+      "type": "track",
+      "trackId": 15594102
+    },
+    {
+      "type": "track",
+      "trackId": 63378025
+    },
+    {
+      "type": "track",
+      "trackId": 3006491
+    },
+    {
+      "type": "track",
+      "trackId": 13060924
+    },
+    {
+      "type": "track",
+      "trackId": 63819686
+    },
+    {
+      "type": "track",
+      "trackId": 56104100
+    },
+    {
+      "type": "track",
+      "trackId": 80951782
+    },
+    {
+      "type": "track",
+      "trackId": 20198980
+    },
+    {
+      "type": "track",
+      "trackId": 73152547
+    },
+    {
+      "type": "track",
+      "trackId": 64962796
+    },
+    {
+      "type": "track",
+      "trackId": 72926515
+    },
+    {
+      "type": "track",
+      "trackId": 23838772
+    },
+    {
+      "type": "track",
+      "trackId": 53673814
+    },
+    {
+      "type": "track",
+      "trackId": 59207123
+    },
+    {
+      "type": "track",
+      "trackId": 52180434
+    },
+    {
+      "type": "track",
+      "trackId": 7217143
+    }
+  ]
+}

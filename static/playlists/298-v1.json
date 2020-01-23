@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/2019-hits-recap.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 90084885
+    },
+    {
+      "type": "track",
+      "trackId": 86129106
+    },
+    {
+      "type": "track",
+      "trackId": 89749163
+    },
+    {
+      "type": "track",
+      "trackId": 85956241
+    },
+    {
+      "type": "track",
+      "trackId": 91368856
+    },
+    {
+      "type": "track",
+      "trackId": 82929740
+    },
+    {
+      "type": "track",
+      "trackId": 91317957
+    },
+    {
+      "type": "track",
+      "trackId": 91666693
+    },
+    {
+      "type": "track",
+      "trackId": 90496585
+    },
+    {
+      "type": "track",
+      "trackId": 81466262
+    },
+    {
+      "type": "track",
+      "trackId": 88612092
+    },
+    {
+      "type": "track",
+      "trackId": 79205199
+    },
+    {
+      "type": "track",
+      "trackId": 89568103
+    },
+    {
+      "type": "track",
+      "trackId": 88259191
+    },
+    {
+      "type": "track",
+      "trackId": 82988392
+    },
+    {
+      "type": "track",
+      "trackId": 85978321
+    },
+    {
+      "type": "track",
+      "trackId": 88438201
+    },
+    {
+      "type": "track",
+      "trackId": 82084579
+    },
+    {
+      "type": "track",
+      "trackId": 88251247
+    },
+    {
+      "type": "track",
+      "trackId": 77690070
+    },
+    {
+      "type": "track",
+      "trackId": 88954808
+    },
+    {
+      "type": "track",
+      "trackId": 77525500
+    },
+    {
+      "type": "track",
+      "trackId": 84142176
+    },
+    {
+      "type": "track",
+      "trackId": 88455841
+    },
+    {
+      "type": "track",
+      "trackId": 86660925
+    },
+    {
+      "type": "track",
+      "trackId": 89568809
+    },
+    {
+      "type": "track",
+      "trackId": 80585009
+    },
+    {
+      "type": "track",
+      "trackId": 86185738
+    },
+    {
+      "type": "track",
+      "trackId": 84048258
+    },
+    {
+      "type": "track",
+      "trackId": 90340420
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/classic-rock.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 17647536
+    },
+    {
+      "type": "track",
+      "trackId": 35820430
+    },
+    {
+      "type": "track",
+      "trackId": 49462896
+    },
+    {
+      "type": "track",
+      "trackId": 1081264
+    },
+    {
+      "type": "track",
+      "trackId": 14180084
+    },
+    {
+      "type": "track",
+      "trackId": 3481733
+    },
+    {
+      "type": "track",
+      "trackId": 11020995
+    },
+    {
+      "type": "track",
+      "trackId": 3183447
+    },
+    {
+      "type": "track",
+      "trackId": 5782393
+    },
+    {
+      "type": "track",
+      "trackId": 44090008
+    },
+    {
+      "type": "track",
+      "trackId": 33027440
+    },
+    {
+      "type": "track",
+      "trackId": 427662
+    },
+    {
+      "type": "track",
+      "trackId": 39343028
+    },
+    {
+      "type": "track",
+      "trackId": 3552960
+    },
+    {
+      "type": "track",
+      "trackId": 498281
+    },
+    {
+      "type": "track",
+      "trackId": 3152236
+    },
+    {
+      "type": "track",
+      "trackId": 44115103
+    },
+    {
+      "type": "track",
+      "trackId": 13775572
+    },
+    {
+      "type": "track",
+      "trackId": 3105288
+    },
+    {
+      "type": "track",
+      "trackId": 15898040
+    },
+    {
+      "type": "track",
+      "trackId": 40267143
+    },
+    {
+      "type": "track",
+      "trackId": 32015387
+    },
+    {
+      "type": "track",
+      "trackId": 3335382
+    },
+    {
+      "type": "track",
+      "trackId": 3137811
+    },
+    {
+      "type": "track",
+      "trackId": 13072801
+    },
+    {
+      "type": "track",
+      "trackId": 5785599
+    }
+  ]
+}

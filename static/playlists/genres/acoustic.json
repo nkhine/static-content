@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/acoustic-guitar.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 21319500
+    },
+    {
+      "type": "track",
+      "trackId": 11627964
+    },
+    {
+      "type": "track",
+      "trackId": 46458167
+    },
+    {
+      "type": "track",
+      "trackId": 44725644
+    },
+    {
+      "type": "track",
+      "trackId": 18910368
+    },
+    {
+      "type": "track",
+      "trackId": 35293776
+    },
+    {
+      "type": "track",
+      "trackId": 47924644
+    },
+    {
+      "type": "track",
+      "trackId": 30935703
+    },
+    {
+      "type": "track",
+      "trackId": 32420537
+    },
+    {
+      "type": "track",
+      "trackId": 40539122
+    },
+    {
+      "type": "track",
+      "trackId": 41519824
+    },
+    {
+      "type": "track",
+      "trackId": 1404
+    },
+    {
+      "type": "track",
+      "trackId": 42352810
+    },
+    {
+      "type": "track",
+      "trackId": 6788041
+    },
+    {
+      "type": "track",
+      "trackId": 46319121
+    },
+    {
+      "type": "track",
+      "trackId": 6077798
+    },
+    {
+      "type": "track",
+      "trackId": 17914201
+    },
+    {
+      "type": "track",
+      "trackId": 2748237
+    },
+    {
+      "type": "track",
+      "trackId": 41984112
+    },
+    {
+      "type": "track",
+      "trackId": 14040851
+    },
+    {
+      "type": "track",
+      "trackId": 2876291
+    },
+    {
+      "type": "track",
+      "trackId": 24969
+    },
+    {
+      "type": "track",
+      "trackId": 20634010
+    },
+    {
+      "type": "track",
+      "trackId": 48126406
+    },
+    {
+      "type": "track",
+      "trackId": 12636822
+    },
+    {
+      "type": "track",
+      "trackId": 23273125
+    },
+    {
+      "type": "track",
+      "trackId": 46880421
+    },
+    {
+      "type": "track",
+      "trackId": 30980222
+    },
+    {
+      "type": "track",
+      "trackId": 42471822
+    },
+    {
+      "type": "track",
+      "trackId": 15968601
+    }
+  ]
+}

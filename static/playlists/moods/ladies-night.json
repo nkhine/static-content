@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/ladies-night.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 57136660
+    },
+    {
+      "type": "track",
+      "trackId": 11236207
+    },
+    {
+      "type": "track",
+      "trackId": 15184429
+    },
+    {
+      "type": "track",
+      "trackId": 17907324
+    },
+    {
+      "type": "track",
+      "trackId": 3540260
+    },
+    {
+      "type": "track",
+      "trackId": 1180337
+    },
+    {
+      "type": "track",
+      "trackId": 3721164
+    },
+    {
+      "type": "track",
+      "trackId": 4314351
+    },
+    {
+      "type": "track",
+      "trackId": 507126
+    },
+    {
+      "type": "track",
+      "trackId": 11793053
+    },
+    {
+      "type": "track",
+      "trackId": 15952596
+    },
+    {
+      "type": "track",
+      "trackId": 4659302
+    },
+    {
+      "type": "track",
+      "trackId": 15304774
+    },
+    {
+      "type": "track",
+      "trackId": 3732471
+    },
+    {
+      "type": "track",
+      "trackId": 45448040
+    },
+    {
+      "type": "track",
+      "trackId": 15071300
+    },
+    {
+      "type": "track",
+      "trackId": 42548056
+    },
+    {
+      "type": "track",
+      "trackId": 23936632
+    },
+    {
+      "type": "track",
+      "trackId": 22125299
+    },
+    {
+      "type": "track",
+      "trackId": 37701917
+    },
+    {
+      "type": "track",
+      "trackId": 7128764
+    },
+    {
+      "type": "track",
+      "trackId": 2855223
+    },
+    {
+      "type": "track",
+      "trackId": 12302903
+    },
+    {
+      "type": "track",
+      "trackId": 3124741
+    },
+    {
+      "type": "track",
+      "trackId": 36789872
+    },
+    {
+      "type": "track",
+      "trackId": 30981068
+    },
+    {
+      "type": "track",
+      "trackId": 35977218
+    },
+    {
+      "type": "track",
+      "trackId": 12144255
+    },
+    {
+      "type": "track",
+      "trackId": 8282477
+    },
+    {
+      "type": "track",
+      "trackId": 5260568
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "More"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Easy 70's",
+      "type": "playlist",
+      "image": "playlist-images/funk-disco-soul-bumps.jpg",
+      "playable": "playlists/genres/easy-70s"
+    },
+    {
+      "title": "Easy 80's",
+      "type": "playlist",
+      "image": "playlist-images/easy80s.jpg",
+      "playable": "playlists/genres/easy-80s"
+    },
+    {
+      "title": "Pressure Drop",
+      "type": "playlist",
+      "image": "playlist-images/pressure-drop.jpg",
+      "playable": "playlists/genres/pressure-drop"
+    },
+    {
+      "title": "It's Funky In Here",
+      "type": "playlist",
+      "image": "playlist-images/funky.jpg",
+      "playable": "playlists/genres/its-funky-in-here"
+    },
+    {
+      "title": "Motown",
+      "type": "playlist",
+      "image": "playlist-images/motown.jpg",
+      "playable": "playlists/genres/motown"
+    },
+    {
+      "title": "Apres Ski",
+      "type": "playlist",
+      "image": "playlist-images/apres-ski.jpg",
+      "playable": "playlists/genres/apres-ski"
+    },
+    {
+      "title": "Eurovision",
+      "type": "playlist",
+      "image": "playlist-images/eurovision.jpg",
+      "playable": "playlists/genres/eurovision"
+    },
+    {
+      "title": "Schlager Leben",
+      "type": "playlist",
+      "image": "playlist-images/schlager-leben.jpg",
+      "playable": "playlists/genres/schlager-leben"
+    },
+    {
+      "title": "Christmas Greats",
+      "type": "playlist",
+      "image": "playlist-images/snow.jpg",
+      "playable": "playlists/featured/christmas-greats"
+    },
+    {
+      "title": "Cheesy Christmas",
+      "type": "playlist",
+      "image": "playlist-images/christmas.jpg",
+      "playable": "playlists/featured/cheesy-christmas"
+    },
+    {
+      "title": "Modern Christmas",
+      "type": "playlist",
+      "image": "playlist-images/xmas.jpg",
+      "playable": "playlists/featured/modern-christmas"
+    },
+    {
+      "title": "Kids Tunes",
+      "type": "playlist",
+      "image": "playlist-images/kids-learning.jpg",
+      "playable": "playlists/featured/kids-learning"
+    }
+  ]
+}

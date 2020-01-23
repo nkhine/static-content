@@ -1,0 +1,42 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/ad-03.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 40003514
+    },
+    {
+      "type": "track",
+      "trackId": 31478635
+    },
+    {
+      "type": "track",
+      "trackId": 19798963
+    },
+    {
+      "type": "track",
+      "trackId": 41272226
+    },
+    {
+      "type": "track",
+      "trackId": 33210082
+    },
+    {
+      "type": "track",
+      "trackId": 4164497
+    },
+    {
+      "type": "track",
+      "trackId": 3542186
+    },
+    {
+      "type": "track",
+      "trackId": 39776210
+    },
+    {
+      "type": "track",
+      "trackId": 30106503
+    }
+  ]
+}

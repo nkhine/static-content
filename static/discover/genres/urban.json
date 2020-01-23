@@ -1,0 +1,89 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Urban"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Modern RnB",
+      "type": "playlist",
+      "image": "playlist-images/modern-rnb.jpg",
+      "playable": "playlists/genres/modern-rnb"
+    },
+    {
+      "title": "Rappers Delight",
+      "type": "playlist",
+      "image": "playlist-images/rappers-delight.jpg",
+      "playable": "playlists/genres/rappers-delight"
+    },
+    {
+      "title": "New School Hip-Hop",
+      "type": "playlist",
+      "image": "playlist-images/new-school-hip-hop.jpg",
+      "playable": "playlists/genres/new-school-hip-hop"
+    },
+    {
+      "title": "Sweet Soul Music",
+      "type": "playlist",
+      "image": "playlist-images/sweet-soul-music.jpg",
+      "playable": "playlists/genres/sweet-soul-music"
+    },
+    {
+      "title": "Slow It Down",
+      "type": "playlist",
+      "image": "playlist-images/rnb.jpg",
+      "playable": "playlists/genres/slow-it-down"
+    },
+    {
+      "title": "Chill-hop",
+      "type": "playlist",
+      "image": "playlist-images/chillhop.jpg",
+      "playable": "playlists/genres/chillhop"
+    },
+    {
+      "title": "Reggae Hits",
+      "type": "playlist",
+      "image": "playlist-images/reggae-hits.jpg",
+      "playable": "playlists/genres/reggaehits"
+    },
+    {
+      "title": "West Coast Hip-Hop",
+      "type": "playlist",
+      "image": "playlist-images/west-coast.jpg",
+      "playable": "playlists/genres/westcoast"
+    },
+    {
+      "title": "East Coast Hip-Hop",
+      "type": "playlist",
+      "image": "playlist-images/east-coast.jpg",
+      "playable": "playlists/genres/eastcoast"
+    },
+    {
+      "title": "Grime",
+      "type": "playlist",
+      "image": "playlist-images/grime.jpg",
+      "playable": "playlists/genres/grime"
+    },
+    {
+      "title": "Classic RnB",
+      "type": "playlist",
+      "image": "playlist-images/sunglasses-white-dress.jpg",
+      "playable": "playlists/genres/classic-rnb"
+    },
+    {
+      "title": "Women of Hip-Hop",
+      "type": "playlist",
+      "image": "playlist-images/women-hiphop.jpg",
+      "playable": "playlists/genres/woman-hiphop"
+    },
+    {
+      "title": "Northern Soul",
+      "type": "playlist",
+      "image": "playlist-images/northern-soul.jpg",
+      "playable": "playlists/genres/northern-soul"
+    }
+  ]
+}

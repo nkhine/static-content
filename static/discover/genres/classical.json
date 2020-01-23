@@ -1,0 +1,70 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Classical"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Baroque",
+      "type": "playlist",
+      "image": "playlist-images/baroque.jpg",
+      "subtitle": "c.1600–1760",
+      "playable": "playlists/genres/baroque"
+    },
+    {
+      "title": "Classical",
+      "type": "playlist",
+      "image": "playlist-images/classical-introduction.jpg",
+      "subtitle": "c.1730–1820",
+      "playable": "playlists/genres/classical-an-introduction"
+    },
+    {
+      "title": "Romantic",
+      "type": "playlist",
+      "image": "playlist-images/romantic-introduction.jpg",
+      "subtitle": "c.1780–1910",
+      "playable": "playlists/genres/romantic-an-introduction"
+    },
+    {
+      "title": "20th Century",
+      "type": "playlist",
+      "image": "playlist-images/twentieth-century.jpg",
+      "subtitle": "An Introduction",
+      "playable": "playlists/genres/twentieth-century-an-introduction"
+    },
+    {
+      "title": "Classical Crossover",
+      "type": "playlist",
+      "image": "playlist-images/classical-crossover.jpg",
+      "playable": "playlists/genres/classical-crossover"
+    },
+    {
+      "title": "From the Movies",
+      "type": "playlist",
+      "image": "playlist-images/music-from-the-movies.jpg",
+      "playable": "playlists/genres/music-from-the-movies"
+    },
+    {
+      "title": "Early Music",
+      "type": "playlist",
+      "image": "playlist-images/classical-early-music.jpg",
+      "subtitle": "c. 500-1600",
+      "playable": "playlists/genres/classical-early-music"
+    },
+    {
+      "title": "Classical Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/rd-04.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-classical-relaxation"
+    },
+    {
+      "title": "Choral Beauty",
+      "type": "playlist",
+      "image": "playlist-images/rd-03.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-choral-beauty"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/chillhop.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 74274414
+    },
+    {
+      "type": "track",
+      "trackId": 53997319
+    },
+    {
+      "type": "track",
+      "trackId": 52585924
+    },
+    {
+      "type": "track",
+      "trackId": 74193652
+    },
+    {
+      "type": "track",
+      "trackId": 74274394
+    },
+    {
+      "type": "track",
+      "trackId": 74274403
+    },
+    {
+      "type": "track",
+      "trackId": 74711336
+    },
+    {
+      "type": "track",
+      "trackId": 70914248
+    },
+    {
+      "type": "track",
+      "trackId": 74193736
+    },
+    {
+      "type": "track",
+      "trackId": 74193520
+    },
+    {
+      "type": "track",
+      "trackId": 74193678
+    },
+    {
+      "type": "track",
+      "trackId": 72236875
+    },
+    {
+      "type": "track",
+      "trackId": 71128214
+    },
+    {
+      "type": "track",
+      "trackId": 71128207
+    },
+    {
+      "type": "track",
+      "trackId": 67878133
+    },
+    {
+      "type": "track",
+      "trackId": 74193580
+    },
+    {
+      "type": "track",
+      "trackId": 71128224
+    },
+    {
+      "type": "track",
+      "trackId": 54102468
+    },
+    {
+      "type": "track",
+      "trackId": 72441251
+    },
+    {
+      "type": "track",
+      "trackId": 69072329
+    },
+    {
+      "type": "track",
+      "trackId": 71128213
+    },
+    {
+      "type": "track",
+      "trackId": 74193538
+    },
+    {
+      "type": "track",
+      "trackId": 59879757
+    },
+    {
+      "type": "track",
+      "trackId": 68551019
+    },
+    {
+      "type": "track",
+      "trackId": 72605010
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/be-bop-a-lula.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 10767239
+    },
+    {
+      "type": "track",
+      "trackId": 44688920
+    },
+    {
+      "type": "track",
+      "trackId": 10562827
+    },
+    {
+      "type": "track",
+      "trackId": 21360641
+    },
+    {
+      "type": "track",
+      "trackId": 2990177
+    },
+    {
+      "type": "track",
+      "trackId": 9940272
+    },
+    {
+      "type": "track",
+      "trackId": 2747809
+    },
+    {
+      "type": "track",
+      "trackId": 45185282
+    },
+    {
+      "type": "track",
+      "trackId": 48357244
+    },
+    {
+      "type": "track",
+      "trackId": 40827950
+    },
+    {
+      "type": "track",
+      "trackId": 48219809
+    },
+    {
+      "type": "track",
+      "trackId": 12998954
+    },
+    {
+      "type": "track",
+      "trackId": 13705021
+    },
+    {
+      "type": "track",
+      "trackId": 8369099
+    },
+    {
+      "type": "track",
+      "trackId": 16633440
+    },
+    {
+      "type": "track",
+      "trackId": 10765851
+    },
+    {
+      "type": "track",
+      "trackId": 13561363
+    },
+    {
+      "type": "track",
+      "trackId": 38690605
+    },
+    {
+      "type": "track",
+      "trackId": 45756826
+    },
+    {
+      "type": "track",
+      "trackId": 10809489
+    },
+    {
+      "type": "track",
+      "trackId": 39001597
+    },
+    {
+      "type": "track",
+      "trackId": 12641999
+    },
+    {
+      "type": "track",
+      "trackId": 32920723
+    },
+    {
+      "type": "track",
+      "trackId": 17125340
+    },
+    {
+      "type": "track",
+      "trackId": 45462894
+    },
+    {
+      "type": "track",
+      "trackId": 45185271
+    },
+    {
+      "type": "track",
+      "trackId": 20726543
+    },
+    {
+      "type": "track",
+      "trackId": 39180346
+    },
+    {
+      "type": "track",
+      "trackId": 21715706
+    },
+    {
+      "type": "track",
+      "trackId": 22494547
+    }
+  ]
+}

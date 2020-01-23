@@ -1,0 +1,110 @@
+{
+    "type": "playlist",
+    "name": "Mother's Day",
+    "image": "playlist-images/mothers-day.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 74264490
+        },
+        {
+            "type": "track",
+            "trackId": 3775904
+        },
+        {
+            "type": "track",
+            "trackId": 29500313
+        },
+        {
+            "type": "track",
+            "trackId": 35197888
+        },
+        {
+            "type": "track",
+            "trackId": 38106252
+        },
+        {
+            "type": "track",
+            "trackId": 30655079
+        },
+        {
+            "type": "track",
+            "trackId": 4298256
+        },
+        {
+            "type": "track",
+            "trackId": 49420869
+        },
+        {
+            "type": "track",
+            "trackId": 143148
+        },
+        {
+            "type": "track",
+            "trackId": 30982885
+        },
+        {
+            "type": "track",
+            "trackId": 5826683
+        },
+        {
+            "type": "track",
+            "trackId": 73995035
+        },
+        {
+            "type": "track",
+            "trackId": 15962427
+        },
+        {
+            "type": "track",
+            "trackId": 390177
+        },
+        {
+            "type": "track",
+            "trackId": 20638067
+        },
+        {
+            "type": "track",
+            "trackId": 35575045
+        },
+        {
+            "type": "track",
+            "trackId": 59005022
+        },
+        {
+            "type": "track",
+            "trackId": 49423208
+        },
+        {
+            "type": "track",
+            "trackId": 4526592
+        },
+        {
+            "type": "track",
+            "trackId": 1156959
+        },
+        {
+            "type": "track",
+            "trackId": 6969373
+        },
+        {
+            "type": "track",
+            "trackId": 417185
+        },
+        {
+            "type": "track",
+            "trackId": 5844275
+        },
+        {
+            "type": "track",
+            "trackId": 17189194
+        },
+        {
+            "type": "track",
+            "trackId": 47857739
+        },
+        {
+            "type": "track",
+            "trackId": 1150718
+        }
+    ]
+}

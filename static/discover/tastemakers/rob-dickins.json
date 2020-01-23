@@ -1,0 +1,71 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Rob Dickins"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Choral Beauty",
+      "type": "playlist",
+      "image": "playlist-images/rd-01.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-choral-beauty"
+    },
+    {
+      "title": "Classical Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/rd-02.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-classical-relaxation"
+    },
+    {
+      "title": "Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/rd-03.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-relaxation"
+    },
+    {
+      "title": "One nation Under A Groove",
+      "type": "playlist",
+      "image": "playlist-images/rd-04.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-one-nation-under-a-groove"
+    },
+    {
+      "title": "Eight Miles High",
+      "type": "playlist",
+      "image": "playlist-images/rd-05.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-eight-miles-high"
+    },
+    {
+      "title": "Girls Just Wanna Have Fun",
+      "type": "playlist",
+      "image": "playlist-images/rd-06.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-girls-just-wanna-have-fun"
+    },
+    {
+      "title": "Slow Jamz",
+      "type": "playlist",
+      "image": "playlist-images/rd-07.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-slow-jamz"
+    },
+    {
+      "title": "This Must Be The Place",
+      "type": "playlist",
+      "image": "playlist-images/rd-08.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-this-must-be-the-place"
+    },
+    {
+      "title": "Jimi Hendrix - A Beginner's Guide",
+      "type": "playlist",
+      "image": "playlist-images/rd-09.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-a-beginners-guide-to-jimi-hendrix"
+    },
+    {
+      "title": "Steely Dan - A Beginner's Guide",
+      "type": "playlist",
+      "image": "playlist-images/rd-10.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-a-beginners-guide-to-steely-dan"
+    }
+  ]
+}

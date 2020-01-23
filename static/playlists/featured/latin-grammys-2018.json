@@ -1,0 +1,106 @@
+{
+    "type": "playlist",
+    "name": "Latin Grammys 2018",
+    "image": "playlist-images/latin-grammys-2018.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 66459456
+        },
+        {
+            "type": "track",
+            "trackId": 80104788
+        },
+        {
+            "type": "track",
+            "trackId": 66145783
+        },
+        {
+            "type": "track",
+            "trackId": 73513616
+        },
+        {
+            "type": "track",
+            "trackId": 76800920
+        },
+        {
+            "type": "track",
+            "trackId": 73555685
+        },
+        {
+            "type": "track",
+            "trackId": 66757085
+        },
+        {
+            "type": "track",
+            "trackId": 72857758
+        },
+        {
+            "type": "track",
+            "trackId": 67482015
+        },
+        {
+            "type": "track",
+            "trackId": 66145216
+        },
+        {
+            "type": "track",
+            "trackId": 72480521
+        },
+        {
+            "type": "track",
+            "trackId": 76264526
+        },
+        {
+            "type": "track",
+            "trackId": 69672744
+        },
+        {
+            "type": "track",
+            "trackId": 67795500
+        },
+        {
+            "type": "track",
+            "trackId": 67479910
+        },
+        {
+            "type": "track",
+            "trackId": 63309358
+        },
+        {
+            "type": "track",
+            "trackId": 66459460
+        },
+        {
+            "type": "track",
+            "trackId": 72481292
+        },
+        {
+            "type": "track",
+            "trackId": 78542065
+        },
+        {
+            "type": "track",
+            "trackId": 79361678
+        },
+        {
+            "type": "track",
+            "trackId": 71672311
+        },
+        {
+            "type": "track",
+            "trackId": 63598718
+        },
+        {
+            "type": "track",
+            "trackId": 65156987
+        },
+        {
+            "type": "track",
+            "trackId": 69650240
+        },
+        {
+            "type": "track",
+            "trackId": 71228679
+        }
+    ]
+}

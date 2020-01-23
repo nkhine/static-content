@@ -1,0 +1,126 @@
+{
+    "type": "playlist",
+    "name": "Vintage Rock'n Rolll",
+    "image": "playlist-images/vintage-rock-and-roll.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 6740679
+        },
+        {
+            "type": "track",
+            "trackId": 10562827
+        },
+        {
+            "type": "track",
+            "trackId": 35218868
+        },
+        {
+            "type": "track",
+            "trackId": 41232562
+        },
+        {
+            "type": "track",
+            "trackId": 15510282
+        },
+        {
+            "type": "track",
+            "trackId": 14521339
+        },
+        {
+            "type": "track",
+            "trackId": 6740680
+        },
+        {
+            "type": "track",
+            "trackId": 2706505
+        },
+        {
+            "type": "track",
+            "trackId": 5119337
+        },
+        {
+            "type": "track",
+            "trackId": 14180079
+        },
+        {
+            "type": "track",
+            "trackId": 57024504
+        },
+        {
+            "type": "track",
+            "trackId": 6389671
+        },
+        {
+            "type": "track",
+            "trackId": 12518849
+        },
+        {
+            "type": "track",
+            "trackId": 24205
+        },
+        {
+            "type": "track",
+            "trackId": 2282541
+        },
+        {
+            "type": "track",
+            "trackId": 40426404
+        },
+        {
+            "type": "track",
+            "trackId": 29608486
+        },
+        {
+            "type": "track",
+            "trackId": 16753747
+        },
+        {
+            "type": "track",
+            "trackId": 530701
+        },
+        {
+            "type": "track",
+            "trackId": 14217409
+        },
+        {
+            "type": "track",
+            "trackId": 6877111
+        },
+        {
+            "type": "track",
+            "trackId": 48337750
+        },
+        {
+            "type": "track",
+            "trackId": 17209019
+        },
+        {
+            "type": "track",
+            "trackId": 977464
+        },
+        {
+            "type": "track",
+            "trackId": 15261953
+        },
+        {
+            "type": "track",
+            "trackId": 2662453
+        },
+        {
+            "type": "track",
+            "trackId": 53145096
+        },
+        {
+            "type": "track",
+            "trackId": 16136000
+        },
+        {
+            "type": "track",
+            "trackId": 2127519
+        },
+        {
+            "type": "track",
+            "trackId": 4686783
+        }
+    ]
+}

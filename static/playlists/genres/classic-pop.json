@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/classic-pop.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 4983487
+    },
+    {
+      "type": "track",
+      "trackId": 30983013
+    },
+    {
+      "type": "track",
+      "trackId": 3123595
+    },
+    {
+      "type": "track",
+      "trackId": 6531927
+    },
+    {
+      "type": "track",
+      "trackId": 15104420
+    },
+    {
+      "type": "track",
+      "trackId": 7128757
+    },
+    {
+      "type": "track",
+      "trackId": 3469737
+    },
+    {
+      "type": "track",
+      "trackId": 13545866
+    },
+    {
+      "type": "track",
+      "trackId": 3821493
+    },
+    {
+      "type": "track",
+      "trackId": 3125579
+    },
+    {
+      "type": "track",
+      "trackId": 167431
+    },
+    {
+      "type": "track",
+      "trackId": 4454847
+    },
+    {
+      "type": "track",
+      "trackId": 49785756
+    },
+    {
+      "type": "track",
+      "trackId": 337940
+    },
+    {
+      "type": "track",
+      "trackId": 3223561
+    },
+    {
+      "type": "track",
+      "trackId": 16295494
+    },
+    {
+      "type": "track",
+      "trackId": 159439
+    },
+    {
+      "type": "track",
+      "trackId": 41367652
+    },
+    {
+      "type": "track",
+      "trackId": 42984237
+    },
+    {
+      "type": "track",
+      "trackId": 15614255
+    },
+    {
+      "type": "track",
+      "trackId": 10814631
+    },
+    {
+      "type": "track",
+      "trackId": 1610316
+    },
+    {
+      "type": "track",
+      "trackId": 335823
+    },
+    {
+      "type": "track",
+      "trackId": 2330864
+    },
+    {
+      "type": "track",
+      "trackId": 16171691
+    },
+    {
+      "type": "track",
+      "trackId": 864405
+    },
+    {
+      "type": "track",
+      "trackId": 147736
+    },
+    {
+      "type": "track",
+      "trackId": 1081614
+    },
+    {
+      "type": "track",
+      "trackId": 10297895
+    },
+    {
+      "type": "track",
+      "trackId": 38241686
+    }
+  ]
+}

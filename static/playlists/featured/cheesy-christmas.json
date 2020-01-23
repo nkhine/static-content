@@ -1,0 +1,102 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/christmas.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 3103566
+    },
+    {
+      "type": "track",
+      "trackId": 3468076
+    },
+    {
+      "type": "track",
+      "trackId": 11182370
+    },
+    {
+      "type": "track",
+      "trackId": 10646452
+    },
+    {
+      "type": "track",
+      "trackId": 6828024
+    },
+    {
+      "type": "track",
+      "trackId": 5078486
+    },
+    {
+      "type": "track",
+      "trackId": 33228831
+    },
+    {
+      "type": "track",
+      "trackId": 30407592
+    },
+    {
+      "type": "track",
+      "trackId": 41098906
+    },
+    {
+      "type": "track",
+      "trackId": 50032645
+    },
+    {
+      "type": "track",
+      "trackId": 223225
+    },
+    {
+      "type": "track",
+      "trackId": 55663049
+    },
+    {
+      "type": "track",
+      "trackId": 3525618
+    },
+    {
+      "type": "track",
+      "trackId": 3604879
+    },
+    {
+      "type": "track",
+      "trackId": 4279797
+    },
+    {
+      "type": "track",
+      "trackId": 574852
+    },
+    {
+      "type": "track",
+      "trackId": 253088
+    },
+    {
+      "type": "track",
+      "trackId": 55420987
+    },
+    {
+      "type": "track",
+      "trackId": 11336519
+    },
+    {
+      "type": "track",
+      "trackId": 56554720
+    },
+    {
+      "type": "track",
+      "trackId": 41100146
+    },
+    {
+      "type": "track",
+      "trackId": 10476923
+    },
+    {
+      "type": "track",
+      "trackId": 43397480
+    },
+    {
+      "type": "track",
+      "trackId": 61799960
+    }
+  ]
+}

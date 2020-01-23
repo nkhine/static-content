@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Workout"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Workout",
+      "type": "playlist",
+      "image": "playlist-images/workout.jpg",
+      "playable": "playlists/moods/workout"
+    },
+    {
+      "title": "Work Hard, Play Hard",
+      "type": "playlist",
+      "image": "playlist-images/work-hard-play-hard.jpg",
+      "playable": "playlists/moods/work-hard-play-hard"
+    },
+    {
+      "title": "Zumba",
+      "type": "playlist",
+      "image": "playlist-images/zumba.jpg",
+      "playable": "playlists/moods/zumba"
+    },
+    {
+      "title": "Pump It Up",
+      "type": "playlist",
+      "image": "playlist-images/pump-it-up.jpg",
+      "playable": "playlists/moods/pump-it-up"
+    },
+    {
+      "title": "Yoga",
+      "type": "playlist",
+      "image": "playlist-images/yoga.jpg",
+      "playable": "playlists/moods/yoga-2"
+    },
+    {
+      "title": "Spa and Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/spa-and-relaxation.jpg",
+      "playable": "playlists/moods/spa-and-relaxation"
+    }
+  ]
+}

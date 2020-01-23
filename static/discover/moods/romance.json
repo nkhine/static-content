@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Romance"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Significant Other",
+      "type": "playlist",
+      "image": "playlist-images/significant-other.jpg",
+      "playable": "playlists/moods/significant-other"
+    },
+    {
+      "title": "With or Without You",
+      "type": "playlist",
+      "image": "playlist-images/stay-together.jpg",
+      "playable": "playlists/moods/stay-together"
+    },
+    {
+      "title": "Beautiful Love Songs",
+      "type": "playlist",
+      "image": "playlist-images/most-beautiful-love-songs.jpg",
+      "playable": "playlists/moods/beautiful-love-songs"
+    },
+    {
+      "title": "Seduction",
+      "type": "playlist",
+      "image": "playlist-images/seduction.jpg",
+      "playable": "playlists/moods/seduction"
+    },
+    {
+      "title": "Cry Me A River",
+      "type": "playlist",
+      "image": "playlist-images/cry-me-a-river.jpg",
+      "playable": "playlists/moods/cry-me-a-river"
+    },
+    {
+      "title": "Wedding Ceremony",
+      "type": "playlist",
+      "image": "playlist-images/wedding-ceremony.jpg",
+      "playable": "playlists/moods/wedding-ceremony"
+    },
+    {
+      "title": "The First Dance",
+      "type": "playlist",
+      "image": "playlist-images/wedding-first-dance.jpg",
+      "playable": "playlists/moods/the-first-dance"
+    }
+  ]
+}

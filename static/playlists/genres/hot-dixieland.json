@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/dixieland.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 18128523
+    },
+    {
+      "type": "track",
+      "trackId": 3207612
+    },
+    {
+      "type": "track",
+      "trackId": 14423604
+    },
+    {
+      "type": "track",
+      "trackId": 19234328
+    },
+    {
+      "type": "track",
+      "trackId": 19234329
+    },
+    {
+      "type": "track",
+      "trackId": 9533036
+    },
+    {
+      "type": "track",
+      "trackId": 33198220
+    },
+    {
+      "type": "track",
+      "trackId": 19246930
+    },
+    {
+      "type": "track",
+      "trackId": 37654363
+    },
+    {
+      "type": "track",
+      "trackId": 300411
+    },
+    {
+      "type": "track",
+      "trackId": 44086389
+    },
+    {
+      "type": "track",
+      "trackId": 6184535
+    },
+    {
+      "type": "track",
+      "trackId": 42962899
+    },
+    {
+      "type": "track",
+      "trackId": 13618098
+    },
+    {
+      "type": "track",
+      "trackId": 21357579
+    },
+    {
+      "type": "track",
+      "trackId": 31956094
+    },
+    {
+      "type": "track",
+      "trackId": 14058608
+    },
+    {
+      "type": "track",
+      "trackId": 34488669
+    },
+    {
+      "type": "track",
+      "trackId": 3979760
+    },
+    {
+      "type": "track",
+      "trackId": 12184371
+    },
+    {
+      "type": "track",
+      "trackId": 8052758
+    },
+    {
+      "type": "track",
+      "trackId": 7544096
+    },
+    {
+      "type": "track",
+      "trackId": 49714674
+    },
+    {
+      "type": "track",
+      "trackId": 1439850
+    },
+    {
+      "type": "track",
+      "trackId": 18186316
+    },
+    {
+      "type": "track",
+      "trackId": 13622490
+    },
+    {
+      "type": "track",
+      "trackId": 43091152
+    },
+    {
+      "type": "track",
+      "trackId": 37566073
+    },
+    {
+      "type": "track",
+      "trackId": 22939305
+    },
+    {
+      "type": "track",
+      "trackId": 18117213
+    }
+  ]
+}

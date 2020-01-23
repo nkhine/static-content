@@ -1,0 +1,103 @@
+{
+    "type": "playlist",
+    "name": "Stay Or Go",
+    "image": "playlist-images/stay-or-go.jpg",
+    "playables": [
+        {
+            "type": "track",
+            "trackId": 30725607
+        },
+        {
+            "type": "track",
+            "trackId": 15144602
+        },
+        {
+            "type": "track",
+            "trackId": 67631645
+        },
+        {
+            "type": "track",
+            "trackId": 1321662
+        },
+        {
+            "type": "track",
+            "trackId": 460681
+        },
+        {
+            "type": "track",
+            "trackId": 18855352
+        },
+        {
+            "type": "track",
+            "trackId": 5025211
+        },
+        {
+            "type": "track",
+            "trackId": 85815
+        },
+        {
+            "type": "track",
+            "trackId": 2925427
+        },
+        {
+            "type": "track",
+            "trackId": 30736063
+        },
+        {
+            "type": "track",
+            "trackId": 80952919
+        },
+        {
+            "type": "track",
+            "trackId": 5119368
+        },
+        {
+            "type": "track",
+            "trackId": 30725540
+        },
+        {
+            "type": "track",
+            "trackId": 40702879
+        },
+        {
+            "type": "track",
+            "trackId": 5134201
+        },
+        {
+            "type": "track",
+            "trackId": 15488268
+        },
+        {
+            "type": "track",
+            "trackId": 523348
+        },
+        {
+            "type": "track",
+            "trackId": 39898020
+        },
+        {
+            "type": "track",
+            "trackId": 37039221
+        },
+        {
+            "type": "track",
+            "trackId": 13481
+        },
+        {
+            "type": "track",
+            "trackId": 41011804
+        },
+        {
+            "type": "track",
+            "trackId": 2350093
+        },
+        {
+            "type": "track",
+            "trackId": 3350059
+        },
+        {
+            "type": "track",
+            "trackId": 1401859
+        }
+    ]
+}

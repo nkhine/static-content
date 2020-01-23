@@ -1,0 +1,122 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/classix-jazz.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 34599936
+    },
+    {
+      "type": "track",
+      "trackId": 46479143
+    },
+    {
+      "type": "track",
+      "trackId": 20340814
+    },
+    {
+      "type": "track",
+      "trackId": 32353195
+    },
+    {
+      "type": "track",
+      "trackId": 4143847
+    },
+    {
+      "type": "track",
+      "trackId": 13668808
+    },
+    {
+      "type": "track",
+      "trackId": 39824603
+    },
+    {
+      "type": "track",
+      "trackId": 792677
+    },
+    {
+      "type": "track",
+      "trackId": 6689972
+    },
+    {
+      "type": "track",
+      "trackId": 172971
+    },
+    {
+      "type": "track",
+      "trackId": 47395735
+    },
+    {
+      "type": "track",
+      "trackId": 13370149
+    },
+    {
+      "type": "track",
+      "trackId": 250144
+    },
+    {
+      "type": "track",
+      "trackId": 793243
+    },
+    {
+      "type": "track",
+      "trackId": 1356368
+    },
+    {
+      "type": "track",
+      "trackId": 19004654
+    },
+    {
+      "type": "track",
+      "trackId": 29167509
+    },
+    {
+      "type": "track",
+      "trackId": 29163417
+    },
+    {
+      "type": "track",
+      "trackId": 14654050
+    },
+    {
+      "type": "track",
+      "trackId": 39748921
+    },
+    {
+      "type": "track",
+      "trackId": 34427162
+    },
+    {
+      "type": "track",
+      "trackId": 11212290
+    },
+    {
+      "type": "track",
+      "trackId": 19890509
+    },
+    {
+      "type": "track",
+      "trackId": 17182203
+    },
+    {
+      "type": "track",
+      "trackId": 19047337
+    },
+    {
+      "type": "track",
+      "trackId": 35368409
+    },
+    {
+      "type": "track",
+      "trackId": 3704459
+    },
+    {
+      "type": "track",
+      "trackId": 4500286
+    },
+    {
+      "type": "track",
+      "trackId": 30815808
+    }
+  ]
+}

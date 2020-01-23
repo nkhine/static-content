@@ -1,0 +1,122 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/rwaf-05.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 41053065
+    },
+    {
+      "type": "track",
+      "trackId": 40021000
+    },
+    {
+      "type": "track",
+      "trackId": 37472672
+    },
+    {
+      "type": "track",
+      "trackId": 47647752
+    },
+    {
+      "type": "track",
+      "trackId": 14756615
+    },
+    {
+      "type": "track",
+      "trackId": 43420154
+    },
+    {
+      "type": "track",
+      "trackId": 46715337
+    },
+    {
+      "type": "track",
+      "trackId": 44520396
+    },
+    {
+      "type": "track",
+      "trackId": 44892083
+    },
+    {
+      "type": "track",
+      "trackId": 31478635
+    },
+    {
+      "type": "track",
+      "trackId": 48779500
+    },
+    {
+      "type": "track",
+      "trackId": 21508013
+    },
+    {
+      "type": "track",
+      "trackId": 39408178
+    },
+    {
+      "type": "track",
+      "trackId": 3238075
+    },
+    {
+      "type": "track",
+      "trackId": 3821487
+    },
+    {
+      "type": "track",
+      "trackId": 48745213
+    },
+    {
+      "type": "track",
+      "trackId": 157870
+    },
+    {
+      "type": "track",
+      "trackId": 14531914
+    },
+    {
+      "type": "track",
+      "trackId": 44132659
+    },
+    {
+      "type": "track",
+      "trackId": 432774
+    },
+    {
+      "type": "track",
+      "trackId": 45086662
+    },
+    {
+      "type": "track",
+      "trackId": 14355263
+    },
+    {
+      "type": "track",
+      "trackId": 15025997
+    },
+    {
+      "type": "track",
+      "trackId": 39517935
+    },
+    {
+      "type": "track",
+      "trackId": 21813452
+    },
+    {
+      "type": "track",
+      "trackId": 17537355
+    },
+    {
+      "type": "track",
+      "trackId": 17296512
+    },
+    {
+      "type": "track",
+      "trackId": 16524705
+    },
+    {
+      "type": "track",
+      "trackId": 17252445
+    }
+  ]
+}

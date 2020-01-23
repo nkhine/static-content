@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/ready-for-the-weekend.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 6069068
+    },
+    {
+      "type": "track",
+      "trackId": 920488
+    },
+    {
+      "type": "track",
+      "trackId": 5365271
+    },
+    {
+      "type": "track",
+      "trackId": 7033734
+    },
+    {
+      "type": "track",
+      "trackId": 89413
+    },
+    {
+      "type": "track",
+      "trackId": 10793
+    },
+    {
+      "type": "track",
+      "trackId": 5554688
+    },
+    {
+      "type": "track",
+      "trackId": 2122976
+    },
+    {
+      "type": "track",
+      "trackId": 43713261
+    },
+    {
+      "type": "track",
+      "trackId": 7128752
+    },
+    {
+      "type": "track",
+      "trackId": 1157434
+    },
+    {
+      "type": "track",
+      "trackId": 28905854
+    },
+    {
+      "type": "track",
+      "trackId": 1382739
+    },
+    {
+      "type": "track",
+      "trackId": 47117941
+    },
+    {
+      "type": "track",
+      "trackId": 41011766
+    },
+    {
+      "type": "track",
+      "trackId": 171934
+    },
+    {
+      "type": "track",
+      "trackId": 581719
+    },
+    {
+      "type": "track",
+      "trackId": 15866949
+    },
+    {
+      "type": "track",
+      "trackId": 13248205
+    },
+    {
+      "type": "track",
+      "trackId": 37707220
+    },
+    {
+      "type": "track",
+      "trackId": 339913
+    },
+    {
+      "type": "track",
+      "trackId": 11297423
+    },
+    {
+      "type": "track",
+      "trackId": 15614255
+    },
+    {
+      "type": "track",
+      "trackId": 45606551
+    },
+    {
+      "type": "track",
+      "trackId": 2084799
+    },
+    {
+      "type": "track",
+      "trackId": 14180077
+    },
+    {
+      "type": "track",
+      "trackId": 33149394
+    },
+    {
+      "type": "track",
+      "trackId": 3481728
+    },
+    {
+      "type": "track",
+      "trackId": 2899043
+    },
+    {
+      "type": "track",
+      "trackId": 15184507
+    }
+  ]
+}

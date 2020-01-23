@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/soft-rock.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 143770
+    },
+    {
+      "type": "track",
+      "trackId": 7101522
+    },
+    {
+      "type": "track",
+      "trackId": 30041737
+    },
+    {
+      "type": "track",
+      "trackId": 523353
+    },
+    {
+      "type": "track",
+      "trackId": 93307
+    },
+    {
+      "type": "track",
+      "trackId": 37081560
+    },
+    {
+      "type": "track",
+      "trackId": 2899040
+    },
+    {
+      "type": "track",
+      "trackId": 7422129
+    },
+    {
+      "type": "track",
+      "trackId": 560287
+    },
+    {
+      "type": "track",
+      "trackId": 32412409
+    },
+    {
+      "type": "track",
+      "trackId": 470558
+    },
+    {
+      "type": "track",
+      "trackId": 5558024
+    },
+    {
+      "type": "track",
+      "trackId": 170565
+    },
+    {
+      "type": "track",
+      "trackId": 15487715
+    },
+    {
+      "type": "track",
+      "trackId": 8384
+    },
+    {
+      "type": "track",
+      "trackId": 43221807
+    },
+    {
+      "type": "track",
+      "trackId": 37926228
+    },
+    {
+      "type": "track",
+      "trackId": 16291458
+    },
+    {
+      "type": "track",
+      "trackId": 22126278
+    },
+    {
+      "type": "track",
+      "trackId": 11835552
+    },
+    {
+      "type": "track",
+      "trackId": 5025225
+    },
+    {
+      "type": "track",
+      "trackId": 497438
+    },
+    {
+      "type": "track",
+      "trackId": 2630633
+    },
+    {
+      "type": "track",
+      "trackId": 6407139
+    },
+    {
+      "type": "track",
+      "trackId": 3247829
+    }
+  ]
+}

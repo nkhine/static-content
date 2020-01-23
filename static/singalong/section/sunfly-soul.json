@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Karaoke",
+    "subtitle": "Soul"
+  },
+  "page": {
+    "background": "party"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "50s & 60s",
+      "iconColor": "pink",
+      "role": "karoke-sunfly-soul-60s",
+      "url": "/karaoke/genres/sunfly-soul-60s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "70s",
+      "iconColor": "pink",
+      "role": "karoke-sunfly-soul-70s",
+      "url": "/karaoke/genres/sunfly-soul-70s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "80s",
+      "iconColor": "pink",
+      "role": "karoke-sunfly-soul-80s",
+      "url": "/karaoke/genres/sunfly-soul-80s"
+    }
+  ]
+}

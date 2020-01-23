@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/date-night.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 6318832
+    },
+    {
+      "type": "track",
+      "trackId": 11627938
+    },
+    {
+      "type": "track",
+      "trackId": 15325110
+    },
+    {
+      "type": "track",
+      "trackId": 30682576
+    },
+    {
+      "type": "track",
+      "trackId": 42350252
+    },
+    {
+      "type": "track",
+      "trackId": 32492461
+    },
+    {
+      "type": "track",
+      "trackId": 5741789
+    },
+    {
+      "type": "track",
+      "trackId": 2330863
+    },
+    {
+      "type": "track",
+      "trackId": 29519839
+    },
+    {
+      "type": "track",
+      "trackId": 29252677
+    },
+    {
+      "type": "track",
+      "trackId": 5546158
+    },
+    {
+      "type": "track",
+      "trackId": 3162057
+    },
+    {
+      "type": "track",
+      "trackId": 4232622
+    },
+    {
+      "type": "track",
+      "trackId": 4621797
+    },
+    {
+      "type": "track",
+      "trackId": 36390209
+    },
+    {
+      "type": "track",
+      "trackId": 3128950
+    },
+    {
+      "type": "track",
+      "trackId": 30989540
+    },
+    {
+      "type": "track",
+      "trackId": 864400
+    },
+    {
+      "type": "track",
+      "trackId": 2853708
+    },
+    {
+      "type": "track",
+      "trackId": 4143135
+    },
+    {
+      "type": "track",
+      "trackId": 1321664
+    },
+    {
+      "type": "track",
+      "trackId": 331087
+    },
+    {
+      "type": "track",
+      "trackId": 5971019
+    },
+    {
+      "type": "track",
+      "trackId": 14180076
+    },
+    {
+      "type": "track",
+      "trackId": 47051557
+    },
+    {
+      "type": "track",
+      "trackId": 37142984
+    },
+    {
+      "type": "track",
+      "trackId": 1081599
+    },
+    {
+      "type": "track",
+      "trackId": 37907526
+    },
+    {
+      "type": "track",
+      "trackId": 14485660
+    },
+    {
+      "type": "track",
+      "trackId": 4935790
+    }
+  ]
+}

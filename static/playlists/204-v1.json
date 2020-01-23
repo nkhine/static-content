@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/christmas-greats.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 41351255
+    },
+    {
+      "type": "track",
+      "trackId": 3221348
+    },
+    {
+      "type": "track",
+      "trackId": 73510112
+    },
+    {
+      "type": "track",
+      "trackId": 22466485
+    },
+    {
+      "type": "track",
+      "trackId": 68993815
+    },
+    {
+      "type": "track",
+      "trackId": 78398365
+    },
+    {
+      "type": "track",
+      "trackId": 5285705
+    },
+    {
+      "type": "track",
+      "trackId": 12850771
+    },
+    {
+      "type": "track",
+      "trackId": 51244200
+    },
+    {
+      "type": "track",
+      "trackId": 21908676
+    },
+    {
+      "type": "track",
+      "trackId": 33901309
+    },
+    {
+      "type": "track",
+      "trackId": 54842144
+    },
+    {
+      "type": "track",
+      "trackId": 3224031
+    },
+    {
+      "type": "track",
+      "trackId": 68172209
+    },
+    {
+      "type": "track",
+      "trackId": 50263980
+    },
+    {
+      "type": "track",
+      "trackId": 67628551
+    },
+    {
+      "type": "track",
+      "trackId": 22698016
+    },
+    {
+      "type": "track",
+      "trackId": 19780828
+    },
+    {
+      "type": "track",
+      "trackId": 2033978
+    },
+    {
+      "type": "track",
+      "trackId": 74237884
+    },
+    {
+      "type": "track",
+      "trackId": 21146801
+    },
+    {
+      "type": "track",
+      "trackId": 59404394
+    },
+    {
+      "type": "track",
+      "trackId": 2033920
+    },
+    {
+      "type": "track",
+      "trackId": 2033917
+    },
+    {
+      "type": "track",
+      "trackId": 2033929
+    },
+    {
+      "type": "track",
+      "trackId": 51796797
+    },
+    {
+      "type": "track",
+      "trackId": 43824235
+    },
+    {
+      "type": "track",
+      "trackId": 22466484
+    },
+    {
+      "type": "track",
+      "trackId": 58829163
+    },
+    {
+      "type": "track",
+      "trackId": 33901508
+    }
+  ]
+}

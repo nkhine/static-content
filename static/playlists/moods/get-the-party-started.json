@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/get-the-party-started.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 64281554
+    },
+    {
+      "type": "track",
+      "trackId": 60629192
+    },
+    {
+      "type": "track",
+      "trackId": 65832037
+    },
+    {
+      "type": "track",
+      "trackId": 66137194
+    },
+    {
+      "type": "track",
+      "trackId": 62678715
+    },
+    {
+      "type": "track",
+      "trackId": 64098099
+    },
+    {
+      "type": "track",
+      "trackId": 61198267
+    },
+    {
+      "type": "track",
+      "trackId": 63075734
+    },
+    {
+      "type": "track",
+      "trackId": 63852054
+    },
+    {
+      "type": "track",
+      "trackId": 61801860
+    },
+    {
+      "type": "track",
+      "trackId": 63912319
+    },
+    {
+      "type": "track",
+      "trackId": 65686719
+    },
+    {
+      "type": "track",
+      "trackId": 61356108
+    },
+    {
+      "type": "track",
+      "trackId": 64093727
+    },
+    {
+      "type": "track",
+      "trackId": 63645638
+    },
+    {
+      "type": "track",
+      "trackId": 35293836
+    },
+    {
+      "type": "track",
+      "trackId": 2853689
+    },
+    {
+      "type": "track",
+      "trackId": 1271469
+    },
+    {
+      "type": "track",
+      "trackId": 30136783
+    },
+    {
+      "type": "track",
+      "trackId": 19212564
+    },
+    {
+      "type": "track",
+      "trackId": 19997421
+    },
+    {
+      "type": "track",
+      "trackId": 16267164
+    },
+    {
+      "type": "track",
+      "trackId": 16634394
+    },
+    {
+      "type": "track",
+      "trackId": 9970560
+    },
+    {
+      "type": "track",
+      "trackId": 17540905
+    },
+    {
+      "type": "track",
+      "trackId": 3732471
+    },
+    {
+      "type": "track",
+      "trackId": 3177077
+    },
+    {
+      "type": "track",
+      "trackId": 5840206
+    },
+    {
+      "type": "track",
+      "trackId": 339913
+    },
+    {
+      "type": "track",
+      "trackId": 6406776
+    }
+  ]
+}

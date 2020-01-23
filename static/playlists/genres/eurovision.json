@@ -1,0 +1,90 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/eurovision.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 15180551
+    },
+    {
+      "type": "track",
+      "trackId": 17418541
+    },
+    {
+      "type": "track",
+      "trackId": 29212923
+    },
+    {
+      "type": "track",
+      "trackId": 35953214
+    },
+    {
+      "type": "track",
+      "trackId": 52301213
+    },
+    {
+      "type": "track",
+      "trackId": 51402971
+    },
+    {
+      "type": "track",
+      "trackId": 51391569
+    },
+    {
+      "type": "track",
+      "trackId": 36360864
+    },
+    {
+      "type": "track",
+      "trackId": 49544898
+    },
+    {
+      "type": "track",
+      "trackId": 48255032
+    },
+    {
+      "type": "track",
+      "trackId": 16891281
+    },
+    {
+      "type": "track",
+      "trackId": 43057998
+    },
+    {
+      "type": "track",
+      "trackId": 9371724
+    },
+    {
+      "type": "track",
+      "trackId": 23582243
+    },
+    {
+      "type": "track",
+      "trackId": 8012150
+    },
+    {
+      "type": "track",
+      "trackId": 9126355
+    },
+    {
+      "type": "track",
+      "trackId": 7894447
+    },
+    {
+      "type": "track",
+      "trackId": 43182196
+    },
+    {
+      "type": "track",
+      "trackId": 4313450
+    },
+    {
+      "type": "track",
+      "trackId": 7894235
+    },
+    {
+      "type": "track",
+      "trackId": 21303720
+    }
+  ]
+}

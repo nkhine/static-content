@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/pumpkin.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 11614327
+    },
+    {
+      "type": "track",
+      "trackId": 40266244
+    },
+    {
+      "type": "track",
+      "trackId": 8281457
+    },
+    {
+      "type": "track",
+      "trackId": 18065482
+    },
+    {
+      "type": "track",
+      "trackId": 4671093
+    },
+    {
+      "type": "track",
+      "trackId": 42921844
+    },
+    {
+      "type": "track",
+      "trackId": 37253004
+    },
+    {
+      "type": "track",
+      "trackId": 716677
+    },
+    {
+      "type": "track",
+      "trackId": 55543335
+    },
+    {
+      "type": "track",
+      "trackId": 4507
+    },
+    {
+      "type": "track",
+      "trackId": 4088707
+    },
+    {
+      "type": "track",
+      "trackId": 13065440
+    },
+    {
+      "type": "track",
+      "trackId": 11027293
+    },
+    {
+      "type": "track",
+      "trackId": 4476611
+    },
+    {
+      "type": "track",
+      "trackId": 541753
+    },
+    {
+      "type": "track",
+      "trackId": 143153
+    },
+    {
+      "type": "track",
+      "trackId": 10289833
+    },
+    {
+      "type": "track",
+      "trackId": 40351667
+    },
+    {
+      "type": "track",
+      "trackId": 53593023
+    },
+    {
+      "type": "track",
+      "trackId": 65616712
+    },
+    {
+      "type": "track",
+      "trackId": 1374011
+    },
+    {
+      "type": "track",
+      "trackId": 4600204
+    },
+    {
+      "type": "track",
+      "trackId": 58682560
+    },
+    {
+      "type": "track",
+      "trackId": 9432118
+    },
+    {
+      "type": "track",
+      "trackId": 1410349
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "playlist",
+	"image": "playlist-images/soundmachine.jpg",
+	"preferredVisualiser": "Sleep/",
+	"activatesVisualiser": true,
+	"playables": [
+		{ "type": "track", "trackId": 12309144 }
+	],
+	"crossfade": {
+		"playlist": {
+			"in": 5000,
+			"out": 30000
+		},
+		"trackDefaults": {
+			"in": 20000,
+			"out": 20000,
+			"cross": 20000
+		}
+	}
+}

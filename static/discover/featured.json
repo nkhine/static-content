@@ -1,0 +1,149 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Featured"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Mother's Day",
+      "type": "playlist",
+      "image": "playlist-images/mothers-day.jpg",
+      "playable": "playlists/featured/mothers-day"
+    },
+    {
+      "title": "Stay or Go?",
+      "type": "playlist",
+      "image": "playlist-images/stay-or-go.jpg",
+      "playable": "playlists/featured/stay-or-go"
+    },
+    {
+      "title": "Christmas Greats",
+      "type": "playlist",
+      "image": "playlist-images/christmas-greats.jpg",
+      "playable": "playlists/featured/christmas-greats"
+    },
+    {
+      "title": "Cheesy Christmas",
+      "type": "playlist",
+      "image": "playlist-images/christmas.jpg",
+      "playable": "playlists/featured/cheesy-christmas"
+    },
+    {
+      "title": "Modern Christmas",
+      "type": "playlist",
+      "image": "playlist-images/xmas.jpg",
+      "playable": "playlists/featured/modern-christmas"
+    },
+    {
+      "title": "New Years Eve Party",
+      "type": "playlist",
+      "image": "playlist-images/ladies-night.jpg",
+      "playable": "playlists/featured/nye-party"
+    }, 
+    {
+      "title": "Glastonstock",
+      "type": "playlist",
+      "image": "playlist-images/festivalfun.jpg",
+      "playable": "playlists/featured/festival-fun"
+    },
+    {
+      "title": "Fun Times",
+      "type": "playlist",
+      "image": "playlist-images/get-the-party-started.jpg",
+      "playable": "playlists/moods/funtimes"
+    },
+    {
+      "title": "NME Awards 2018",
+      "type": "playlist",
+      "image": "playlist-images/nme2018.jpg",
+      "playable": "playlists/featured/nme-awards-2018"
+    },
+    {
+      "title": "Love Connection",
+      "type": "playlist",
+      "image": "playlist-images/love-connection.jpg",
+      "playable": "playlists/featured/love-connection"
+    },
+    {
+      "title": "Grammys",
+      "type": "playlist",
+      "image": "playlist-images/grammys.jpg",
+      "playable": "playlists/featured/grammys"
+    },
+    {
+      "title": "Ones to Watch 2018",
+      "type": "playlist",
+      "image": "playlist-images/onestowatch.jpg",
+      "playable": "playlists/featured/ones-to-watch"
+    },
+    {
+      "title": "Best of 2017",
+      "type": "playlist",
+      "image": "playlist-images/bestof2017.jpg",
+      "playable": "playlists/featured/best-of-2017"
+    },
+    {
+      "title": "Workout",
+      "type": "playlist",
+      "image": "playlist-images/workout.jpg",
+      "playable": "playlists/moods/workout"
+    },
+    {
+      "title": "Zumba",
+      "type": "playlist",
+      "image": "playlist-images/zumba.jpg",
+      "playable": "playlists/moods/zumba"
+    },
+    {
+      "title": "Pump It Up",
+      "type": "playlist",
+      "image": "playlist-images/pump-it-up.jpg",
+      "playable": "playlists/moods/pump-it-up"
+    },
+    {
+      "title": "Get The Party Started",
+      "type": "playlist",
+      "image": "playlist-images/get-the-party-started.jpg",
+      "playable": "playlists/moods/get-the-party-started"
+    },
+    {
+      "title": "Going Out",
+      "type": "playlist",
+      "image": "playlist-images/going-out.jpg",
+      "playable": "playlists/moods/going-out"
+    },
+    {
+      "title": "Friday Feeling",
+      "type": "playlist",
+      "image": "playlist-images/fridayfeeling.jpg",
+      "playable": "playlists/moods/friday-feeling"
+    },
+    {
+      "title": "House Party",
+      "type": "playlist",
+      "image": "playlist-images/house-party.jpg",
+      "playable": "playlists/genres/house-party"
+    },
+    {
+      "title": "Kids Halloween Party",
+      "type": "playlist",
+      "image": "playlist-images/pumpkin-white.jpg",
+      "playable": "playlists/featured/kids-haloween"
+    },
+    {
+      "title": "Spooky Tunes",
+      "type": "playlist",
+      "image": "playlist-images/ghost.jpg",
+      "playable": "playlists/featured/spookytunes"
+    },
+    {
+      "title": "Halloween House Party",
+      "type": "playlist",
+      "image": "playlist-images/pumpkin.jpg",
+      "playable": "playlists/featured/haloweenhouseparty"
+    }
+  ]
+}

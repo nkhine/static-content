@@ -1,0 +1,186 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/grammys.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 54825355
+    },
+    {
+      "type": "track",
+      "trackId": 55044128
+    },
+    {
+      "type": "track",
+      "trackId": 55071248
+    },
+    {
+      "type": "track",
+      "trackId": 56104982
+    },
+    {
+      "type": "track",
+      "trackId": 57799152
+    },
+    {
+      "type": "track",
+      "trackId": 58418536
+    },
+    {
+      "type": "track",
+      "trackId": 58441631
+    },
+    {
+      "type": "track",
+      "trackId": 58442871
+    },
+    {
+      "type": "track",
+      "trackId": 58679482
+    },
+    {
+      "type": "track",
+      "trackId": 59226626
+    },
+    {
+      "type": "track",
+      "trackId": 59262037
+    },
+    {
+      "type": "track",
+      "trackId": 59313978
+    },
+    {
+      "type": "track",
+      "trackId": 59313981
+    },
+    {
+      "type": "track",
+      "trackId": 59313981
+    },
+    {
+      "type": "track",
+      "trackId": 60006001
+    },
+    {
+      "type": "track",
+      "trackId": 60428172
+    },
+    {
+      "type": "track",
+      "trackId": 61063421
+    },
+    {
+      "type": "track",
+      "trackId": 61063845
+    },
+    {
+      "type": "track",
+      "trackId": 61415417
+    },
+    {
+      "type": "track",
+      "trackId": 61453155
+    },
+    {
+      "type": "track",
+      "trackId": 61560069
+    },
+    {
+      "type": "track",
+      "trackId": 61666326
+    },
+    {
+      "type": "track",
+      "trackId": 61801860
+    },
+    {
+      "type": "track",
+      "trackId": 62674283
+    },
+    {
+      "type": "track",
+      "trackId": 63060590
+    },
+    {
+      "type": "track",
+      "trackId": 63075671
+    },
+    {
+      "type": "track",
+      "trackId": 63091799
+    },
+    {
+      "type": "track",
+      "trackId": 63665897
+    },
+    {
+      "type": "track",
+      "trackId": 63781352
+    },
+    {
+      "type": "track",
+      "trackId": 63869987
+    },
+    {
+      "type": "track",
+      "trackId": 63869992
+    },
+    {
+      "type": "track",
+      "trackId": 63988349
+    },
+    {
+      "type": "track",
+      "trackId": 64186580
+    },
+    {
+      "type": "track",
+      "trackId": 64457949
+    },
+    {
+      "type": "track",
+      "trackId": 65148132
+    },
+    {
+      "type": "track",
+      "trackId": 65404792
+    },
+    {
+      "type": "track",
+      "trackId": 65404795
+    },
+    {
+      "type": "track",
+      "trackId": 66295670
+    },
+    {
+      "type": "track",
+      "trackId": 66324906
+    },
+    {
+      "type": "track",
+      "trackId": 66447954
+    },
+    {
+      "type": "track",
+      "trackId": 66704889
+    },
+    {
+      "type": "track",
+      "trackId": 66820456
+    },
+    {
+      "type": "track",
+      "trackId": 67119552
+    },
+    {
+      "type": "track",
+      "trackId": 69649245
+    },
+    {
+      "type": "track",
+      "trackId": 69649254
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Sound Machine",
+    "subtitle": "Sleep"
+  },
+  "page": {
+    "background": "soundmachine"
+  },
+  "linkPlayables": false,
+  "items": [
+    {
+      "type": "icon",
+      "icon": "womb",
+      "iconColor": "red",
+      "title": "Heartbeat",
+      "role": "soundmachine-heartbeat",
+      "playable": "playlists/soundmachine/heartbeat",
+      "image": "playlist-images/soundmachine.jpg"
+    },
+    {
+      "type": "icon",
+      "icon": "whitenoise",
+      "iconColor": "red",
+      "title": "White Noise",
+      "role": "soundmachine-white-noise",
+      "playable": "playlists/soundmachine/white-noise",
+      "image": "playlist-images/soundmachine.jpg"
+    }
+  ]
+}

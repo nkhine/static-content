@@ -1,0 +1,50 @@
+{
+	"type": "playlist",
+	"image": "playlist-images/soundmachine.jpg",
+	"preferredVisualiser": "Space/",
+	"activatesVisualiser": true,
+	"playables": [
+		{ "type": "track", "trackId": 52207428 },
+		{ "type": "track", "trackId": 61045983 },
+		{ "type": "track", "trackId": 52207484 },
+		{ "type": "track", "trackId": 50955584 },
+		{ "type": "track", "trackId": 50955591 },
+		{ "type": "track", "trackId": 50955599 },
+		{ "type": "track", "trackId": 50955594 },
+		{ "type": "track", "trackId": 52207409 },
+		{ "type": "track", "trackId": 52207407 },
+		{ "type": "track", "trackId": 152207413 },
+		{ "type": "track", "trackId": 52207435 },
+		{ "type": "track", "trackId": 50955589 },
+		{ "type": "track", "trackId": 50955604 }
+	],
+	"crossfade": {
+		"playlist": {
+			"in": 5000,
+			"out": 30000
+		},
+		"trackDefaults": {
+			"in": 5000,
+			"out": 5000,
+			"cross": 5000
+		},
+		"tracks": [
+			{
+				"trackIds": [52207428],
+				"timings": {
+					"in": 2000,
+					"out": 15000,
+					"cross": 5000
+				}
+			},
+			{
+				"trackIds": [61045983, 52207484, 50955584],
+				"timings": {
+					"in": 0,
+					"out": 0,
+					"cross": 0
+				}
+			}
+		]
+	}
+}

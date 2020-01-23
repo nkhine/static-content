@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/riviera-road-trip.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 18917672
+    },
+    {
+      "type": "track",
+      "trackId": 2361529
+    },
+    {
+      "type": "track",
+      "trackId": 38322917
+    },
+    {
+      "type": "track",
+      "trackId": 39408178
+    },
+    {
+      "type": "track",
+      "trackId": 12685745
+    },
+    {
+      "type": "track",
+      "trackId": 32260173
+    },
+    {
+      "type": "track",
+      "trackId": 5287855
+    },
+    {
+      "type": "track",
+      "trackId": 38296848
+    },
+    {
+      "type": "track",
+      "trackId": 45177340
+    },
+    {
+      "type": "track",
+      "trackId": 1114914
+    },
+    {
+      "type": "track",
+      "trackId": 1653229
+    },
+    {
+      "type": "track",
+      "trackId": 208625
+    },
+    {
+      "type": "track",
+      "trackId": 67487533
+    },
+    {
+      "type": "track",
+      "trackId": 359391
+    },
+    {
+      "type": "track",
+      "trackId": 68666796
+    },
+    {
+      "type": "track",
+      "trackId": 30632890
+    },
+    {
+      "type": "track",
+      "trackId": 4252752
+    },
+    {
+      "type": "track",
+      "trackId": 36584006
+    },
+    {
+      "type": "track",
+      "trackId": 49736912
+    },
+    {
+      "type": "track",
+      "trackId": 48589393
+    },
+    {
+      "type": "track",
+      "trackId": 29002661
+    },
+    {
+      "type": "track",
+      "trackId": 4678825
+    },
+    {
+      "type": "track",
+      "trackId": 5923752
+    },
+    {
+      "type": "track",
+      "trackId": 3226479
+    },
+    {
+      "type": "track",
+      "trackId": 3543428
+    }
+  ]
+}

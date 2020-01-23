@@ -1,0 +1,98 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/so-over-punk.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 94147
+    },
+    {
+      "type": "track",
+      "trackId": 47702761
+    },
+    {
+      "type": "track",
+      "trackId": 5684774
+    },
+    {
+      "type": "track",
+      "trackId": 240187
+    },
+    {
+      "type": "track",
+      "trackId": 30433755
+    },
+    {
+      "type": "track",
+      "trackId": 1570272
+    },
+    {
+      "type": "track",
+      "trackId": 2350089
+    },
+    {
+      "type": "track",
+      "trackId": 4958909
+    },
+    {
+      "type": "track",
+      "trackId": 22762586
+    },
+    {
+      "type": "track",
+      "trackId": 9552144
+    },
+    {
+      "type": "track",
+      "trackId": 11994055
+    },
+    {
+      "type": "track",
+      "trackId": 307874
+    },
+    {
+      "type": "track",
+      "trackId": 6957183
+    },
+    {
+      "type": "track",
+      "trackId": 9403994
+    },
+    {
+      "type": "track",
+      "trackId": 943028
+    },
+    {
+      "type": "track",
+      "trackId": 1353946
+    },
+    {
+      "type": "track",
+      "trackId": 4293997
+    },
+    {
+      "type": "track",
+      "trackId": 32466021
+    },
+    {
+      "type": "track",
+      "trackId": 7197759
+    },
+    {
+      "type": "track",
+      "trackId": 16079902
+    },
+    {
+      "type": "track",
+      "trackId": 3934713
+    },
+    {
+      "type": "track",
+      "trackId": 2197706
+    },
+    {
+      "type": "track",
+      "trackId": 311063
+    }
+  ]
+}

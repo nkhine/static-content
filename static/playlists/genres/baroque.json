@@ -1,0 +1,146 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/baroque.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 9943369
+    },
+    {
+      "type": "track",
+      "trackId": 16221079
+    },
+    {
+      "type": "track",
+      "trackId": 9781606
+    },
+    {
+      "type": "track",
+      "trackId": 406387
+    },
+    {
+      "type": "track",
+      "trackId": 2422184
+    },
+    {
+      "type": "track",
+      "trackId": 40282893
+    },
+    {
+      "type": "track",
+      "trackId": 8695548
+    },
+    {
+      "type": "track",
+      "trackId": 39322119
+    },
+    {
+      "type": "track",
+      "trackId": 13161813
+    },
+    {
+      "type": "track",
+      "trackId": 35410262
+    },
+    {
+      "type": "track",
+      "trackId": 9964501
+    },
+    {
+      "type": "track",
+      "trackId": 18371185
+    },
+    {
+      "type": "track",
+      "trackId": 18371188
+    },
+    {
+      "type": "track",
+      "trackId": 18371191
+    },
+    {
+      "type": "track",
+      "trackId": 9128946
+    },
+    {
+      "type": "track",
+      "trackId": 15093629
+    },
+    {
+      "type": "track",
+      "trackId": 12948129
+    },
+    {
+      "type": "track",
+      "trackId": 37246926
+    },
+    {
+      "type": "track",
+      "trackId": 15354282
+    },
+    {
+      "type": "track",
+      "trackId": 23579798
+    },
+    {
+      "type": "track",
+      "trackId": 10888798
+    },
+    {
+      "type": "track",
+      "trackId": 15239599
+    },
+    {
+      "type": "track",
+      "trackId": 15241293
+    },
+    {
+      "type": "track",
+      "trackId": 20250438
+    },
+    {
+      "type": "track",
+      "trackId": 20250444
+    },
+    {
+      "type": "track",
+      "trackId": 20250452
+    },
+    {
+      "type": "track",
+      "trackId": 20250458
+    },
+    {
+      "type": "track",
+      "trackId": 52604284
+    },
+    {
+      "type": "track",
+      "trackId": 32392941
+    },
+    {
+      "type": "track",
+      "trackId": 9915477
+    },
+    {
+      "type": "track",
+      "trackId": 18546739
+    },
+    {
+      "type": "track",
+      "trackId": 37764258
+    },
+    {
+      "type": "track",
+      "trackId": 18546747
+    },
+    {
+      "type": "track",
+      "trackId": 10894029
+    },
+    {
+      "type": "track",
+      "trackId": 9790613
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/chanteuse.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 1436030
+    },
+    {
+      "type": "track",
+      "trackId": 923285
+    },
+    {
+      "type": "track",
+      "trackId": 23607629
+    },
+    {
+      "type": "track",
+      "trackId": 30561069
+    },
+    {
+      "type": "track",
+      "trackId": 5895665
+    },
+    {
+      "type": "track",
+      "trackId": 211003
+    },
+    {
+      "type": "track",
+      "trackId": 1166906
+    },
+    {
+      "type": "track",
+      "trackId": 3289437
+    },
+    {
+      "type": "track",
+      "trackId": 42217200
+    },
+    {
+      "type": "track",
+      "trackId": 30978141
+    },
+    {
+      "type": "track",
+      "trackId": 14378282
+    },
+    {
+      "type": "track",
+      "trackId": 19757324
+    },
+    {
+      "type": "track",
+      "trackId": 3704477
+    },
+    {
+      "type": "track",
+      "trackId": 30978135
+    },
+    {
+      "type": "track",
+      "trackId": 39075187
+    },
+    {
+      "type": "track",
+      "trackId": 1727222
+    },
+    {
+      "type": "track",
+      "trackId": 30978133
+    },
+    {
+      "type": "track",
+      "trackId": 30978134
+    },
+    {
+      "type": "track",
+      "trackId": 48087786
+    },
+    {
+      "type": "track",
+      "trackId": 5583023
+    },
+    {
+      "type": "track",
+      "trackId": 50212575
+    },
+    {
+      "type": "track",
+      "trackId": 980572
+    },
+    {
+      "type": "track",
+      "trackId": 2235155
+    },
+    {
+      "type": "track",
+      "trackId": 2357594
+    },
+    {
+      "type": "track",
+      "trackId": 980562
+    },
+    {
+      "type": "track",
+      "trackId": 39942853
+    },
+    {
+      "type": "track",
+      "trackId": 53283537
+    },
+    {
+      "type": "track",
+      "trackId": 3444751
+    },
+    {
+      "type": "track",
+      "trackId": 1249320
+    },
+    {
+      "type": "track",
+      "trackId": 60320552
+    },
+    {
+      "type": "track",
+      "trackId": 13324144
+    },
+    {
+      "type": "track",
+      "trackId": 60334085
+    },
+    {
+      "type": "track",
+      "trackId": 16669037
+    },
+    {
+      "type": "track",
+      "trackId": 31285338
+    },
+    {
+      "type": "track",
+      "trackId": 54071310
+    },
+    {
+      "type": "track",
+      "trackId": 29816679
+    },
+    {
+      "type": "track",
+      "trackId": 14055236
+    },
+    {
+      "type": "track",
+      "trackId": 58783095
+    }
+  ]
+}

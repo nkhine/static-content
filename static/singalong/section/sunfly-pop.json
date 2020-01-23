@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Karaoke",
+    "subtitle": "Pop"
+  },
+  "page": {
+    "background": "party"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "50s & 60s",
+      "iconColor": "cyan",
+      "role": "karoke-sunfly-pop-50s60s",
+      "url": "/karaoke/genres/sunfly-pop-50s60s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "70s",
+      "iconColor": "cyan",
+      "role": "karoke-sunfly-pop-70s",
+      "url": "/karaoke/genres/sunfly-pop-70s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "80s",
+      "iconColor": "cyan",
+      "role": "karoke-sunfly-pop-80s",
+      "url": "/karaoke/genres/sunfly-pop-80s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "90s",
+      "iconColor": "cyan",
+      "role": "karoke-sunfly-pop-90s",
+      "url": "/karaoke/genres/sunfly-pop-90s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "00s",
+      "iconColor": "cyan",
+      "role": "karoke-sunfly-pop-00s",
+      "url": "/karaoke/genres/sunfly-pop-00s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "10s",
+      "iconColor": "cyan",
+      "role": "karoke-sunfly-pop-10s",
+      "url": "/karaoke/genres/sunfly-pop-10s"
+    }
+  ]
+}

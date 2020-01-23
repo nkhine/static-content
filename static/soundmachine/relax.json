@@ -1,0 +1,39 @@
+{
+  "header": {
+    "title": "Sound Machine",
+    "subtitle": "Relax"
+  },
+  "page": {
+    "background": "soundmachine"
+  },
+  "linkPlayables": false,
+  "items": [
+    {
+      "type": "icon",
+      "icon": "rain",
+      "iconColor": "green",
+      "title": "Water",
+      "role": "soundmachine-water",
+      "playable": "playlists/soundmachine/water",
+      "image": "playlist-images/soundmachine.jpg"
+    },
+    {
+      "type": "icon",
+      "icon": "nature",
+      "iconColor": "green",
+      "title": "Nature",
+      "role": "soundmachine-nature",
+      "playable": "playlists/soundmachine/nature",
+      "image": "playlist-images/soundmachine.jpg"
+    },
+    {
+      "type": "icon",
+      "icon": "wildlife",
+      "iconColor": "green",
+      "title": "Wildlife",
+      "role": "soundmachine-wildlife",
+      "playable": "playlists/soundmachine/wildlife",
+      "image": "playlist-images/soundmachine.jpg"
+    }
+  ]
+}

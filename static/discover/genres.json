@@ -1,0 +1,76 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Genres"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "rock",
+      "iconColor": "red",
+      "title": "Rock",
+      "role": "discover-genres-rock",
+      "url": "/discover/genres/rock"
+    },
+    {
+      "type": "icon",
+      "title": "Pop",
+      "icon": "pop",
+      "iconColor": "pink",
+      "role": "discover-genres-pop",
+      "url": "/discover/genres/pop"
+    },
+    {
+      "type": "icon",
+      "icon": "urban",
+      "iconColor": "blue",
+      "title": "Urban",
+      "role": "discover-genres-urban",
+      "url": "/discover/genres/urban"
+    },
+    {
+      "type": "icon",
+      "title": "Country & Folk",
+      "icon": "country",
+      "iconColor": "orange",
+      "role": "discover-genres-country",
+      "url": "/discover/genres/country"
+    },
+    {
+      "title": "Electronic",
+      "type": "icon",
+      "icon": "electronic",
+      "iconColor": "green",
+      "role": "discover-genres-electronic",
+      "url": "/discover/genres/electronic"
+    },
+    {
+      "title": "Jazz",
+      "type": "icon",
+      "icon": "jazz",
+      "iconColor": "cyan",
+      "role": "discover-genres-jazz",
+      "url": "/discover/genres/jazz"
+    },
+    {
+      "title": "Classical",
+      "type": "icon",
+      "icon": "classical",
+      "iconColor": "blue",
+      "role": "discover-genres-classical",
+      "url": "/discover/genres/classical"
+    },
+    {
+      "title": "World Music",
+      "type": "icon",
+      "icon": "world-music",
+      "iconColor": "orange",
+      "role": "discover-genres-world-music",
+      "url": "/discover/genres/world-music"
+    }
+
+  ]
+}

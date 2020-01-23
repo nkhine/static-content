@@ -1,0 +1,130 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/northern-soul.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 42491634
+    },
+    {
+      "type": "track",
+      "trackId": 10472016
+    },
+    {
+      "type": "track",
+      "trackId": 3128989
+    },
+    {
+      "type": "track",
+      "trackId": 6127142
+    },
+    {
+      "type": "track",
+      "trackId": 43771888
+    },
+    {
+      "type": "track",
+      "trackId": 174457
+    },
+    {
+      "type": "track",
+      "trackId": 23536495
+    },
+    {
+      "type": "track",
+      "trackId": 3970809
+    },
+    {
+      "type": "track",
+      "trackId": 31985402
+    },
+    {
+      "type": "track",
+      "trackId": 9640222
+    },
+    {
+      "type": "track",
+      "trackId": 22613299
+    },
+    {
+      "type": "track",
+      "trackId": 15633653
+    },
+    {
+      "type": "track",
+      "trackId": 48027422
+    },
+    {
+      "type": "track",
+      "trackId": 10432320
+    },
+    {
+      "type": "track",
+      "trackId": 3478217
+    },
+    {
+      "type": "track",
+      "trackId": 3459171
+    },
+    {
+      "type": "track",
+      "trackId": 43928510
+    },
+    {
+      "type": "track",
+      "trackId": 45882764
+    },
+    {
+      "type": "track",
+      "trackId": 16448178
+    },
+    {
+      "type": "track",
+      "trackId": 37276421
+    },
+    {
+      "type": "track",
+      "trackId": 43928671
+    },
+    {
+      "type": "track",
+      "trackId": 37836131
+    },
+    {
+      "type": "track",
+      "trackId": 37812272
+    },
+    {
+      "type": "track",
+      "trackId": 3459477
+    },
+    {
+      "type": "track",
+      "trackId": 205743
+    },
+    {
+      "type": "track",
+      "trackId": 43928494
+    },
+    {
+      "type": "track",
+      "trackId": 3668795
+    },
+    {
+      "type": "track",
+      "trackId": 4748283
+    },
+    {
+      "type": "track",
+      "trackId": 32747692
+    },
+    {
+      "type": "track",
+      "trackId": 15633703
+    },
+    {
+      "type": "track",
+      "trackId": 48027474
+    }
+  ]
+}

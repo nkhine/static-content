@@ -1,0 +1,90 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/feel-good-indie-rock.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 410476
+    },
+    {
+      "type": "track",
+      "trackId": 17960435
+    },
+    {
+      "type": "track",
+      "trackId": 29022642
+    },
+    {
+      "type": "track",
+      "trackId": 8317165
+    },
+    {
+      "type": "track",
+      "trackId": 383698
+    },
+    {
+      "type": "track",
+      "trackId": 2073182
+    },
+    {
+      "type": "track",
+      "trackId": 9407492
+    },
+    {
+      "type": "track",
+      "trackId": 47009308
+    },
+    {
+      "type": "track",
+      "trackId": 492601
+    },
+    {
+      "type": "track",
+      "trackId": 22340899
+    },
+    {
+      "type": "track",
+      "trackId": 34689423
+    },
+    {
+      "type": "track",
+      "trackId": 31549661
+    },
+    {
+      "type": "track",
+      "trackId": 3793634
+    },
+    {
+      "type": "track",
+      "trackId": 51192303
+    },
+    {
+      "type": "track",
+      "trackId": 30184036
+    },
+    {
+      "type": "track",
+      "trackId": 29011232
+    },
+    {
+      "type": "track",
+      "trackId": 5757583
+    },
+    {
+      "type": "track",
+      "trackId": 7959395
+    },
+    {
+      "type": "track",
+      "trackId": 6783610
+    },
+    {
+      "type": "track",
+      "trackId": 12569
+    },
+    {
+      "type": "track",
+      "trackId": 31551475
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "header": {
+    "title": "Singalong",
+    "subtitle": "Genres"
+  },
+  "page": {
+    "background": "party"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "rock",
+      "title": "Rock",
+      "iconColor": "red",
+      "role": "singalong-genres-rock",
+      "url": "/singalong/genres/rock"
+    },
+    {
+      "type": "icon",
+      "title": "Pop",
+      "icon": "pop",
+      "iconColor": "pink",
+      "role": "singalong-genres-pop",
+      "url": "/singalong/genres/pop"
+    },
+    {
+      "type": "icon",
+      "title": "Country & Folk",
+      "icon": "country",
+      "iconColor": "orange",
+      "role": "singalong-genres-country",
+      "url": "/singalong/genres/country"
+    },
+    {
+      "title": "Disco",
+      "type": "icon",
+      "icon": "disco",
+      "iconColor": "pink",
+      "role": "singalong-genres-disco",
+      "url": "/singalong/genres/disco"
+    },
+    {
+      "title": "Indie",
+      "type": "icon",
+      "icon": "indie",
+      "iconColor": "orange",
+      "role": "singalong-genres-indie",
+      "url": "/singalong/genres/indie"
+    },
+    {
+      "title": "Hip-Hop",
+      "type": "icon",
+      "icon": "hiphop",
+      "iconColor": "blue",
+      "role": "singalong-genres-hiphop",
+      "url": "/singalong/genres/hiphop"
+    },
+    {
+      "title": "Reggae",
+      "type": "icon",
+      "icon": "reggae",
+      "iconColor": "orange",
+      "role": "singalong-genres-reggae",
+      "url": "/singalong/genres/reggae"
+    },
+    {
+      "title": "Christmas",
+      "type": "icon",
+      "icon": "christmas",
+      "iconColor": "green",      
+      "role": "singalong-genres-christmas",
+      "url": "/singalong/genres/christmas"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/love-connection.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 8282862
+    },
+    {
+      "type": "track",
+      "trackId": 864405
+    },
+    {
+      "type": "track",
+      "trackId": 3108565
+    },
+    {
+      "type": "track",
+      "trackId": 1401851
+    },
+    {
+      "type": "track",
+      "trackId": 19166321
+    },
+    {
+      "type": "track",
+      "trackId": 23937069
+    },
+    {
+      "type": "track",
+      "trackId": 3223561
+    },
+    {
+      "type": "track",
+      "trackId": 3780051
+    },
+    {
+      "type": "track",
+      "trackId": 1829619
+    },
+    {
+      "type": "track",
+      "trackId": 30989540
+    },
+    {
+      "type": "track",
+      "trackId": 32802343
+    },
+    {
+      "type": "track",
+      "trackId": 492361
+    },
+    {
+      "type": "track",
+      "trackId": 4270184
+    },
+    {
+      "type": "track",
+      "trackId": 49785725
+    },
+    {
+      "type": "track",
+      "trackId": 36539073
+    },
+    {
+      "type": "track",
+      "trackId": 5367114
+    },
+    {
+      "type": "track",
+      "trackId": 19037288
+    },
+    {
+      "type": "track",
+      "trackId": 42397447
+    },
+    {
+      "type": "track",
+      "trackId": 3107097
+    },
+    {
+      "type": "track",
+      "trackId": 16147981
+    },
+    {
+      "type": "track",
+      "trackId": 167061
+    },
+    {
+      "type": "track",
+      "trackId": 3291690
+    },
+    {
+      "type": "track",
+      "trackId": 3300551
+    },
+    {
+      "type": "track",
+      "trackId": 30578449
+    },
+    {
+      "type": "track",
+      "trackId": 164162
+    },
+    {
+      "type": "track",
+      "trackId": 57204486
+    },
+    {
+      "type": "track",
+      "trackId": 284168
+    },
+    {
+      "type": "track",
+      "trackId": 1514272
+    },
+    {
+      "type": "track",
+      "trackId": 3379637
+    },
+    {
+      "type": "track",
+      "trackId": 10894286
+    }
+  ]
+}

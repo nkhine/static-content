@@ -1,0 +1,41 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Sheryl Crow"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Pop",
+      "type": "playlist",
+      "image": "playlist-images/sc-01.jpg",
+      "playable": "playlists/tastemakers/sheryl-crow-pop"
+    },
+    {
+        "title": "Alternative Country",
+        "type": "playlist",
+        "image": "playlist-images/sc-02.jpg",
+        "playable": "playlists/tastemakers/sheryl-crow-alternative-country"
+    },
+    {
+        "title": "Old School Country",
+        "type": "playlist",
+        "image": "playlist-images/sc-04.jpg",
+        "playable": "playlists/tastemakers/sheryl-crow-old-school-country"
+    },
+    {
+        "title": "Rock",
+        "type": "playlist",
+        "image": "playlist-images/sc-05.jpg",
+        "playable": "playlists/tastemakers/sheryl-crow-rock"
+    },
+    {
+        "title": "RnB",
+        "type": "playlist",
+        "image": "playlist-images/sc-06.jpg",
+        "playable": "playlists/tastemakers/sheryl-crow-rnb"
+    }
+  ]
+}

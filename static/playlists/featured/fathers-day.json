@@ -1,0 +1,107 @@
+{
+  "type": "playlist",
+  "name": "Father's Day",
+  "image": "playlist-images/fathers-day.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 20180704
+    },
+    {
+      "type": "track",
+      "trackId": 58246850
+    },
+    {
+      "type": "track",
+      "trackId": 9986336
+    },
+    {
+      "type": "track",
+      "trackId": 5824745
+    },
+    {
+      "type": "track",
+      "trackId": 4442413
+    },
+    {
+      "type": "track",
+      "trackId": 73259445
+    },
+    {
+      "type": "track",
+      "trackId": 3810962
+    },
+    {
+      "type": "track",
+      "trackId": 1101489
+    },
+    {
+      "type": "track",
+      "trackId": 124975
+    },
+    {
+      "type": "track",
+      "trackId": 34579817
+    },
+    {
+      "type": "track",
+      "trackId": 10443907
+    },
+    {
+      "type": "track",
+      "trackId": 3160513
+    },
+    {
+      "type": "track",
+      "trackId": 16734078
+    },
+    {
+      "type": "track",
+      "trackId": 37606789
+    },
+    {
+      "type": "track",
+      "trackId": 7465303
+    },
+    {
+      "type": "track",
+      "trackId": 24004275
+    },
+    {
+      "type": "track",
+      "trackId": 36413598
+    },
+    {
+      "type": "track",
+      "trackId": 76483404
+    },
+    {
+      "type": "track",
+      "trackId": 1407652
+    },
+    {
+      "type": "track",
+      "trackId": 12889813
+    },
+    {
+      "type": "track",
+      "trackId": 4243772
+    },
+    {
+      "type": "track",
+      "trackId": 59341167
+    },
+    {
+      "type": "track",
+      "trackId": 45606613
+    },
+    {
+      "type": "track",
+      "trackId": 1067
+    },
+    {
+      "type": "track",
+      "trackId": 72913462
+    }
+  ]
+}

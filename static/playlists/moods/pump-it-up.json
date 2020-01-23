@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/pump-it-up.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 14397803
+    },
+    {
+      "type": "track",
+      "trackId": 3747916
+    },
+    {
+      "type": "track",
+      "trackId": 3274762
+    },
+    {
+      "type": "track",
+      "trackId": 216203
+    },
+    {
+      "type": "track",
+      "trackId": 148211
+    },
+    {
+      "type": "track",
+      "trackId": 14985090
+    },
+    {
+      "type": "track",
+      "trackId": 24509
+    },
+    {
+      "type": "track",
+      "trackId": 12689360
+    },
+    {
+      "type": "track",
+      "trackId": 41083651
+    },
+    {
+      "type": "track",
+      "trackId": 5848909
+    },
+    {
+      "type": "track",
+      "trackId": 220615
+    },
+    {
+      "type": "track",
+      "trackId": 1195927
+    },
+    {
+      "type": "track",
+      "trackId": 8371095
+    },
+    {
+      "type": "track",
+      "trackId": 29904858
+    },
+    {
+      "type": "track",
+      "trackId": 9931924
+    },
+    {
+      "type": "track",
+      "trackId": 3635864
+    },
+    {
+      "type": "track",
+      "trackId": 4501162
+    },
+    {
+      "type": "track",
+      "trackId": 45901859
+    },
+    {
+      "type": "track",
+      "trackId": 159783
+    },
+    {
+      "type": "track",
+      "trackId": 39052049
+    },
+    {
+      "type": "track",
+      "trackId": 161986
+    },
+    {
+      "type": "track",
+      "trackId": 14180086
+    },
+    {
+      "type": "track",
+      "trackId": 449445
+    },
+    {
+      "type": "track",
+      "trackId": 32854535
+    },
+    {
+      "type": "track",
+      "trackId": 14313829
+    },
+    {
+      "type": "track",
+      "trackId": 19035811
+    },
+    {
+      "type": "track",
+      "trackId": 21136328
+    },
+    {
+      "type": "track",
+      "trackId": 18107212
+    },
+    {
+      "type": "track",
+      "trackId": 18777134
+    },
+    {
+      "type": "track",
+      "trackId": 3057209
+    }
+  ]
+}

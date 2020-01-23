@@ -1,0 +1,102 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/reggae-warlord.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 2211
+    },
+    {
+      "type": "track",
+      "trackId": 19716989
+    },
+    {
+      "type": "track",
+      "trackId": 30831198
+    },
+    {
+      "type": "track",
+      "trackId": 6113869
+    },
+    {
+      "type": "track",
+      "trackId": 19127984
+    },
+    {
+      "type": "track",
+      "trackId": 3096392
+    },
+    {
+      "type": "track",
+      "trackId": 30786390
+    },
+    {
+      "type": "track",
+      "trackId": 298077
+    },
+    {
+      "type": "track",
+      "trackId": 21521955
+    },
+    {
+      "type": "track",
+      "trackId": 10283830
+    },
+    {
+      "type": "track",
+      "trackId": 10283105
+    },
+    {
+      "type": "track",
+      "trackId": 14108942
+    },
+    {
+      "type": "track",
+      "trackId": 30934571
+    },
+    {
+      "type": "track",
+      "trackId": 48440284
+    },
+    {
+      "type": "track",
+      "trackId": 19127964
+    },
+    {
+      "type": "track",
+      "trackId": 1374029
+    },
+    {
+      "type": "track",
+      "trackId": 7859420
+    },
+    {
+      "type": "track",
+      "trackId": 6649831
+    },
+    {
+      "type": "track",
+      "trackId": 50498058
+    },
+    {
+      "type": "track",
+      "trackId": 36755069
+    },
+    {
+      "type": "track",
+      "trackId": 1433533
+    },
+    {
+      "type": "track",
+      "trackId": 51152585
+    },
+    {
+      "type": "track",
+      "trackId": 7209376
+    },
+    {
+      "type": "track",
+      "trackId": 2248613
+    }
+  ]
+}

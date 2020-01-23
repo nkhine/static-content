@@ -1,0 +1,59 @@
+{
+  "type": "playlist",
+  "name": "British Girl Bands",  
+  "image": "playlist-images/ad-01.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 8352971
+    },
+    {
+      "type": "track",
+      "trackId": 30136055
+    },
+    {
+      "type": "track",
+      "trackId": 3668970
+    },
+    {
+      "type": "track",
+      "trackId": 3843374
+    },
+    {
+      "type": "track",
+      "trackId": 3697822
+    },
+    {
+      "type": "track",
+      "trackId": 716588
+    },
+    {
+      "type": "track",
+      "trackId": 533903
+    },
+    {
+      "type": "track",
+      "trackId": 3692980
+    },
+    {
+      "type": "track",
+      "trackId": 31939554
+    },
+    {
+      "type": "track",
+      "trackId": 716567
+    },
+    {
+      "type": "track",
+      "trackId": 21727521
+    },
+    {
+      "type": "track",
+      "trackId": 533843
+    },
+    {
+      "type": "track",
+      "trackId": 198967
+    }
+  ]
+}

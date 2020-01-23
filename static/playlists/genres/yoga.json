@@ -1,0 +1,62 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/zumba.png",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 42358822
+    },
+    {
+      "type": "track",
+      "trackId": 7342884
+    },
+    {
+      "type": "track",
+      "trackId": 624940
+    },
+    {
+      "type": "track",
+      "trackId": 15025997
+    },
+    {
+      "type": "track",
+      "trackId": 44677639
+    },
+    {
+      "type": "track",
+      "trackId": 314008
+    },
+    {
+      "type": "track",
+      "trackId": 7381128
+    },
+    {
+      "type": "track",
+      "trackId": 48362051
+    },
+    {
+      "type": "track",
+      "trackId": 15717337
+    },
+    {
+      "type": "track",
+      "trackId": 15717646
+    },
+    {
+      "type": "track",
+      "trackId": 17471498
+    },
+    {
+      "type": "track",
+      "trackId": 45297934
+    },
+    {
+      "type": "track",
+      "trackId": 20436349
+    },
+    {
+      "type": "track",
+      "trackId": 3195463
+    }
+  ]
+}

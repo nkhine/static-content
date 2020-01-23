@@ -1,0 +1,118 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/cool-kids.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 47994122
+    },
+    {
+      "type": "track",
+      "trackId": 7961002
+    },
+    {
+      "type": "track",
+      "trackId": 17914157
+    },
+    {
+      "type": "track",
+      "trackId": 3540260
+    },
+    {
+      "type": "track",
+      "trackId": 15071300
+    },
+    {
+      "type": "track",
+      "trackId": 11118909
+    },
+    {
+      "type": "track",
+      "trackId": 6664762
+    },
+    {
+      "type": "track",
+      "trackId": 18239
+    },
+    {
+      "type": "track",
+      "trackId": 341918
+    },
+    {
+      "type": "track",
+      "trackId": 4327842
+    },
+    {
+      "type": "track",
+      "trackId": 47994130
+    },
+    {
+      "type": "track",
+      "trackId": 3337695
+    },
+    {
+      "type": "track",
+      "trackId": 33156803
+    },
+    {
+      "type": "track",
+      "trackId": 4314371
+    },
+    {
+      "type": "track",
+      "trackId": 3662136
+    },
+    {
+      "type": "track",
+      "trackId": 47994153
+    },
+    {
+      "type": "track",
+      "trackId": 6333732
+    },
+    {
+      "type": "track",
+      "trackId": 23936632
+    },
+    {
+      "type": "track",
+      "trackId": 3543703
+    },
+    {
+      "type": "track",
+      "trackId": 153106
+    },
+    {
+      "type": "track",
+      "trackId": 232274
+    },
+    {
+      "type": "track",
+      "trackId": 857431
+    },
+    {
+      "type": "track",
+      "trackId": 3543704
+    },
+    {
+      "type": "track",
+      "trackId": 34367584
+    },
+    {
+      "type": "track",
+      "trackId": 2027038
+    },
+    {
+      "type": "track",
+      "trackId": 3386987
+    },
+    {
+      "type": "track",
+      "trackId": 11369741
+    },
+    {
+      "type": "track",
+      "trackId": 4327181
+    }
+  ]
+}

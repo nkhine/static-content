@@ -1,0 +1,134 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/jazz-club.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 42872706
+    },
+    {
+      "type": "track",
+      "trackId": 34426885
+    },
+    {
+      "type": "track",
+      "trackId": 1493923
+    },
+    {
+      "type": "track",
+      "trackId": 15096280
+    },
+    {
+      "type": "track",
+      "trackId": 10254871
+    },
+    {
+      "type": "track",
+      "trackId": 6754458
+    },
+    {
+      "type": "track",
+      "trackId": 581548
+    },
+    {
+      "type": "track",
+      "trackId": 10355571
+    },
+    {
+      "type": "track",
+      "trackId": 51268367
+    },
+    {
+      "type": "track",
+      "trackId": 139711
+    },
+    {
+      "type": "track",
+      "trackId": 32002979
+    },
+    {
+      "type": "track",
+      "trackId": 12647157
+    },
+    {
+      "type": "track",
+      "trackId": 20507674
+    },
+    {
+      "type": "track",
+      "trackId": 48219227
+    },
+    {
+      "type": "track",
+      "trackId": 51771093
+    },
+    {
+      "type": "track",
+      "trackId": 1157543
+    },
+    {
+      "type": "track",
+      "trackId": 262488
+    },
+    {
+      "type": "track",
+      "trackId": 61396416
+    },
+    {
+      "type": "track",
+      "trackId": 67237796
+    },
+    {
+      "type": "track",
+      "trackId": 787332
+    },
+    {
+      "type": "track",
+      "trackId": 5787378
+    },
+    {
+      "type": "track",
+      "trackId": 787036
+    },
+    {
+      "type": "track",
+      "trackId": 66572410
+    },
+    {
+      "type": "track",
+      "trackId": 29547019
+    },
+    {
+      "type": "track",
+      "trackId": 69958865
+    },
+    {
+      "type": "track",
+      "trackId": 69958873
+    },
+    {
+      "type": "track",
+      "trackId": 69299086
+    },
+    {
+      "type": "track",
+      "trackId": 787030
+    },
+    {
+      "type": "track",
+      "trackId": 31853057
+    },
+    {
+      "type": "track",
+      "trackId": 67775828
+    },
+    {
+      "type": "track",
+      "trackId": 63910995
+    },
+    {
+      "type": "track",
+      "trackId": 66842500
+    }
+  ]
+}

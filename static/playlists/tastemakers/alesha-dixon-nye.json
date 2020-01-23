@@ -1,0 +1,83 @@
+{
+  "type": "playlist",
+  "name": "New Years Eve",
+  "image": "playlist-images/ad-03.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 3223561
+    },
+    {
+      "type": "track",
+      "trackId": 54778918
+    },
+    {
+      "type": "track",
+      "trackId": 47364256
+    },
+    {
+      "type": "track",
+      "trackId": 36137702
+    },
+    {
+      "type": "track",
+      "trackId": 52660654
+    },
+    {
+      "type": "track",
+      "trackId": 43348440
+    },
+    {
+      "type": "track",
+      "trackId": 59158927
+    },
+    {
+      "type": "track",
+      "trackId": 21591820
+    },
+    {
+      "type": "track",
+      "trackId": 58182522
+    },
+    {
+      "type": "track",
+      "trackId": 49116911
+    },
+    {
+      "type": "track",
+      "trackId": 50416432
+    },
+    {
+      "type": "track",
+      "trackId": 57986802
+    },
+    {
+      "type": "track",
+      "trackId": 33931609
+    },
+    {
+      "type": "track",
+      "trackId": 54285608
+    },
+    {
+      "type": "track",
+      "trackId": 56621876
+    },
+    {
+      "type": "track",
+      "trackId": 59189358
+    },
+    {
+      "type": "track",
+      "trackId": 51493596
+    },
+    {
+      "type": "track",
+      "trackId": 43690437
+    },
+    {
+      "type": "track",
+      "trackId": 45856181
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/twentieth-century.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 19641059
+    },
+    {
+      "type": "track",
+      "trackId": 234994
+    },
+    {
+      "type": "track",
+      "trackId": 9277756
+    },
+    {
+      "type": "track",
+      "trackId": 7797177
+    },
+    {
+      "type": "track",
+      "trackId": 1713803
+    },
+    {
+      "type": "track",
+      "trackId": 22614811
+    },
+    {
+      "type": "track",
+      "trackId": 32055468
+    },
+    {
+      "type": "track",
+      "trackId": 29805361
+    },
+    {
+      "type": "track",
+      "trackId": 30974672
+    },
+    {
+      "type": "track",
+      "trackId": 21487552
+    },
+    {
+      "type": "track",
+      "trackId": 32055489
+    },
+    {
+      "type": "track",
+      "trackId": 31386174
+    },
+    {
+      "type": "track",
+      "trackId": 19641055
+    },
+    {
+      "type": "track",
+      "trackId": 34121750
+    },
+    {
+      "type": "track",
+      "trackId": 234992
+    },
+    {
+      "type": "track",
+      "trackId": 30962195
+    },
+    {
+      "type": "track",
+      "trackId": 22265791
+    },
+    {
+      "type": "track",
+      "trackId": 15260473
+    },
+    {
+      "type": "track",
+      "trackId": 16042832
+    },
+    {
+      "type": "track",
+      "trackId": 22265725
+    },
+    {
+      "type": "track",
+      "trackId": 52310225
+    },
+    {
+      "type": "track",
+      "trackId": 10058948
+    },
+    {
+      "type": "track",
+      "trackId": 14587707
+    },
+    {
+      "type": "track",
+      "trackId": 99342
+    },
+    {
+      "type": "track",
+      "trackId": 18546772
+    },
+    {
+      "type": "track",
+      "trackId": 1430257
+    },
+    {
+      "type": "track",
+      "trackId": 30751241
+    },
+    {
+      "type": "track",
+      "trackId": 15118410
+    },
+    {
+      "type": "track",
+      "trackId": 15298265
+    },
+    {
+      "type": "track",
+      "trackId": 17772534
+    },
+    {
+      "type": "track",
+      "trackId": 15093168
+    },
+    {
+      "type": "track",
+      "trackId": 5430711
+    },
+    {
+      "type": "track",
+      "trackId": 5430717
+    },
+    {
+      "type": "track",
+      "trackId": 5430720
+    }
+  ]
+}

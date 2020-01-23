@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/electric-pop.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 920488
+    },
+    {
+      "type": "track",
+      "trackId": 96636
+    },
+    {
+      "type": "track",
+      "trackId": 5998783
+    },
+    {
+      "type": "track",
+      "trackId": 3876095
+    },
+    {
+      "type": "track",
+      "trackId": 507126
+    },
+    {
+      "type": "track",
+      "trackId": 6673919
+    },
+    {
+      "type": "track",
+      "trackId": 22893914
+    },
+    {
+      "type": "track",
+      "trackId": 4657619
+    },
+    {
+      "type": "track",
+      "trackId": 31560623
+    },
+    {
+      "type": "track",
+      "trackId": 6764778
+    },
+    {
+      "type": "track",
+      "trackId": 1493001
+    },
+    {
+      "type": "track",
+      "trackId": 428088
+    },
+    {
+      "type": "track",
+      "trackId": 30435623
+    },
+    {
+      "type": "track",
+      "trackId": 33149435
+    },
+    {
+      "type": "track",
+      "trackId": 6863551
+    },
+    {
+      "type": "track",
+      "trackId": 8859530
+    },
+    {
+      "type": "track",
+      "trackId": 247951
+    },
+    {
+      "type": "track",
+      "trackId": 30432389
+    },
+    {
+      "type": "track",
+      "trackId": 104251
+    },
+    {
+      "type": "track",
+      "trackId": 86914
+    },
+    {
+      "type": "track",
+      "trackId": 1550701
+    },
+    {
+      "type": "track",
+      "trackId": 6138494
+    },
+    {
+      "type": "track",
+      "trackId": 13295038
+    },
+    {
+      "type": "track",
+      "trackId": 11410791
+    },
+    {
+      "type": "track",
+      "trackId": 3108043
+    },
+    {
+      "type": "track",
+      "trackId": 18095226
+    },
+    {
+      "type": "track",
+      "trackId": 3692930
+    },
+    {
+      "type": "track",
+      "trackId": 42020352
+    },
+    {
+      "type": "track",
+      "trackId": 8485697
+    },
+    {
+      "type": "track",
+      "trackId": 11141039
+    }
+  ]
+}

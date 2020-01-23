@@ -1,0 +1,82 @@
+{
+    "type": "playlist",
+    "name": "Academy Awards 2019",
+    "image": "playlist-images/academy-awards-2019.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 14180080
+        },
+        {
+            "type": "track",
+            "trackId": 77409032
+        },
+        {
+            "type": "track",
+            "trackId": 78947757
+        },
+        {
+            "type": "track",
+            "trackId": 541532
+        },
+        {
+            "type": "track",
+            "trackId": 79631631
+        },
+        {
+            "type": "track",
+            "trackId": 14180073
+        },
+        {
+            "type": "track",
+            "trackId": 3686143
+        },
+        {
+            "type": "track",
+            "trackId": 22333444
+        },
+        {
+            "type": "track",
+            "trackId": 72931570
+        },
+        {
+            "type": "track",
+            "trackId": 70015875
+        },
+        {
+            "type": "track",
+            "trackId": 71564764
+        },
+        {
+            "type": "track",
+            "trackId": 79631632
+        },
+        {
+            "type": "track",
+            "trackId": 15174321
+        },
+        {
+            "type": "track",
+            "trackId": 68141568
+        },
+        {
+            "type": "track",
+            "trackId": 74117412
+        },
+        {
+            "type": "track",
+            "trackId": 14180103
+        },
+        {
+            "type": "track",
+            "trackId": 77409029
+        },
+        {
+            "type": "track",
+            "trackId": 70254638
+        },
+        {
+            "type": "track",
+            "trackId": 717794
+        }
+    ]
+}

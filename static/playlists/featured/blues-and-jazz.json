@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/blues-and-jazz.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 923202
+    },
+    {
+      "type": "track",
+      "trackId": 6877111
+    },
+    {
+      "type": "track",
+      "trackId": 5035953
+    },
+    {
+      "type": "track",
+      "trackId": 151692
+    },
+    {
+      "type": "track",
+      "trackId": 16286073
+    },
+    {
+      "type": "track",
+      "trackId": 10963365
+    },
+    {
+      "type": "track",
+      "trackId": 46583733
+    },
+    {
+      "type": "track",
+      "trackId": 726006
+    },
+    {
+      "type": "track",
+      "trackId": 496930
+    },
+    {
+      "type": "track",
+      "trackId": 22619073
+    },
+    {
+      "type": "track",
+      "trackId": 3704459
+    },
+    {
+      "type": "track",
+      "trackId": 17488603
+    },
+    {
+      "type": "track",
+      "trackId": 301660
+    },
+    {
+      "type": "track",
+      "trackId": 250369
+    },
+    {
+      "type": "track",
+      "trackId": 3841903
+    },
+    {
+      "type": "track",
+      "trackId": 29332168
+    },
+    {
+      "type": "track",
+      "trackId": 2362259
+    },
+    {
+      "type": "track",
+      "trackId": 17635229
+    },
+    {
+      "type": "track",
+      "trackId": 39831678
+    },
+    {
+      "type": "track",
+      "trackId": 41387474
+    },
+    {
+      "type": "track",
+      "trackId": 15184487
+    },
+    {
+      "type": "track",
+      "trackId": 2354623
+    },
+    {
+      "type": "track",
+      "trackId": 32815242
+    },
+    {
+      "type": "track",
+      "trackId": 35809627
+    },
+    {
+      "type": "track",
+      "trackId": 5599964
+    }
+  ]
+}

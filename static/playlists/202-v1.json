@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/yoga.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 64876646
+    },
+    {
+      "type": "track",
+      "trackId": 65326997
+    },
+    {
+      "type": "track",
+      "trackId": 40960695
+    },
+    {
+      "type": "track",
+      "trackId": 65327007
+    },
+    {
+      "type": "track",
+      "trackId": 72436919
+    },
+    {
+      "type": "track",
+      "trackId": 31343650
+    },
+    {
+      "type": "track",
+      "trackId": 63142538
+    },
+    {
+      "type": "track",
+      "trackId": 72863692
+    },
+    {
+      "type": "track",
+      "trackId": 66332771
+    },
+    {
+      "type": "track",
+      "trackId": 32465025
+    },
+    {
+      "type": "track",
+      "trackId": 69717244
+    },
+    {
+      "type": "track",
+      "trackId": 66332738
+    },
+    {
+      "type": "track",
+      "trackId": 66332739
+    },
+    {
+      "type": "track",
+      "trackId": 31343646
+    },
+    {
+      "type": "track",
+      "trackId": 72436994
+    },
+    {
+      "type": "track",
+      "trackId": 72863693
+    },
+    {
+      "type": "track",
+      "trackId": 31343659
+    },
+    {
+      "type": "track",
+      "trackId": 50796040
+    },
+    {
+      "type": "track",
+      "trackId": 72437025
+    },
+    {
+      "type": "track",
+      "trackId": 14171158
+    },
+    {
+      "type": "track",
+      "trackId": 75845990
+    },
+    {
+      "type": "track",
+      "trackId": 75834809
+    },
+    {
+      "type": "track",
+      "trackId": 16205653
+    },
+    {
+      "type": "track",
+      "trackId": 42617368
+    },
+    {
+      "type": "track",
+      "trackId": 74765448
+    },
+    {
+      "type": "track",
+      "trackId": 72437077
+    },
+    {
+      "type": "track",
+      "trackId": 63100899
+    },
+    {
+      "type": "track",
+      "trackId": 72863691
+    },
+    {
+      "type": "track",
+      "trackId": 50964870
+    },
+    {
+      "type": "track",
+      "trackId": 16205660
+    }
+  ]
+}

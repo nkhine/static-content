@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/classic-hip-hop.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 4685663
+    },
+    {
+      "type": "track",
+      "trackId": 3683142
+    },
+    {
+      "type": "track",
+      "trackId": 22873737
+    },
+    {
+      "type": "track",
+      "trackId": 7007
+    },
+    {
+      "type": "track",
+      "trackId": 498609
+    },
+    {
+      "type": "track",
+      "trackId": 313478
+    },
+    {
+      "type": "track",
+      "trackId": 1829316
+    },
+    {
+      "type": "track",
+      "trackId": 255306
+    },
+    {
+      "type": "track",
+      "trackId": 39214185
+    },
+    {
+      "type": "track",
+      "trackId": 684457
+    },
+    {
+      "type": "track",
+      "trackId": 3315621
+    },
+    {
+      "type": "track",
+      "trackId": 17771514
+    },
+    {
+      "type": "track",
+      "trackId": 617839
+    },
+    {
+      "type": "track",
+      "trackId": 29909048
+    },
+    {
+      "type": "track",
+      "trackId": 40354418
+    },
+    {
+      "type": "track",
+      "trackId": 4014182
+    },
+    {
+      "type": "track",
+      "trackId": 305611
+    },
+    {
+      "type": "track",
+      "trackId": 166555
+    },
+    {
+      "type": "track",
+      "trackId": 39781267
+    },
+    {
+      "type": "track",
+      "trackId": 39781391
+    },
+    {
+      "type": "track",
+      "trackId": 17568767
+    },
+    {
+      "type": "track",
+      "trackId": 2784339
+    },
+    {
+      "type": "track",
+      "trackId": 3314241
+    },
+    {
+      "type": "track",
+      "trackId": 306501
+    },
+    {
+      "type": "track",
+      "trackId": 6366020
+    }
+  ]
+}

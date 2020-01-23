@@ -1,0 +1,162 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/comedy.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 36874341
+    },
+    {
+      "type": "track",
+      "trackId": 33181266
+    },
+    {
+      "type": "track",
+      "trackId": 7273997
+    },
+    {
+      "type": "track",
+      "trackId": 7274005
+    },
+    {
+      "type": "track",
+      "trackId": 7274018
+    },
+    {
+      "type": "track",
+      "trackId": 7274023
+    },
+    {
+      "type": "track",
+      "trackId": 39894998
+    },
+    {
+      "type": "track",
+      "trackId": 39894999
+    },
+    {
+      "type": "track",
+      "trackId": 39895000
+    },
+    {
+      "type": "track",
+      "trackId": 39895001
+    },
+    {
+      "type": "track",
+      "trackId": 39895002
+    },
+    {
+      "type": "track",
+      "trackId": 39895003
+    },
+    {
+      "type": "track",
+      "trackId": 39758031
+    },
+    {
+      "type": "track",
+      "trackId": 39758038
+    },
+    {
+      "type": "track",
+      "trackId": 39758043
+    },
+    {
+      "type": "track",
+      "trackId": 39758050
+    },
+    {
+      "type": "track",
+      "trackId": 39758054
+    },
+    {
+      "type": "track",
+      "trackId": 39758062
+    },
+    {
+      "type": "track",
+      "trackId": 39758066
+    },
+    {
+      "type": "track",
+      "trackId": 39758075
+    },
+    {
+      "type": "track",
+      "trackId": 39758080
+    },
+    {
+      "type": "track",
+      "trackId": 61513284
+    },
+    {
+      "type": "track",
+      "trackId": 61513285
+    },
+    {
+      "type": "track",
+      "trackId": 61513286
+    },
+    {
+      "type": "track",
+      "trackId": 61513287
+    },
+    {
+      "type": "track",
+      "trackId": 61513288
+    },
+    {
+      "type": "track",
+      "trackId": 61513289
+    },
+    {
+      "type": "track",
+      "trackId": 61513290
+    },
+    {
+      "type": "track",
+      "trackId": 61513291
+    },
+    {
+      "type": "track",
+      "trackId": 61513292
+    },
+    {
+      "type": "track",
+      "trackId": 61708320
+    },
+    {
+      "type": "track",
+      "trackId": 61708321
+    },
+    {
+      "type": "track",
+      "trackId": 61708322
+    },
+    {
+      "type": "track",
+      "trackId": 61708323
+    },
+    {
+      "type": "track",
+      "trackId": 61708324
+    },
+    {
+      "type": "track",
+      "trackId": 61708325
+    },
+    {
+      "type": "track",
+      "trackId": 61708326
+    },
+    {
+      "type": "track",
+      "trackId": 61708327
+    },
+    {
+      "type": "track",
+      "trackId": 61708328
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/house.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 61054292
+    },
+    {
+      "type": "track",
+      "trackId": 4755193
+    },
+    {
+      "type": "track",
+      "trackId": 9594773
+    },
+    {
+      "type": "track",
+      "trackId": 485116
+    },
+    {
+      "type": "track",
+      "trackId": 5703
+    },
+    {
+      "type": "track",
+      "trackId": 45906734
+    },
+    {
+      "type": "track",
+      "trackId": 42269964
+    },
+    {
+      "type": "track",
+      "trackId": 10573966
+    },
+    {
+      "type": "track",
+      "trackId": 40562863
+    },
+    {
+      "type": "track",
+      "trackId": 7791152
+    },
+    {
+      "type": "track",
+      "trackId": 29434936
+    },
+    {
+      "type": "track",
+      "trackId": 7876681
+    },
+    {
+      "type": "track",
+      "trackId": 50737199
+    },
+    {
+      "type": "track",
+      "trackId": 18599846
+    },
+    {
+      "type": "track",
+      "trackId": 45207436
+    },
+    {
+      "type": "track",
+      "trackId": 18713590
+    },
+    {
+      "type": "track",
+      "trackId": 4732063
+    },
+    {
+      "type": "track",
+      "trackId": 38467626
+    },
+    {
+      "type": "track",
+      "trackId": 34023587
+    },
+    {
+      "type": "track",
+      "trackId": 7303801
+    },
+    {
+      "type": "track",
+      "trackId": 15476491
+    },
+    {
+      "type": "track",
+      "trackId": 46870403
+    },
+    {
+      "type": "track",
+      "trackId": 8042571
+    },
+    {
+      "type": "track",
+      "trackId": 12298849
+    },
+    {
+      "type": "track",
+      "trackId": 50739521
+    },
+    {
+      "type": "track",
+      "trackId": 22282375
+    },
+    {
+      "type": "track",
+      "trackId": 32241476
+    },
+    {
+      "type": "track",
+      "trackId": 316552
+    },
+    {
+      "type": "track",
+      "trackId": 3721301
+    },
+    {
+      "type": "track",
+      "trackId": 14397803
+    }
+  ]
+}

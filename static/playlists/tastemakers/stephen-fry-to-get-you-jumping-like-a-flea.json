@@ -1,0 +1,74 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/sf-04.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 29578838
+    },
+    {
+      "type": "track",
+      "trackId": 7501633
+    },
+    {
+      "type": "track",
+      "trackId": 13376391
+    },
+    {
+      "type": "track",
+      "trackId": 16198832
+    },
+    {
+      "type": "track",
+      "trackId": 16983700
+    },
+    {
+      "type": "track",
+      "trackId": 33039211
+    },
+    {
+      "type": "track",
+      "trackId": 3560646
+    },
+    {
+      "type": "track",
+      "trackId": 22665368
+    },
+    {
+      "type": "track",
+      "trackId": 22466593
+    },
+    {
+      "type": "track",
+      "trackId": 5365271
+    },
+    {
+      "type": "track",
+      "trackId": 38336419
+    },
+    {
+      "type": "track",
+      "trackId": 5577929
+    },
+    {
+      "type": "track",
+      "trackId": 18459915
+    },
+    {
+      "type": "track",
+      "trackId": 2853699
+    },
+    {
+      "type": "track",
+      "trackId": 16668408
+    },
+    {
+      "type": "track",
+      "trackId": 11803419
+    },
+    {
+      "type": "track",
+      "trackId": 10974199
+    }
+  ]
+}

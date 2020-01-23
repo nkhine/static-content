@@ -1,0 +1,178 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/dinner-party.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 43003605
+    },
+    {
+      "type": "track",
+      "trackId": 64527465
+    },
+    {
+      "type": "track",
+      "trackId": 14485657
+    },
+    {
+      "type": "track",
+      "trackId": 1445
+    },
+    {
+      "type": "track",
+      "trackId": 233059
+    },
+    {
+      "type": "track",
+      "trackId": 43206219
+    },
+    {
+      "type": "track",
+      "trackId": 54208805
+    },
+    {
+      "type": "track",
+      "trackId": 61450156
+    },
+    {
+      "type": "track",
+      "trackId": 64094126
+    },
+    {
+      "type": "track",
+      "trackId": 104252
+    },
+    {
+      "type": "track",
+      "trackId": 22929707
+    },
+    {
+      "type": "track",
+      "trackId": 17797398
+    },
+    {
+      "type": "track",
+      "trackId": 57923660
+    },
+    {
+      "type": "track",
+      "trackId": 3448513
+    },
+    {
+      "type": "track",
+      "trackId": 46081877
+    },
+    {
+      "type": "track",
+      "trackId": 3524900
+    },
+    {
+      "type": "track",
+      "trackId": 32195651
+    },
+    {
+      "type": "track",
+      "trackId": 13497653
+    },
+    {
+      "type": "track",
+      "trackId": 164161
+    },
+    {
+      "type": "track",
+      "trackId": 270094
+    },
+    {
+      "type": "track",
+      "trackId": 143128
+    },
+    {
+      "type": "track",
+      "trackId": 18895519
+    },
+    {
+      "type": "track",
+      "trackId": 31726959
+    },
+    {
+      "type": "track",
+      "trackId": 37451886
+    },
+    {
+      "type": "track",
+      "trackId": 4674
+    },
+    {
+      "type": "track",
+      "trackId": 3162057
+    },
+    {
+      "type": "track",
+      "trackId": 2199
+    },
+    {
+      "type": "track",
+      "trackId": 17743984
+    },
+    {
+      "type": "track",
+      "trackId": 3441833
+    },
+    {
+      "type": "track",
+      "trackId": 3577038
+    },
+    {
+      "type": "track",
+      "trackId": 42102796
+    },
+    {
+      "type": "track",
+      "trackId": 1543892
+    },
+    {
+      "type": "track",
+      "trackId": 45782200
+    },
+    {
+      "type": "track",
+      "trackId": 10095686
+    },
+    {
+      "type": "track",
+      "trackId": 19786079
+    },
+    {
+      "type": "track",
+      "trackId": 45718688
+    },
+    {
+      "type": "track",
+      "trackId": 3128957
+    },
+    {
+      "type": "track",
+      "trackId": 10916606
+    },
+    {
+      "type": "track",
+      "trackId": 17907639
+    },
+    {
+      "type": "track",
+      "trackId": 10697788
+    },
+    {
+      "type": "track",
+      "trackId": 3158372
+    },
+    {
+      "type": "track",
+      "trackId": 6952211
+    },
+    {
+      "type": "track",
+      "trackId": 3384308
+    }
+  ]
+}

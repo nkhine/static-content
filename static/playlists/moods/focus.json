@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/focus.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 36602770
+    },
+    {
+      "type": "track",
+      "trackId": 37846548
+    },
+    {
+      "type": "track",
+      "trackId": 33336353
+    },
+    {
+      "type": "track",
+      "trackId": 15025997
+    },
+    {
+      "type": "track",
+      "trackId": 38546474
+    },
+    {
+      "type": "track",
+      "trackId": 30185988
+    },
+    {
+      "type": "track",
+      "trackId": 47713967
+    },
+    {
+      "type": "track",
+      "trackId": 9032818
+    },
+    {
+      "type": "track",
+      "trackId": 3104494
+    },
+    {
+      "type": "track",
+      "trackId": 30334629
+    },
+    {
+      "type": "track",
+      "trackId": 6764760
+    },
+    {
+      "type": "track",
+      "trackId": 2473844
+    },
+    {
+      "type": "track",
+      "trackId": 18998434
+    },
+    {
+      "type": "track",
+      "trackId": 45295528
+    },
+    {
+      "type": "track",
+      "trackId": 18188372
+    },
+    {
+      "type": "track",
+      "trackId": 591171
+    },
+    {
+      "type": "track",
+      "trackId": 51195077
+    },
+    {
+      "type": "track",
+      "trackId": 48718805
+    },
+    {
+      "type": "track",
+      "trackId": 1544460
+    },
+    {
+      "type": "track",
+      "trackId": 1732007
+    },
+    {
+      "type": "track",
+      "trackId": 13064454
+    },
+    {
+      "type": "track",
+      "trackId": 8515132
+    },
+    {
+      "type": "track",
+      "trackId": 14136859
+    },
+    {
+      "type": "track",
+      "trackId": 32452898
+    },
+    {
+      "type": "track",
+      "trackId": 23126880
+    },
+    {
+      "type": "track",
+      "trackId": 44733673
+    },
+    {
+      "type": "track",
+      "trackId": 51211558
+    },
+    {
+      "type": "track",
+      "trackId": 29747681
+    },
+    {
+      "type": "track",
+      "trackId": 13921632
+    },
+    {
+      "type": "track",
+      "trackId": 45600493
+    }
+  ]
+}

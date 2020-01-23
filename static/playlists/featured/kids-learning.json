@@ -1,0 +1,142 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/kids-learning.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 16436769
+    },
+    {
+      "type": "track",
+      "trackId": 8657358
+    },
+    {
+      "type": "track",
+      "trackId": 38218738
+    },
+    {
+      "type": "track",
+      "trackId": 12217524
+    },
+    {
+      "type": "track",
+      "trackId": 78994193
+    },
+    {
+      "type": "track",
+      "trackId": 64454430
+    },
+    {
+      "type": "track",
+      "trackId": 11815926
+    },
+    {
+      "type": "track",
+      "trackId": 68271937
+    },
+    {
+      "type": "track",
+      "trackId": 3407003
+    },
+    {
+      "type": "track",
+      "trackId": 12422026
+    },
+    {
+      "type": "track",
+      "trackId": 325766
+    },
+    {
+      "type": "track",
+      "trackId": 29082100
+    },
+    {
+      "type": "track",
+      "trackId": 50104971
+    },
+    {
+      "type": "track",
+      "trackId": 30716447
+    },
+    {
+      "type": "track",
+      "trackId": 29082107
+    },
+    {
+      "type": "track",
+      "trackId": 50104968
+    },
+    {
+      "type": "track",
+      "trackId": 23375441
+    },
+    {
+      "type": "track",
+      "trackId": 23290080
+    },
+    {
+      "type": "track",
+      "trackId": 23290081
+    },
+    {
+      "type": "track",
+      "trackId": 23290078
+    },
+    {
+      "type": "track",
+      "trackId": 23290077
+    },
+    {
+      "type": "track",
+      "trackId": 23290075
+    },
+    {
+      "type": "track",
+      "trackId": 23290076
+    },
+    {
+      "type": "track",
+      "trackId": 23290082
+    },
+    {
+      "type": "track",
+      "trackId": 23258085
+    },
+    {
+      "type": "track",
+      "trackId": 23258081
+    },
+    {
+      "type": "track",
+      "trackId": 23258083
+    },
+    {
+      "type": "track",
+      "trackId": 23258084
+    },
+    {
+      "type": "track",
+      "trackId": 74559315
+    },
+    {
+      "type": "track",
+      "trackId": 23711206
+    },
+    {
+      "type": "track",
+      "trackId": 23375444
+    },
+    {
+      "type": "track",
+      "trackId": 23376588
+    },
+    {
+      "type": "track",
+      "trackId": 29083819
+    },
+    {
+      "type": "track",
+      "trackId": 23375443
+    }
+  ]
+}

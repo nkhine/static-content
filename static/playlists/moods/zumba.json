@@ -1,0 +1,122 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/zumba.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 38934799
+    },
+    {
+      "type": "track",
+      "trackId": 3469737
+    },
+    {
+      "type": "track",
+      "trackId": 11284832
+    },
+    {
+      "type": "track",
+      "trackId": 14658284
+    },
+    {
+      "type": "track",
+      "trackId": 18040490
+    },
+    {
+      "type": "track",
+      "trackId": 41748678
+    },
+    {
+      "type": "track",
+      "trackId": 33713162
+    },
+    {
+      "type": "track",
+      "trackId": 32296552
+    },
+    {
+      "type": "track",
+      "trackId": 18250222
+    },
+    {
+      "type": "track",
+      "trackId": 17762713
+    },
+    {
+      "type": "track",
+      "trackId": 22954379
+    },
+    {
+      "type": "track",
+      "trackId": 2417713
+    },
+    {
+      "type": "track",
+      "trackId": 6114261
+    },
+    {
+      "type": "track",
+      "trackId": 19219307
+    },
+    {
+      "type": "track",
+      "trackId": 18573669
+    },
+    {
+      "type": "track",
+      "trackId": 20204205
+    },
+    {
+      "type": "track",
+      "trackId": 42166371
+    },
+    {
+      "type": "track",
+      "trackId": 33067120
+    },
+    {
+      "type": "track",
+      "trackId": 30424188
+    },
+    {
+      "type": "track",
+      "trackId": 36268918
+    },
+    {
+      "type": "track",
+      "trackId": 33372593
+    },
+    {
+      "type": "track",
+      "trackId": 38012083
+    },
+    {
+      "type": "track",
+      "trackId": 45140749
+    },
+    {
+      "type": "track",
+      "trackId": 44493767
+    },
+    {
+      "type": "track",
+      "trackId": 20428924
+    },
+    {
+      "type": "track",
+      "trackId": 46905788
+    },
+    {
+      "type": "track",
+      "trackId": 47809486
+    },
+    {
+      "type": "track",
+      "trackId": 49157433
+    },
+    {
+      "type": "track",
+      "trackId": 47782788
+    }
+  ]
+}

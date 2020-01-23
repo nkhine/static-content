@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/funk.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 1494025
+    },
+    {
+      "type": "track",
+      "trackId": 3158973
+    },
+    {
+      "type": "track",
+      "trackId": 35293831
+    },
+    {
+      "type": "track",
+      "trackId": 60980093
+    },
+    {
+      "type": "track",
+      "trackId": 78700383
+    },
+    {
+      "type": "track",
+      "trackId": 1024038
+    },
+    {
+      "type": "track",
+      "trackId": 164966
+    },
+    {
+      "type": "track",
+      "trackId": 3207007
+    },
+    {
+      "type": "track",
+      "trackId": 503404
+    },
+    {
+      "type": "track",
+      "trackId": 3151239
+    },
+    {
+      "type": "track",
+      "trackId": 63575259
+    },
+    {
+      "type": "track",
+      "trackId": 47653965
+    },
+    {
+      "type": "track",
+      "trackId": 3158251
+    },
+    {
+      "type": "track",
+      "trackId": 67400222
+    },
+    {
+      "type": "track",
+      "trackId": 581727
+    },
+    {
+      "type": "track",
+      "trackId": 171945
+    },
+    {
+      "type": "track",
+      "trackId": 18324792
+    },
+    {
+      "type": "track",
+      "trackId": 11468291
+    },
+    {
+      "type": "track",
+      "trackId": 61925567
+    },
+    {
+      "type": "track",
+      "trackId": 34427208
+    },
+    {
+      "type": "track",
+      "trackId": 143805
+    },
+    {
+      "type": "track",
+      "trackId": 3177818
+    },
+    {
+      "type": "track",
+      "trackId": 17963720
+    },
+    {
+      "type": "track",
+      "trackId": 4249310
+    },
+    {
+      "type": "track",
+      "trackId": 2435080
+    },
+    {
+      "type": "track",
+      "trackId": 75420845
+    },
+    {
+      "type": "track",
+      "trackId": 75321630
+    },
+    {
+      "type": "track",
+      "trackId": 292209
+    },
+    {
+      "type": "track",
+      "trackId": 17189009
+    },
+    {
+      "type": "track",
+      "trackId": 15952690
+    }
+  ]
+}

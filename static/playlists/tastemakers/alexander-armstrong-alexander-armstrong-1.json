@@ -1,0 +1,70 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/aa-01.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 48414761
+    },
+    {
+      "type": "track",
+      "trackId": 9734335
+    },
+    {
+      "type": "track",
+      "trackId": 6304688
+    },
+    {
+      "type": "track",
+      "trackId": 19859023
+    },
+    {
+      "type": "track",
+      "trackId": 7892383
+    },
+    {
+      "type": "track",
+      "trackId": 11962640
+    },
+    {
+      "type": "track",
+      "trackId": 1644089
+    },
+    {
+      "type": "track",
+      "trackId": 59082054
+    },
+    {
+      "type": "track",
+      "trackId": 56065669
+    },
+    {
+      "type": "track",
+      "trackId": 54166358
+    },
+    {
+      "type": "track",
+      "trackId": 21323821
+    },
+    {
+      "type": "track",
+      "trackId": 57105709
+    },
+    {
+      "type": "track",
+      "trackId": 55201100
+    },
+    {
+      "type": "track",
+      "trackId": 54958644
+    },
+    {
+      "type": "track",
+      "trackId": 7918105
+    },
+    {
+      "type": "track",
+      "trackId": 49594111
+    }
+  ]
+}

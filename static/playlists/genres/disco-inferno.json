@@ -1,0 +1,122 @@
+{
+    "type": "playlist",
+    "name": "Disco Inferno",
+    "image": "playlist-images/disco-inferno.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 499131
+        },
+        {
+            "type": "track",
+            "trackId": 30958489
+        },
+        {
+            "type": "track",
+            "trackId": 153096
+        },
+        {
+            "type": "track",
+            "trackId": 3761634
+        },
+        {
+            "type": "track",
+            "trackId": 18876976
+        },
+        {
+            "type": "track",
+            "trackId": 6551508
+        },
+        {
+            "type": "track",
+            "trackId": 2853692
+        },
+        {
+            "type": "track",
+            "trackId": 258219
+        },
+        {
+            "type": "track",
+            "trackId": 59951708
+        },
+        {
+            "type": "track",
+            "trackId": 15031541
+        },
+        {
+            "type": "track",
+            "trackId": 36933862
+        },
+        {
+            "type": "track",
+            "trackId": 17418747
+        },
+        {
+            "type": "track",
+            "trackId": 6551510
+        },
+        {
+            "type": "track",
+            "trackId": 6318842
+        },
+        {
+            "type": "track",
+            "trackId": 3242259
+        },
+        {
+            "type": "track",
+            "trackId": 24019331
+        },
+        {
+            "type": "track",
+            "trackId": 3159605
+        },
+        {
+            "type": "track",
+            "trackId": 8282220
+        },
+        {
+            "type": "track",
+            "trackId": 67642555
+        },
+        {
+            "type": "track",
+            "trackId": 481155
+        },
+        {
+            "type": "track",
+            "trackId": 24019335
+        },
+        {
+            "type": "track",
+            "trackId": 3821502
+        },
+        {
+            "type": "track",
+            "trackId": 6318840
+        },
+        {
+            "type": "track",
+            "trackId": 32197431
+        },
+        {
+            "type": "track",
+            "trackId": 8281497
+        },
+        {
+            "type": "track",
+            "trackId": 8281432
+        },
+        {
+            "type": "track",
+            "trackId": 24019320
+        },
+        {
+            "type": "track",
+            "trackId": 76726621
+        },
+        {
+            "type": "track",
+            "trackId": 581727
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/new-school-hip-hop.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 60771424
+    },
+    {
+      "type": "track",
+      "trackId": 62674283
+    },
+    {
+      "type": "track",
+      "trackId": 62118656
+    },
+    {
+      "type": "track",
+      "trackId": 66571539
+    },
+    {
+      "type": "track",
+      "trackId": 66176790
+    },
+    {
+      "type": "track",
+      "trackId": 64281554
+    },
+    {
+      "type": "track",
+      "trackId": 64806321
+    },
+    {
+      "type": "track",
+      "trackId": 63075671
+    },
+    {
+      "type": "track",
+      "trackId": 64201080
+    },
+    {
+      "type": "track",
+      "trackId": 61537566
+    },
+    {
+      "type": "track",
+      "trackId": 61598245
+    },
+    {
+      "type": "track",
+      "trackId": 63599676
+    },
+    {
+      "type": "track",
+      "trackId": 61358914
+    },
+    {
+      "type": "track",
+      "trackId": 65528630
+    },
+    {
+      "type": "track",
+      "trackId": 56849322
+    },
+    {
+      "type": "track",
+      "trackId": 164549
+    },
+    {
+      "type": "track",
+      "trackId": 21782428
+    },
+    {
+      "type": "track",
+      "trackId": 3314902
+    },
+    {
+      "type": "track",
+      "trackId": 32529900
+    },
+    {
+      "type": "track",
+      "trackId": 147941
+    },
+    {
+      "type": "track",
+      "trackId": 4516058
+    },
+    {
+      "type": "track",
+      "trackId": 16628604
+    },
+    {
+      "type": "track",
+      "trackId": 30103058
+    },
+    {
+      "type": "track",
+      "trackId": 461555
+    },
+    {
+      "type": "track",
+      "trackId": 507194
+    },
+    {
+      "type": "track",
+      "trackId": 40106425
+    },
+    {
+      "type": "track",
+      "trackId": 11265389
+    },
+    {
+      "type": "track",
+      "trackId": 354238
+    },
+    {
+      "type": "track",
+      "trackId": 38942067
+    },
+    {
+      "type": "track",
+      "trackId": 20492490
+    }
+  ]
+}

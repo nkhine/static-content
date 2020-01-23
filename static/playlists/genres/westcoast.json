@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/west-coast.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 41041323
+    },
+    {
+      "type": "track",
+      "trackId": 32540236
+    },
+    {
+      "type": "track",
+      "trackId": 163955
+    },
+    {
+      "type": "track",
+      "trackId": 5679436
+    },
+    {
+      "type": "track",
+      "trackId": 30103065
+    },
+    {
+      "type": "track",
+      "trackId": 3254366
+    },
+    {
+      "type": "track",
+      "trackId": 220615
+    },
+    {
+      "type": "track",
+      "trackId": 12041781
+    },
+    {
+      "type": "track",
+      "trackId": 32648910
+    },
+    {
+      "type": "track",
+      "trackId": 286197
+    },
+    {
+      "type": "track",
+      "trackId": 507159
+    },
+    {
+      "type": "track",
+      "trackId": 7810315
+    },
+    {
+      "type": "track",
+      "trackId": 12041870
+    },
+    {
+      "type": "track",
+      "trackId": 3167187
+    },
+    {
+      "type": "track",
+      "trackId": 2198575
+    },
+    {
+      "type": "track",
+      "trackId": 50659653
+    },
+    {
+      "type": "track",
+      "trackId": 148023
+    },
+    {
+      "type": "track",
+      "trackId": 38426171
+    },
+    {
+      "type": "track",
+      "trackId": 34711259
+    },
+    {
+      "type": "track",
+      "trackId": 8900241
+    },
+    {
+      "type": "track",
+      "trackId": 5447062
+    },
+    {
+      "type": "track",
+      "trackId": 386314
+    },
+    {
+      "type": "track",
+      "trackId": 10435570
+    },
+    {
+      "type": "track",
+      "trackId": 1373983
+    },
+    {
+      "type": "track",
+      "trackId": 21786444
+    },
+    {
+      "type": "track",
+      "trackId": 3167167
+    },
+    {
+      "type": "track",
+      "trackId": 39214185
+    },
+    {
+      "type": "track",
+      "trackId": 7737635
+    },
+    {
+      "type": "track",
+      "trackId": 1777829
+    },
+    {
+      "type": "track",
+      "trackId": 2467135
+    }
+  ]
+}

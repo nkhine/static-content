@@ -1,0 +1,66 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/rwaf-01.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 478916
+    },
+    {
+      "type": "track",
+      "trackId": 315630
+    },
+    {
+      "type": "track",
+      "trackId": 22185772
+    },
+    {
+      "type": "track",
+      "trackId": 35008885
+    },
+    {
+      "type": "track",
+      "trackId": 2269822
+    },
+    {
+      "type": "track",
+      "trackId": 4068522
+    },
+    {
+      "type": "track",
+      "trackId": 32536110
+    },
+    {
+      "type": "track",
+      "trackId": 44825280
+    },
+    {
+      "type": "track",
+      "trackId": 4827008
+    },
+    {
+      "type": "track",
+      "trackId": 15724332
+    },
+    {
+      "type": "track",
+      "trackId": 15633838
+    },
+    {
+      "type": "track",
+      "trackId": 4565793
+    },
+    {
+      "type": "track",
+      "trackId": 15201592
+    },
+    {
+      "type": "track",
+      "trackId": 44642672
+    },
+    {
+      "type": "track",
+      "trackId": 4810848
+    }
+  ]
+}

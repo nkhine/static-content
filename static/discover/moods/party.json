@@ -1,0 +1,88 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Party"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Get The Party Started",
+      "type": "playlist",
+      "image": "playlist-images/get-the-party-started.jpg",
+      "playable": "playlists/moods/get-the-party-started",
+      "role": "discover-moods-party"
+    },
+    {
+      "title": "Ladies Night",
+      "type": "playlist",
+      "image": "playlist-images/ladies-night.jpg",
+      "playable": "playlists/moods/ladies-night",
+      "role": "discover-moods-ladiesnight"
+    },
+    {
+      "title": "I'm Every Woman",
+      "type": "playlist",
+      "image": "playlist-images/im-every-woman.jpg",
+      "playable": "playlists/moods/im-every-woman",
+      "role": "discover-moods-imeverywoman"
+    },
+    {
+      "title": "Disco Inferno",
+      "type": "playlist",
+      "image": "playlist-images/disco-inferno.jpg",
+      "playable": "playlists/genres/disco-inferno",
+      "role": "discover-moods-discoinferno"
+    },
+    {
+      "title": "Going Out",
+      "type": "playlist",
+      "image": "playlist-images/going-out.jpg",
+      "playable": "playlists/moods/going-out",
+      "role": "discover-moods-goingout"
+    },
+    {
+      "title": "House Party",
+      "type": "playlist",
+      "image": "playlist-images/house-party.jpg",
+      "playable": "playlists/genres/house-party",
+      "role": "discover-moods-houseparty"
+    },
+    {
+      "title": "Dinner Party",
+      "type": "playlist",
+      "image": "playlist-images/dinner-party.jpg",
+      "playable": "playlists/moods/dinner-party",
+      "role": "discover-moods-dinnerparty"
+    },
+    {
+      "title": "Floor Fillers",
+      "type": "playlist",
+      "image": "playlist-images/dance-floor-hits.jpg",
+      "playable": "playlists/moods/floor-fillers",
+      "role": "discover-moods-floorfillers"
+    },
+    {
+      "title": "Girl Power",
+      "type": "playlist",
+      "image": "playlist-images/girl-power.jpg",
+      "playable": "playlists/moods/girl-power",
+      "role": "discover-moods-girlpower"
+    },
+    {
+      "title": "1980s Dance Party",
+      "type": "playlist",
+      "image": "playlist-images/1980s-dance.jpg",
+      "playable": "playlists/moods/1980s-dance-party",
+      "role": "discover-moods-1980dance"
+    },
+    {
+      "title": "Get Up Offa That Thing",
+      "type": "playlist",
+      "image": "playlist-images/get-up-offa-that-thing.jpg",
+      "playable": "playlists/moods/get-up-offa-that-thing",
+      "role": "discover-moods-getupoffathatthing"
+    }
+  ]
+}

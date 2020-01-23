@@ -1,0 +1,86 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/apres-ski.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 31668329
+    },
+    {
+      "type": "track",
+      "trackId": 287037
+    },
+    {
+      "type": "track",
+      "trackId": 1179799
+    },
+    {
+      "type": "track",
+      "trackId": 1179800
+    },
+    {
+      "type": "track",
+      "trackId": 1179801
+    },
+    {
+      "type": "track",
+      "trackId": 43713261
+    },
+    {
+      "type": "track",
+      "trackId": 18595572
+    },
+    {
+      "type": "track",
+      "trackId": 17792661
+    },
+    {
+      "type": "track",
+      "trackId": 37707220
+    },
+    {
+      "type": "track",
+      "trackId": 3464283
+    },
+    {
+      "type": "track",
+      "trackId": 32757848
+    },
+    {
+      "type": "track",
+      "trackId": 47360556
+    },
+    {
+      "type": "track",
+      "trackId": 36149816
+    },
+    {
+      "type": "track",
+      "trackId": 31052660
+    },
+    {
+      "type": "track",
+      "trackId": 7726285
+    },
+    {
+      "type": "track",
+      "trackId": 45090322
+    },
+    {
+      "type": "track",
+      "trackId": 21245920
+    },
+    {
+      "type": "track",
+      "trackId": 4385783
+    },
+    {
+      "type": "track",
+      "trackId": 47995563
+    },
+    {
+      "type": "track",
+      "trackId": 32895312
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/acid-jazz.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 8478775
+    },
+    {
+      "type": "track",
+      "trackId": 265917
+    },
+    {
+      "type": "track",
+      "trackId": 386637
+    },
+    {
+      "type": "track",
+      "trackId": 33924990
+    },
+    {
+      "type": "track",
+      "trackId": 6463343
+    },
+    {
+      "type": "track",
+      "trackId": 302724
+    },
+    {
+      "type": "track",
+      "trackId": 527231
+    },
+    {
+      "type": "track",
+      "trackId": 3315755
+    },
+    {
+      "type": "track",
+      "trackId": 4949504
+    },
+    {
+      "type": "track",
+      "trackId": 2147720
+    },
+    {
+      "type": "track",
+      "trackId": 164897
+    },
+    {
+      "type": "track",
+      "trackId": 23820865
+    },
+    {
+      "type": "track",
+      "trackId": 562422
+    },
+    {
+      "type": "track",
+      "trackId": 40358596
+    },
+    {
+      "type": "track",
+      "trackId": 425844
+    },
+    {
+      "type": "track",
+      "trackId": 9649694
+    },
+    {
+      "type": "track",
+      "trackId": 326683
+    },
+    {
+      "type": "track",
+      "trackId": 12295790
+    },
+    {
+      "type": "track",
+      "trackId": 3343188
+    },
+    {
+      "type": "track",
+      "trackId": 30135998
+    },
+    {
+      "type": "track",
+      "trackId": 387272
+    },
+    {
+      "type": "track",
+      "trackId": 31524366
+    },
+    {
+      "type": "track",
+      "trackId": 248665
+    },
+    {
+      "type": "track",
+      "trackId": 22638612
+    },
+    {
+      "type": "track",
+      "trackId": 263925
+    },
+    {
+      "type": "track",
+      "trackId": 40963875
+    },
+    {
+      "type": "track",
+      "trackId": 492849
+    },
+    {
+      "type": "track",
+      "trackId": 8491907
+    }
+  ]
+}

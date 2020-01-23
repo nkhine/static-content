@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Karaoke",
+    "subtitle": "Country"
+  },
+  "page": {
+    "background": "party"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "50s & 60s",
+      "iconColor": "orange",
+      "role": "karoke-sunfly-country-50s60s",
+      "url": "/karaoke/genres/sunfly-country-50s60s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "70s",
+      "iconColor": "orange",
+      "role": "karoke-sunfly-country-70s",
+      "url": "/karaoke/genres/sunfly-country-70s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "80s",
+      "iconColor": "orange",
+      "role": "karoke-sunfly-country-80s",
+      "url": "/karaoke/genres/sunfly-country-80s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "90s",
+      "iconColor": "orange",
+      "role": "karoke-sunfly-country-90s",
+      "url": "/karaoke/genres/sunfly-country-90s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "00s",
+      "iconColor": "orange",
+      "role": "karoke-sunfly-country-00s",
+      "url": "/karaoke/genres/sunfly-country-00s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "10s",
+      "iconColor": "orange",
+      "role": "karoke-sunfly-country-10s",
+      "url": "/karaoke/genres/sunfly-country-10s"
+    }
+  ]
+}

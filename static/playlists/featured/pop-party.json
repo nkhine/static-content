@@ -1,0 +1,126 @@
+{
+    "type": "playlist",
+    "name": "Pop Party",
+    "image": "playlist-images/pop-party.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 6531821
+        },
+        {
+            "type": "track",
+            "trackId": 58441671
+        },
+        {
+            "type": "track",
+            "trackId": 36148585
+        },
+        {
+            "type": "track",
+            "trackId": 2481295
+        },
+        {
+            "type": "track",
+            "trackId": 72076878
+        },
+        {
+            "type": "track",
+            "trackId": 59313978
+        },
+        {
+            "type": "track",
+            "trackId": 52275138
+        },
+        {
+            "type": "track",
+            "trackId": 69636186
+        },
+        {
+            "type": "track",
+            "trackId": 61415417
+        },
+        {
+            "type": "track",
+            "trackId": 72076871
+        },
+        {
+            "type": "track",
+            "trackId": 48357147
+        },
+        {
+            "type": "track",
+            "trackId": 4327182
+        },
+        {
+            "type": "track",
+            "trackId": 42552255
+        },
+        {
+            "type": "track",
+            "trackId": 39061178
+        },
+        {
+            "type": "track",
+            "trackId": 29519864
+        },
+        {
+            "type": "track",
+            "trackId": 63912319
+        },
+        {
+            "type": "track",
+            "trackId": 79361438
+        },
+        {
+            "type": "track",
+            "trackId": 70193717
+        },
+        {
+            "type": "track",
+            "trackId": 75718263
+        },
+        {
+            "type": "track",
+            "trackId": 43348440
+        },
+        {
+            "type": "track",
+            "trackId": 47519055
+        },
+        {
+            "type": "track",
+            "trackId": 73735427
+        },
+        {
+            "type": "track",
+            "trackId": 69268451
+        },
+        {
+            "type": "track",
+            "trackId": 64011067
+        },
+        {
+            "type": "track",
+            "trackId": 74148714
+        },
+        {
+            "type": "track",
+            "trackId": 71487680
+        },
+        {
+            "type": "track",
+            "trackId": 50507195
+        },
+        {
+            "type": "track",
+            "trackId": 76157348
+        },
+        {
+            "type": "track",
+            "trackId": 64704418
+        },
+        {
+            "type": "track",
+            "trackId": 6353594
+        }
+    ]
+}

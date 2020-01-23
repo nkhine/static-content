@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/feel-good-indie-rock.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 561514
+    },
+    {
+      "type": "track",
+      "trackId": 5024292
+    },
+    {
+      "type": "track",
+      "trackId": 18568631
+    },
+    {
+      "type": "track",
+      "trackId": 2084799
+    },
+    {
+      "type": "track",
+      "trackId": 3533650
+    },
+    {
+      "type": "track",
+      "trackId": 3877656
+    },
+    {
+      "type": "track",
+      "trackId": 23857
+    },
+    {
+      "type": "track",
+      "trackId": 1195932
+    },
+    {
+      "type": "track",
+      "trackId": 3680
+    },
+    {
+      "type": "track",
+      "trackId": 13876298
+    },
+    {
+      "type": "track",
+      "trackId": 275966
+    },
+    {
+      "type": "track",
+      "trackId": 976699
+    },
+    {
+      "type": "track",
+      "trackId": 1332140
+    },
+    {
+      "type": "track",
+      "trackId": 48892243
+    },
+    {
+      "type": "track",
+      "trackId": 3534847
+    },
+    {
+      "type": "track",
+      "trackId": 7341489
+    },
+    {
+      "type": "track",
+      "trackId": 4273131
+    },
+    {
+      "type": "track",
+      "trackId": 5440924
+    },
+    {
+      "type": "track",
+      "trackId": 17758547
+    },
+    {
+      "type": "track",
+      "trackId": 36826248
+    },
+    {
+      "type": "track",
+      "trackId": 2330864
+    },
+    {
+      "type": "track",
+      "trackId": 3538260
+    },
+    {
+      "type": "track",
+      "trackId": 146613
+    },
+    {
+      "type": "track",
+      "trackId": 19583369
+    },
+    {
+      "type": "track",
+      "trackId": 18775516
+    },
+    {
+      "type": "track",
+      "trackId": 8926092
+    },
+    {
+      "type": "track",
+      "trackId": 292587
+    },
+    {
+      "type": "track",
+      "trackId": 15683335
+    },
+    {
+      "type": "track",
+      "trackId": 15465053
+    },
+    {
+      "type": "track",
+      "trackId": 5025211
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/rwaf-04.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 39109566
+    },
+    {
+      "type": "track",
+      "trackId": 45173110
+    },
+    {
+      "type": "track",
+      "trackId": 34105802
+    },
+    {
+      "type": "track",
+      "trackId": 48437854
+    },
+    {
+      "type": "track",
+      "trackId": 46173674
+    },
+    {
+      "type": "track",
+      "trackId": 48367882
+    },
+    {
+      "type": "track",
+      "trackId": 41083556
+    },
+    {
+      "type": "track",
+      "trackId": 47029298
+    },
+    {
+      "type": "track",
+      "trackId": 22047185
+    },
+    {
+      "type": "track",
+      "trackId": 44442285
+    },
+    {
+      "type": "track",
+      "trackId": 39725126
+    },
+    {
+      "type": "track",
+      "trackId": 49199201
+    },
+    {
+      "type": "track",
+      "trackId": 47696983
+    },
+    {
+      "type": "track",
+      "trackId": 47359471
+    },
+    {
+      "type": "track",
+      "trackId": 47452861
+    },
+    {
+      "type": "track",
+      "trackId": 45087338
+    },
+    {
+      "type": "track",
+      "trackId": 36828344
+    },
+    {
+      "type": "track",
+      "trackId": 40671020
+    },
+    {
+      "type": "track",
+      "trackId": 49108872
+    },
+    {
+      "type": "track",
+      "trackId": 41419487
+    },
+    {
+      "type": "track",
+      "trackId": 42642497
+    },
+    {
+      "type": "track",
+      "trackId": 6593387
+    },
+    {
+      "type": "track",
+      "trackId": 41177059
+    },
+    {
+      "type": "track",
+      "trackId": 3596378
+    },
+    {
+      "type": "track",
+      "trackId": 36148585
+    },
+    {
+      "type": "track",
+      "trackId": 251562
+    },
+    {
+      "type": "track",
+      "trackId": 32854535
+    },
+    {
+      "type": "track",
+      "trackId": 4514588
+    },
+    {
+      "type": "track",
+      "trackId": 32229286
+    },
+    {
+      "type": "track",
+      "trackId": 31062850
+    },
+    {
+      "type": "track",
+      "trackId": 32813796
+    },
+    {
+      "type": "track",
+      "trackId": 18678446
+    },
+    {
+      "type": "track",
+      "trackId": 30844175
+    },
+    {
+      "type": "track",
+      "trackId": 9834051
+    }
+  ]
+}

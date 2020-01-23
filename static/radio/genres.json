@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Radio",
+    "subtitle": "Genres"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "rock",
+      "title": "Rock",
+      "iconColor": "red",
+      "role": "radio-genres-rock",
+      "url": "/radio/genres/rock"
+    },
+    {
+      "title": "Classical",
+      "type": "icon",
+      "icon": "classical",
+      "iconColor": "blue",
+      "role": "radio-genres-classical",
+      "url": "/radio/genres/classical"
+    },
+    {
+      "title": "Jazz",
+      "type": "icon",
+      "icon": "jazz",
+      "iconColor": "cyan",
+      "role": "radio-genres-jazz",
+      "url": "/radio/genres/jazz"
+    },
+    {
+      "title": "Electronic",
+      "type": "icon",
+      "icon": "electronic",
+      "iconColor": "green",
+      "role": "radio-genres-electronic",
+      "url": "/radio/genres/electronic"
+    },
+    {
+      "type": "icon",
+      "icon": "urban",
+      "title": "Urban",
+      "iconColor": "blue",
+      "role": "radio-genres-urban",
+      "url": "/radio/genres/urban"
+    },
+    {
+      "type": "icon",
+      "title": "Country",
+      "icon": "country",
+      "iconColor": "orange",
+      "role": "radio-genres-country",
+      "url": "/radio/genres/country"
+    }
+  ]
+}

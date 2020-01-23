@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/sunday-morning.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 30136776
+    },
+    {
+      "type": "track",
+      "trackId": 3358996
+    },
+    {
+      "type": "track",
+      "trackId": 46146468
+    },
+    {
+      "type": "track",
+      "trackId": 295460
+    },
+    {
+      "type": "track",
+      "trackId": 29412717
+    },
+    {
+      "type": "track",
+      "trackId": 48105437
+    },
+    {
+      "type": "track",
+      "trackId": 4404414
+    },
+    {
+      "type": "track",
+      "trackId": 4544629
+    },
+    {
+      "type": "track",
+      "trackId": 6001884
+    },
+    {
+      "type": "track",
+      "trackId": 15742886
+    },
+    {
+      "type": "track",
+      "trackId": 3162766
+    },
+    {
+      "type": "track",
+      "trackId": 16597258
+    },
+    {
+      "type": "track",
+      "trackId": 46081877
+    },
+    {
+      "type": "track",
+      "trackId": 41813152
+    },
+    {
+      "type": "track",
+      "trackId": 17751793
+    },
+    {
+      "type": "track",
+      "trackId": 36654566
+    },
+    {
+      "type": "track",
+      "trackId": 36625272
+    },
+    {
+      "type": "track",
+      "trackId": 4554132
+    },
+    {
+      "type": "track",
+      "trackId": 33149548
+    },
+    {
+      "type": "track",
+      "trackId": 29252717
+    },
+    {
+      "type": "track",
+      "trackId": 14786922
+    },
+    {
+      "type": "track",
+      "trackId": 18686521
+    },
+    {
+      "type": "track",
+      "trackId": 37110677
+    },
+    {
+      "type": "track",
+      "trackId": 30935691
+    },
+    {
+      "type": "track",
+      "trackId": 43927476
+    },
+    {
+      "type": "track",
+      "trackId": 227855
+    },
+    {
+      "type": "track",
+      "trackId": 29096165
+    },
+    {
+      "type": "track",
+      "trackId": 37168600
+    },
+    {
+      "type": "track",
+      "trackId": 864418
+    },
+    {
+      "type": "track",
+      "trackId": 23127
+    }
+  ]
+}

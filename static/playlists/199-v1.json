@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/newyears-rock.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 76448112
+    },
+    {
+      "type": "track",
+      "trackId": 4454752
+    },
+    {
+      "type": "track",
+      "trackId": 30725607
+    },
+    {
+      "type": "track",
+      "trackId": 3877656
+    },
+    {
+      "type": "track",
+      "trackId": 148857
+    },
+    {
+      "type": "track",
+      "trackId": 5259031
+    },
+    {
+      "type": "track",
+      "trackId": 2309600
+    },
+    {
+      "type": "track",
+      "trackId": 31062850
+    },
+    {
+      "type": "track",
+      "trackId": 40426361
+    },
+    {
+      "type": "track",
+      "trackId": 15465042
+    },
+    {
+      "type": "track",
+      "trackId": 5294418
+    },
+    {
+      "type": "track",
+      "trackId": 40266244
+    },
+    {
+      "type": "track",
+      "trackId": 33928642
+    },
+    {
+      "type": "track",
+      "trackId": 63966518
+    },
+    {
+      "type": "track",
+      "trackId": 22682
+    },
+    {
+      "type": "track",
+      "trackId": 3162529
+    },
+    {
+      "type": "track",
+      "trackId": 28912296
+    },
+    {
+      "type": "track",
+      "trackId": 426721
+    },
+    {
+      "type": "track",
+      "trackId": 165173
+    },
+    {
+      "type": "track",
+      "trackId": 5373081
+    },
+    {
+      "type": "track",
+      "trackId": 39833532
+    },
+    {
+      "type": "track",
+      "trackId": 4465244
+    },
+    {
+      "type": "track",
+      "trackId": 5025211
+    },
+    {
+      "type": "track",
+      "trackId": 60343177
+    },
+    {
+      "type": "track",
+      "trackId": 11124771
+    },
+    {
+      "type": "track",
+      "trackId": 58739693
+    },
+    {
+      "type": "track",
+      "trackId": 31416446
+    },
+    {
+      "type": "track",
+      "trackId": 244861
+    },
+    {
+      "type": "track",
+      "trackId": 5686967
+    },
+    {
+      "type": "track",
+      "trackId": 31062884
+    }
+  ]
+}

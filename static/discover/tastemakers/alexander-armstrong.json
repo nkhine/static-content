@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Alexander Armstrong"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Classical Greats",
+      "type": "playlist",
+      "image": "playlist-images/aa-01.jpg",
+      "playable": "playlists/tastemakers/alexander-armstrong-alexander-armstrong-1"
+    },
+    {
+        "title": "Classical Essentials",
+        "type": "playlist",
+        "image": "playlist-images/aa-02.jpg",
+        "playable": "playlists/tastemakers/alexander-armstrong-alexander-armstrong-2"
+    },
+    {
+        "title": "Classical Masterpieces",
+        "type": "playlist",
+        "image": "playlist-images/aa-03.jpg",
+        "playable": "playlists/tastemakers/alexander-armstrong-alexander-armstrong-3"
+    },
+    {
+        "title": "Top Classical",
+        "type": "playlist",
+        "image": "playlist-images/aa-04.jpg",
+        "playable": "playlists/tastemakers/alexander-armstrong-alexander-armstrong-4"
+    }
+  ]
+}

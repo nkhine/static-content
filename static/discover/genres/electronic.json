@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Electronic"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "EDM",
+      "type": "playlist",
+      "image": "playlist-images/electronic-dance-music.jpg",
+      "playable": "playlists/genres/edm"
+    },
+    {
+      "title": "House",
+      "type": "playlist",
+      "image": "playlist-images/house.jpg",
+      "playable": "playlists/genres/house"
+    },
+    {
+      "title": "Tropical House",
+      "type": "playlist",
+      "image": "playlist-images/tropical-house.jpg",
+      "playable": "playlists/genres/tropical-house"
+    },
+    {
+      "title": "Deep House",
+      "type": "playlist",
+      "image": "playlist-images/deep-house.jpg",
+      "playable": "playlists/genres/deep-house"
+    },
+    {
+      "title": "Trance",
+      "type": "playlist",
+      "image": "playlist-images/trance.jpg",
+      "playable": "playlists/genres/trance"
+    },
+    {
+      "title": "Drum and Bass",
+      "type": "playlist",
+      "image": "playlist-images/drum-bass.jpg",
+      "playable": "playlists/genres/drum-and-bass"
+    }
+  ]
+}

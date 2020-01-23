@@ -1,0 +1,58 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/spa-and-relaxation.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 199339
+    },
+    {
+      "type": "track",
+      "trackId": 23500333
+    },
+    {
+      "type": "track",
+      "trackId": 34887597
+    },
+    {
+      "type": "track",
+      "trackId": 40155630
+    },
+    {
+      "type": "track",
+      "trackId": 32665555
+    },
+    {
+      "type": "track",
+      "trackId": 23867901
+    },
+    {
+      "type": "track",
+      "trackId": 2533139
+    },
+    {
+      "type": "track",
+      "trackId": 50713167
+    },
+    {
+      "type": "track",
+      "trackId": 49646257
+    },
+    {
+      "type": "track",
+      "trackId": 38284623
+    },
+    {
+      "type": "track",
+      "trackId": 33322067
+    },
+    {
+      "type": "track",
+      "trackId": 47007536
+    },
+    {
+      "type": "track",
+      "trackId": 43148856
+    }
+  ]
+}

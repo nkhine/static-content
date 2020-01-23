@@ -1,0 +1,65 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Rock"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Smells Like Teen Spirit",
+      "type": "playlist",
+      "image": "playlist-images/smell-like-teen-spirit.jpg",
+      "playable": "playlists/genres/smells-like-teen-spirit"
+    },
+    {
+      "title": "The Boys Are Back In Town",
+      "type": "playlist",
+      "image": "playlist-images/the-boys-are-back-in-town.jpg",
+      "playable": "playlists/genres/the-boys-are-back-in-town"
+    },
+    {
+      "title": "Metal Gods",
+      "type": "playlist",
+      "image": "playlist-images/metal-gods.jpg",
+      "playable": "playlists/genres/metal-gods"
+    },
+    {
+      "title": "Feel Good Indie Rock",
+      "type": "playlist",
+      "image": "playlist-images/feel-good-indie-rock.jpg",
+      "playable": "playlists/genres/feel-good-indie-rock"
+    },
+    {
+      "title": "Crazy Horses Glam Rock",
+      "type": "playlist",
+      "image": "playlist-images/crazy-horses-glam.jpg",
+      "playable": "playlists/genres/crazy-horses-glam-rock"
+    },
+    {
+      "title": "British Invasion",
+      "type": "playlist",
+      "image": "playlist-images/british-invasion.jpg",
+      "playable": "playlists/moods/british-invasion"
+    },
+    {
+      "title": "Be Bop a Lula",
+      "type": "playlist",
+      "image": "playlist-images/be-bop-a-lula.jpg",
+      "playable": "playlists/genres/be-bop-a-lula"
+    },
+    {
+      "title": "No More Heroes Punk",
+      "type": "playlist",
+      "image": "playlist-images/punk.jpg",
+      "playable": "playlists/genres/no-more-heroes-punk"
+    },
+    {
+      "title": "Rock Covers",
+      "type": "playlist",
+      "image": "playlist-images/rock-covers.jpg",
+      "playable": "playlists/genres/rock-covers"
+    }
+  ]
+}

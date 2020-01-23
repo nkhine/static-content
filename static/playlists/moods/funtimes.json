@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/get-the-party-started.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 42981691 
+    },
+    {
+      "type": "track",
+      "trackId": 13419135
+    },
+    {
+      "type": "track",
+      "trackId": 56824286
+    },
+    {
+      "type": "track",
+      "trackId": 60581459
+    },
+    {
+      "type": "track",
+      "trackId": 35103097
+    },
+    {
+      "type": "track",
+      "trackId": 4900785
+    },
+    {
+      "type": "track",
+      "trackId": 3538260
+    },
+    {
+      "type": "track",
+      "trackId": 37472668
+    },
+    {
+      "type": "track",
+      "trackId": 30989540
+    },
+    {
+      "type": "track",
+      "trackId": 37876066
+    },
+    {
+      "type": "track",
+      "trackId": 3314201
+    },
+    {
+      "type": "track",
+      "trackId": 4374247
+    },
+    {
+      "type": "track",
+      "trackId": 33213185
+    },
+    {
+      "type": "track",
+      "trackId": 13699366
+    },
+    {
+      "type": "track",
+      "trackId": 7253307
+    },
+    {
+      "type": "track",
+      "trackId": 3111120
+    },
+    {
+      "type": "track",
+      "trackId": 3836137
+    },
+    {
+      "type": "track",
+      "trackId": 3335382
+    },
+    {
+      "type": "track",
+      "trackId": 3107215
+    },
+    {
+      "type": "track",
+      "trackId": 3221425
+    },
+    {
+      "type": "track",
+      "trackId": 3183791
+    },
+    {
+      "type": "track",
+      "trackId": 20180713
+    },
+    {
+      "type": "track",
+      "trackId": 4958815
+    },
+    {
+      "type": "track",
+      "trackId": 3390173
+    },
+    {
+      "type": "track",
+      "trackId": 3479739
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/chill-out.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 123514
+    },
+    {
+      "type": "track",
+      "trackId": 6662188
+    },
+    {
+      "type": "track",
+      "trackId": 30433240
+    },
+    {
+      "type": "track",
+      "trackId": 29250418
+    },
+    {
+      "type": "track",
+      "trackId": 8479208
+    },
+    {
+      "type": "track",
+      "trackId": 7408585
+    },
+    {
+      "type": "track",
+      "trackId": 342735
+    },
+    {
+      "type": "track",
+      "trackId": 51131738
+    },
+    {
+      "type": "track",
+      "trackId": 18771762
+    },
+    {
+      "type": "track",
+      "trackId": 13381331
+    },
+    {
+      "type": "track",
+      "trackId": 31894918
+    },
+    {
+      "type": "track",
+      "trackId": 24037634
+    },
+    {
+      "type": "track",
+      "trackId": 6207387
+    },
+    {
+      "type": "track",
+      "trackId": 3349680
+    },
+    {
+      "type": "track",
+      "trackId": 3107426
+    },
+    {
+      "type": "track",
+      "trackId": 30434940
+    },
+    {
+      "type": "track",
+      "trackId": 18595450
+    },
+    {
+      "type": "track",
+      "trackId": 462837
+    },
+    {
+      "type": "track",
+      "trackId": 21289209
+    },
+    {
+      "type": "track",
+      "trackId": 44588282
+    },
+    {
+      "type": "track",
+      "trackId": 43927333
+    },
+    {
+      "type": "track",
+      "trackId": 1537939
+    },
+    {
+      "type": "track",
+      "trackId": 1196807
+    },
+    {
+      "type": "track",
+      "trackId": 5499361
+    },
+    {
+      "type": "track",
+      "trackId": 23684223
+    },
+    {
+      "type": "track",
+      "trackId": 7789
+    },
+    {
+      "type": "track",
+      "trackId": 404011
+    },
+    {
+      "type": "track",
+      "trackId": 9032818
+    },
+    {
+      "type": "track",
+      "trackId": 3104494
+    }
+  ]
+}

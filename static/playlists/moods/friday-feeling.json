@@ -1,0 +1,134 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/fridayfeeling.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 4465244
+    },
+    {
+      "type": "track",
+      "trackId": 2093102
+    },
+    {
+      "type": "track",
+      "trackId": 3534388
+    },
+    {
+      "type": "track",
+      "trackId": 1786803
+    },
+    {
+      "type": "track",
+      "trackId": 4090540
+    },
+    {
+      "type": "track",
+      "trackId": 354658
+    },
+    {
+      "type": "track",
+      "trackId": 864400
+    },
+    {
+      "type": "track",
+      "trackId": 30578450
+    },
+    {
+      "type": "track",
+      "trackId": 58246841
+    },
+    {
+      "type": "track",
+      "trackId": 108612
+    },
+    {
+      "type": "track",
+      "trackId": 18085386
+    },
+    {
+      "type": "track",
+      "trackId": 13835763
+    },
+    {
+      "type": "track",
+      "trackId": 5681714
+    },
+    {
+      "type": "track",
+      "trackId": 14030062
+    },
+    {
+      "type": "track",
+      "trackId": 3923747
+    },
+    {
+      "type": "track",
+      "trackId": 13419135
+    },
+    {
+      "type": "track",
+      "trackId": 22217124
+    },
+    {
+      "type": "track",
+      "trackId": 15696154
+    },
+    {
+      "type": "track",
+      "trackId": 45606551
+    },
+    {
+      "type": "track",
+      "trackId": 2330872
+    },
+    {
+      "type": "track",
+      "trackId": 10197914
+    },
+    {
+      "type": "track",
+      "trackId": 61218424
+    },
+    {
+      "type": "track",
+      "trackId": 334354
+    },
+    {
+      "type": "track",
+      "trackId": 108811
+    },
+    {
+      "type": "track",
+      "trackId": 33508447
+    },
+    {
+      "type": "track",
+      "trackId": 21473339
+    },
+    {
+      "type": "track",
+      "trackId": 29259366
+    },
+    {
+      "type": "track",
+      "trackId": 2072863
+    },
+    {
+      "type": "track",
+      "trackId": 59535250
+    },
+    {
+      "type": "track",
+      "trackId": 58247584
+    },
+    {
+      "type": "track",
+      "trackId": 61437774
+    },
+    {
+      "type": "track",
+      "trackId": 59408601
+    }
+  ]
+}

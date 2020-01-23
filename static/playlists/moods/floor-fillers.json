@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/dance-floor-hits.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 971121
+    },
+    {
+      "type": "track",
+      "trackId": 2855226
+    },
+    {
+      "type": "track",
+      "trackId": 7128754
+    },
+    {
+      "type": "track",
+      "trackId": 3857195
+    },
+    {
+      "type": "track",
+      "trackId": 6531993
+    },
+    {
+      "type": "track",
+      "trackId": 14753812
+    },
+    {
+      "type": "track",
+      "trackId": 1786455
+    },
+    {
+      "type": "track",
+      "trackId": 16295449
+    },
+    {
+      "type": "track",
+      "trackId": 3223561
+    },
+    {
+      "type": "track",
+      "trackId": 3372258
+    },
+    {
+      "type": "track",
+      "trackId": 15836398
+    },
+    {
+      "type": "track",
+      "trackId": 29477658
+    },
+    {
+      "type": "track",
+      "trackId": 18095226
+    },
+    {
+      "type": "track",
+      "trackId": 5365324
+    },
+    {
+      "type": "track",
+      "trackId": 338195
+    },
+    {
+      "type": "track",
+      "trackId": 31351427
+    },
+    {
+      "type": "track",
+      "trackId": 8574956
+    },
+    {
+      "type": "track",
+      "trackId": 30434980
+    },
+    {
+      "type": "track",
+      "trackId": 9594646
+    },
+    {
+      "type": "track",
+      "trackId": 1207971
+    },
+    {
+      "type": "track",
+      "trackId": 21473339
+    },
+    {
+      "type": "track",
+      "trackId": 20634009
+    },
+    {
+      "type": "track",
+      "trackId": 6915603
+    },
+    {
+      "type": "track",
+      "trackId": 22512
+    },
+    {
+      "type": "track",
+      "trackId": 8416468
+    },
+    {
+      "type": "track",
+      "trackId": 16226709
+    },
+    {
+      "type": "track",
+      "trackId": 10382689
+    },
+    {
+      "type": "track",
+      "trackId": 5456898
+    },
+    {
+      "type": "track",
+      "trackId": 18561824
+    },
+    {
+      "type": "track",
+      "trackId": 50507073
+    }
+  ]
+}

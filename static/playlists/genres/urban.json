@@ -1,0 +1,122 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/urban-motivation.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 9934264
+    },
+    {
+      "type": "track",
+      "trackId": 164486
+    },
+    {
+      "type": "track",
+      "trackId": 1940620
+    },
+    {
+      "type": "track",
+      "trackId": 30783159
+    },
+    {
+      "type": "track",
+      "trackId": 57597759
+    },
+    {
+      "type": "track",
+      "trackId": 62293689
+    },
+    {
+      "type": "track",
+      "trackId": 2473865
+    },
+    {
+      "type": "track",
+      "trackId": 2417313
+    },
+    {
+      "type": "track",
+      "trackId": 51080147
+    },
+    {
+      "type": "track",
+      "trackId": 74360894
+    },
+    {
+      "type": "track",
+      "trackId": 43923532
+    },
+    {
+      "type": "track",
+      "trackId": 76432296
+    },
+    {
+      "type": "track",
+      "trackId": 6320133
+    },
+    {
+      "type": "track",
+      "trackId": 4548215
+    },
+    {
+      "type": "track",
+      "trackId": 77007397
+    },
+    {
+      "type": "track",
+      "trackId": 46453869
+    },
+    {
+      "type": "track",
+      "trackId": 78095951
+    },
+    {
+      "type": "track",
+      "trackId": 29507574
+    },
+    {
+      "type": "track",
+      "trackId": 14992955
+    },
+    {
+      "type": "track",
+      "trackId": 3683066
+    },
+    {
+      "type": "track",
+      "trackId": 47360577
+    },
+    {
+      "type": "track",
+      "trackId": 62674277
+    },
+    {
+      "type": "track",
+      "trackId": 3810687
+    },
+    {
+      "type": "track",
+      "trackId": 3511165
+    },
+    {
+      "type": "track",
+      "trackId": 505500
+    },
+    {
+      "type": "track",
+      "trackId": 78386554
+    },
+    {
+      "type": "track",
+      "trackId": 44194412
+    },
+    {
+      "type": "track",
+      "trackId": 220613
+    },
+    {
+      "type": "track",
+      "trackId": 3127925
+    }
+  ]
+}

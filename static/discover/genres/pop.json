@@ -1,0 +1,53 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Pop"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Summer Vibes",
+      "type": "playlist",
+      "image": "playlist-images/summer-vibes.jpg",
+      "playable": "playlists/genres/teens-trending"
+    },
+    {
+      "title": "Pop",
+      "type": "playlist",
+      "image": "playlist-images/pop.jpg",
+      "playable": "playlists/genres/pop"
+    },
+    {
+      "title": "Too Cool For School",
+      "type": "playlist",
+      "image": "playlist-images/cool-kids.jpg",
+      "playable": "playlists/genres/too-cool-for-school"
+    },
+    {
+      "title": "Classic Pop",
+      "type": "playlist",
+      "image": "playlist-images/classic-pop.jpg",
+      "playable": "playlists/genres/classic-pop"
+    },
+    {
+      "title": "Electro-Pop",
+      "type": "playlist",
+      "image": "playlist-images/electric-pop.jpg",
+      "playable": "playlists/genres/electro-pop"
+    },
+    {
+      "title": "Acoustic",
+      "type": "playlist",
+      "image": "playlist-images/acoustic-guitar.jpg",
+      "playable": "playlists/genres/acoustic"
+    },
+    {
+      "title": "Disco Inferno",
+      "type": "playlist",
+      "image": "playlist-images/disco-inferno.jpg",
+      "playable": "playlists/genres/disco-inferno"
+    }
+  ]
+}

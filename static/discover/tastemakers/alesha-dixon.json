@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Alesha Dixon"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "New Years Eve",
+      "type": "playlist",
+      "image": "playlist-images/ad-01.jpg",
+      "playable": "playlists/tastemakers/alesha-dixon-nye"
+    },
+    {
+      "title": "Hangover",
+      "type": "playlist",
+      "image": "playlist-images/ad-02.jpg",
+      "playable": "playlists/tastemakers/alesha-dixon-hangover"
+    },
+    {
+      "title": "British Girl Bands",
+      "type": "playlist",
+      "image": "playlist-images/ad-03.jpg",
+      "playable": "playlists/tastemakers/alesha-dixon-british-girl-bands"
+    },
+    {
+      "title": "Alesha's Workout",
+      "type": "playlist",
+      "image": "playlist-images/ad-04.jpg",
+      "playable": "playlists/tastemakers/alesha-dixon-workout"
+    }
+  ]
+}

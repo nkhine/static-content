@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Robbie and Ayda"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Best Males",
+      "type": "playlist",
+      "image": "playlist-images/rwaf-01.jpg",
+      "playable": "playlists/tastemakers/robbie-williams-best-males"
+    },
+    {
+      "title": "Swing",
+      "type": "playlist",
+      "image": "playlist-images/rwaf-02.jpg",
+      "playable": "playlists/tastemakers/robbie-williams-swing"
+    },
+    {
+      "title": "Hip-Hop",
+      "type": "playlist",
+      "image": "playlist-images/rwaf-03.jpg",
+      "playable": "playlists/tastemakers/robbie-williams-hip-hop"
+    },
+    {
+      "title": "Easy Love",
+      "type": "playlist",
+      "image": "playlist-images/rwaf-04.jpg",
+      "playable": "playlists/tastemakers/ayda-fields-easy-love"
+    },
+    {
+      "title": "We Are Young",
+      "type": "playlist",
+      "image": "playlist-images/rwaf-05.jpg",
+      "playable": "playlists/tastemakers/ayda-fields-we-are-young"
+    },
+    {
+      "title": "Let It All Go",
+      "type": "playlist",
+      "image": "playlist-images/rwaf-06.jpg",
+      "playable": "playlists/tastemakers/ayda-fields-let-it-all-go"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/deep-house.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 63665173
+    },
+    {
+      "type": "track",
+      "trackId": 22806750
+    },
+    {
+      "type": "track",
+      "trackId": 34023349
+    },
+    {
+      "type": "track",
+      "trackId": 21368285
+    },
+    {
+      "type": "track",
+      "trackId": 29477648
+    },
+    {
+      "type": "track",
+      "trackId": 41241206
+    },
+    {
+      "type": "track",
+      "trackId": 29477656
+    },
+    {
+      "type": "track",
+      "trackId": 46723074
+    },
+    {
+      "type": "track",
+      "trackId": 34032641
+    },
+    {
+      "type": "track",
+      "trackId": 23963463
+    },
+    {
+      "type": "track",
+      "trackId": 49224414
+    },
+    {
+      "type": "track",
+      "trackId": 15905974
+    },
+    {
+      "type": "track",
+      "trackId": 33936274
+    },
+    {
+      "type": "track",
+      "trackId": 18990566
+    },
+    {
+      "type": "track",
+      "trackId": 22893916
+    },
+    {
+      "type": "track",
+      "trackId": 44508398
+    },
+    {
+      "type": "track",
+      "trackId": 41124662
+    },
+    {
+      "type": "track",
+      "trackId": 47087246
+    },
+    {
+      "type": "track",
+      "trackId": 30403985
+    },
+    {
+      "type": "track",
+      "trackId": 50594902
+    },
+    {
+      "type": "track",
+      "trackId": 38546474
+    },
+    {
+      "type": "track",
+      "trackId": 48172587
+    },
+    {
+      "type": "track",
+      "trackId": 41338944
+    },
+    {
+      "type": "track",
+      "trackId": 21477864
+    },
+    {
+      "type": "track",
+      "trackId": 23245621
+    },
+    {
+      "type": "track",
+      "trackId": 21291907
+    },
+    {
+      "type": "track",
+      "trackId": 30645265
+    },
+    {
+      "type": "track",
+      "trackId": 18436028
+    },
+    {
+      "type": "track",
+      "trackId": 19320201
+    },
+    {
+      "type": "track",
+      "trackId": 24018479
+    },
+    {
+      "type": "track",
+      "trackId": 40697611
+    },
+    {
+      "type": "track",
+      "trackId": 18562319
+    }
+  ]
+}

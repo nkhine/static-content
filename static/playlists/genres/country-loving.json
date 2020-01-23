@@ -1,0 +1,122 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/country-loving.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 47866921
+    },
+    {
+      "type": "track",
+      "trackId": 19168951
+    },
+    {
+      "type": "track",
+      "trackId": 60936318
+    },
+    {
+      "type": "track",
+      "trackId": 23628825
+    },
+    {
+      "type": "track",
+      "trackId": 44490505
+    },
+    {
+      "type": "track",
+      "trackId": 17895259
+    },
+    {
+      "type": "track",
+      "trackId": 40375339
+    },
+    {
+      "type": "track",
+      "trackId": 47285518
+    },
+    {
+      "type": "track",
+      "trackId": 58442871
+    },
+    {
+      "type": "track",
+      "trackId": 60428172
+    },
+    {
+      "type": "track",
+      "trackId": 50871292
+    },
+    {
+      "type": "track",
+      "trackId": 42376981
+    },
+    {
+      "type": "track",
+      "trackId": 51940258
+    },
+    {
+      "type": "track",
+      "trackId": 433272
+    },
+    {
+      "type": "track",
+      "trackId": 50748601
+    },
+    {
+      "type": "track",
+      "trackId": 21238354
+    },
+    {
+      "type": "track",
+      "trackId": 36268994
+    },
+    {
+      "type": "track",
+      "trackId": 58797058
+    },
+    {
+      "type": "track",
+      "trackId": 57525551
+    },
+    {
+      "type": "track",
+      "trackId": 43961758
+    },
+    {
+      "type": "track",
+      "trackId": 53391418
+    },
+    {
+      "type": "track",
+      "trackId": 56510212
+    },
+    {
+      "type": "track",
+      "trackId": 509731
+    },
+    {
+      "type": "track",
+      "trackId": 14413984
+    },
+    {
+      "type": "track",
+      "trackId": 11401356
+    },
+    {
+      "type": "track",
+      "trackId": 16985716
+    },
+    {
+      "type": "track",
+      "trackId": 53733364
+    },
+    {
+      "type": "track",
+      "trackId": 19487159
+    },
+    {
+      "type": "track",
+      "trackId": 44489941
+    }
+  ]
+}

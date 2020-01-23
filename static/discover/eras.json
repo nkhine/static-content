@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Eras"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "2000's",
+      "type": "playlist",
+      "image": "playlist-images/2000s.jpg",
+      "playable": "playlists/eras/2000s",
+      "role": "eras-2000s"
+    },
+    {
+      "title": "1990's",
+      "type": "playlist",
+      "image": "playlist-images/1990s.jpg",
+      "playable": "playlists/eras/1990s",
+      "role": "eras-1990s"
+    },
+    {
+      "title": "1980's",
+      "type": "playlist",
+      "image": "playlist-images/1980s.jpg",
+      "playable": "playlists/eras/1980s",
+      "role": "eras-1980s"
+    },
+    {
+      "title": "1970's",
+      "type": "playlist",
+      "image": "playlist-images/1970s.jpg",
+      "playable": "playlists/eras/1970s",
+      "role": "eras-1970s"
+    },
+    {
+      "title": "1960's",
+      "type": "playlist",
+      "image": "playlist-images/1960s.jpg",
+      "playable": "playlists/eras/1960s",
+      "role": "eras-1960s"
+    },
+    {
+      "title": "1950's",
+      "type": "playlist",
+      "image": "playlist-images/1950s.jpg",
+      "playable": "playlists/eras/1950s",
+      "role": "eras-1950s"
+    },
+    {
+      "title": "1940's",
+      "type": "playlist",
+      "image": "playlist-images/1940s.jpg",
+      "playable": "playlists/eras/1940s",
+      "role": "eras-1940s"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/slow-jamz.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 2027044
+    },
+    {
+      "type": "track",
+      "trackId": 16213810
+    },
+    {
+      "type": "track",
+      "trackId": 18183708
+    },
+    {
+      "type": "track",
+      "trackId": 146841
+    },
+    {
+      "type": "track",
+      "trackId": 19956838
+    },
+    {
+      "type": "track",
+      "trackId": 7033786
+    },
+    {
+      "type": "track",
+      "trackId": 30136775
+    },
+    {
+      "type": "track",
+      "trackId": 3637186
+    },
+    {
+      "type": "track",
+      "trackId": 17751793
+    },
+    {
+      "type": "track",
+      "trackId": 14485657
+    },
+    {
+      "type": "track",
+      "trackId": 18186810
+    },
+    {
+      "type": "track",
+      "trackId": 49448432
+    },
+    {
+      "type": "track",
+      "trackId": 30989540
+    },
+    {
+      "type": "track",
+      "trackId": 151334
+    },
+    {
+      "type": "track",
+      "trackId": 14136365
+    },
+    {
+      "type": "track",
+      "trackId": 1180349
+    },
+    {
+      "type": "track",
+      "trackId": 3123591
+    },
+    {
+      "type": "track",
+      "trackId": 3577047
+    },
+    {
+      "type": "track",
+      "trackId": 15071984
+    },
+    {
+      "type": "track",
+      "trackId": 3246230
+    },
+    {
+      "type": "track",
+      "trackId": 217380
+    },
+    {
+      "type": "track",
+      "trackId": 5367114
+    },
+    {
+      "type": "track",
+      "trackId": 21958491
+    },
+    {
+      "type": "track",
+      "trackId": 6566673
+    },
+    {
+      "type": "track",
+      "trackId": 4327212
+    },
+    {
+      "type": "track",
+      "trackId": 3692764
+    },
+    {
+      "type": "track",
+      "trackId": 750071
+    },
+    {
+      "type": "track",
+      "trackId": 4678
+    },
+    {
+      "type": "track",
+      "trackId": 330660
+    },
+    {
+      "type": "track",
+      "trackId": 11718
+    }
+  ]
+}

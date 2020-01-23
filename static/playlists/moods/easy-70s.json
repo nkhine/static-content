@@ -1,0 +1,130 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/easy70s.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 56080560
+    },
+    {
+      "type": "track",
+      "trackId": 1197878
+    },
+    {
+      "type": "track",
+      "trackId": 55897039
+    },
+    {
+      "type": "track",
+      "trackId": 32195692
+    },
+    {
+      "type": "track",
+      "trackId": 6316338
+    },
+    {
+      "type": "track",
+      "trackId": 45140541
+    },
+    {
+      "type": "track",
+      "trackId": 125149
+    },
+    {
+      "type": "track",
+      "trackId": 18318989
+    },
+    {
+      "type": "track",
+      "trackId": 4271061
+    },
+    {
+      "type": "track",
+      "trackId": 58947562
+    },
+    {
+      "type": "track",
+      "trackId": 10894286
+    },
+    {
+      "type": "track",
+      "trackId": 233059
+    },
+    {
+      "type": "track",
+      "trackId": 42100083
+    },
+    {
+      "type": "track",
+      "trackId": 509871
+    },
+    {
+      "type": "track",
+      "trackId": 60759834
+    },
+    {
+      "type": "track",
+      "trackId": 58402202
+    },
+    {
+      "type": "track",
+      "trackId": 7328285
+    },
+    {
+      "type": "track",
+      "trackId": 8584666
+    },
+    {
+      "type": "track",
+      "trackId": 39705919
+    },
+    {
+      "type": "track",
+      "trackId": 60380861
+    },
+    {
+      "type": "track",
+      "trackId": 59541842
+    },
+    {
+      "type": "track",
+      "trackId": 57504399
+    },
+    {
+      "type": "track",
+      "trackId": 55371916
+    },
+    {
+      "type": "track",
+      "trackId": 1321668
+    },
+    {
+      "type": "track",
+      "trackId": 1307828
+    },
+    {
+      "type": "track",
+      "trackId": 55372324
+    },
+    {
+      "type": "track",
+      "trackId": 14461516
+    },
+    {
+      "type": "track",
+      "trackId": 5046318
+    },
+    {
+      "type": "track",
+      "trackId": 49462552
+    },
+    {
+      "type": "track",
+      "trackId": 815742
+    },
+    {
+      "type": "track",
+      "trackId": 7397984
+    }
+  ]
+}

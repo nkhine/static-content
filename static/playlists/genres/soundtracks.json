@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/sountracks.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 40577305
+    },
+    {
+      "type": "track",
+      "trackId": 365796
+    },
+    {
+      "type": "track",
+      "trackId": 41545307
+    },
+    {
+      "type": "track",
+      "trackId": 12464
+    },
+    {
+      "type": "track",
+      "trackId": 23509381
+    },
+    {
+      "type": "track",
+      "trackId": 7033748
+    },
+    {
+      "type": "track",
+      "trackId": 5784059
+    },
+    {
+      "type": "track",
+      "trackId": 172186
+    },
+    {
+      "type": "track",
+      "trackId": 33004944
+    },
+    {
+      "type": "track",
+      "trackId": 3681274
+    },
+    {
+      "type": "track",
+      "trackId": 778919
+    },
+    {
+      "type": "track",
+      "trackId": 41482280
+    },
+    {
+      "type": "track",
+      "trackId": 46219481
+    },
+    {
+      "type": "track",
+      "trackId": 5768844
+    },
+    {
+      "type": "track",
+      "trackId": 9881320
+    },
+    {
+      "type": "track",
+      "trackId": 2478093
+    },
+    {
+      "type": "track",
+      "trackId": 7450753
+    },
+    {
+      "type": "track",
+      "trackId": 3576756
+    },
+    {
+      "type": "track",
+      "trackId": 41737329
+    },
+    {
+      "type": "track",
+      "trackId": 38705985
+    },
+    {
+      "type": "track",
+      "trackId": 1197733
+    },
+    {
+      "type": "track",
+      "trackId": 4782915
+    },
+    {
+      "type": "track",
+      "trackId": 41721312
+    },
+    {
+      "type": "track",
+      "trackId": 3364832
+    },
+    {
+      "type": "track",
+      "trackId": 1307564
+    },
+    {
+      "type": "track",
+      "trackId": 160946
+    },
+    {
+      "type": "track",
+      "trackId": 1271598
+    },
+    {
+      "type": "track",
+      "trackId": 2502277
+    },
+    {
+      "type": "track",
+      "trackId": 39654354
+    },
+    {
+      "type": "track",
+      "trackId": 31894888
+    }
+  ]
+}

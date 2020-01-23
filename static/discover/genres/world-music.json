@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "World Music"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Afrobeat",
+      "type": "playlist",
+      "image": "playlist-images/afrobeat.jpg",
+      "playable": "playlists/genres/world-music/afrobeat"
+    },
+    {
+      "title": "A Taste of Irish",
+      "type": "playlist",
+      "image": "playlist-images/irish-music.jpg",
+      "playable": "playlists/genres/world-music/irish-music"
+    },
+    {
+      "title": "Hot Salsa",
+      "type": "playlist",
+      "image": "playlist-images/salsa-and-merengue.jpg",
+      "playable": "playlists/genres/world-music/salsa-and-merengue"
+    },
+    {
+      "title": "Sounds of China",
+      "type": "playlist",
+      "image": "playlist-images/get-to-know-china.jpg",
+      "playable": "playlists/genres/world-music/get-to-know-china"
+    }
+  ]
+}

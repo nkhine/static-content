@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Charts"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "party",
+      "title": "Party",
+      "role": "discover-moods-party",
+      "url": "/discover/moods/party"
+    }
+  ]
+}

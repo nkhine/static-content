@@ -1,0 +1,21 @@
+{
+	"type": "playlist",
+	"image": "playlist-images/soundmachine.jpg",
+	"preferredVisualiser": "Meditate/",
+	"activatesVisualiser": true,
+	"playables": [
+		{ "type": "track", "trackId": 8744204 },
+		{ "type": "track", "trackId": 8744216 },
+		{ "type": "track", "trackId": 8744224 },
+		{ "type": "track", "trackId": 8744233 },
+		{ "type": "track", "trackId": 8744242 },
+		{ "type": "track", "trackId": 8744250 },
+		{ "type": "track", "trackId": 8744263 },
+		{ "type": "track", "trackId": 8744273 },
+		{ "type": "track", "trackId": 8744278 },
+		{ "type": "track", "trackId": 8744284 },
+		{ "type": "track", "trackId": 8744289 },
+		{ "type": "track", "trackId": 8744293 },
+		{ "type": "track", "trackId": 8744302 }
+	]
+}

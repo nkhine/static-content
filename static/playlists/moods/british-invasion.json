@@ -1,0 +1,166 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/british-invasion.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 151244
+    },
+    {
+      "type": "track",
+      "trackId": 18686537
+    },
+    {
+      "type": "track",
+      "trackId": 30787222
+    },
+    {
+      "type": "track",
+      "trackId": 51030879
+    },
+    {
+      "type": "track",
+      "trackId": 36870123
+    },
+    {
+      "type": "track",
+      "trackId": 30936113
+    },
+    {
+      "type": "track",
+      "trackId": 11497578
+    },
+    {
+      "type": "track",
+      "trackId": 30943933
+    },
+    {
+      "type": "track",
+      "trackId": 3036590
+    },
+    {
+      "type": "track",
+      "trackId": 48219809
+    },
+    {
+      "type": "track",
+      "trackId": 37402858
+    },
+    {
+      "type": "track",
+      "trackId": 4465077
+    },
+    {
+      "type": "track",
+      "trackId": 4810841
+    },
+    {
+      "type": "track",
+      "trackId": 359678
+    },
+    {
+      "type": "track",
+      "trackId": 165167
+    },
+    {
+      "type": "track",
+      "trackId": 40383503
+    },
+    {
+      "type": "track",
+      "trackId": 11444419
+    },
+    {
+      "type": "track",
+      "trackId": 7231835
+    },
+    {
+      "type": "track",
+      "trackId": 30936219
+    },
+    {
+      "type": "track",
+      "trackId": 33369006
+    },
+    {
+      "type": "track",
+      "trackId": 4587363
+    },
+    {
+      "type": "track",
+      "trackId": 11324
+    },
+    {
+      "type": "track",
+      "trackId": 30940680
+    },
+    {
+      "type": "track",
+      "trackId": 3177814
+    },
+    {
+      "type": "track",
+      "trackId": 168526
+    },
+    {
+      "type": "track",
+      "trackId": 54245805
+    },
+    {
+      "type": "track",
+      "trackId": 164162
+    },
+    {
+      "type": "track",
+      "trackId": 39137004
+    },
+    {
+      "type": "track",
+      "trackId": 3824449
+    },
+    {
+      "type": "track",
+      "trackId": 14664983
+    },
+    {
+      "type": "track",
+      "trackId": 67623531
+    },
+    {
+      "type": "track",
+      "trackId": 8163627
+    },
+    {
+      "type": "track",
+      "trackId": 9274089
+    },
+    {
+      "type": "track",
+      "trackId": 19624235
+    },
+    {
+      "type": "track",
+      "trackId": 57382361
+    },
+    {
+      "type": "track",
+      "trackId": 21073835
+    },
+    {
+      "type": "track",
+      "trackId": 16214015
+    },
+    {
+      "type": "track",
+      "trackId": 15719312
+    },
+    {
+      "type": "track",
+      "trackId": 39703511
+    },
+    {
+      "type": "track",
+      "trackId": 60557962
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "header": {
+    "title": "Sound Machine",
+    "subtitle": "Meditate"
+  },
+  "page": {
+    "background": "soundmachine"
+  },
+  "linkPlayables": false,
+  "items": [
+    {
+      "type": "icon",
+      "icon": "singing-bowls",
+      "iconColor": "cyan",
+      "title": "Singing Bowls",
+      "role": "soundmachine-singing-bowls",
+      "playable": "playlists/soundmachine/singing-bowls",
+      "image": "playlist-images/soundmachine.jpg"
+    },
+    {
+      "type": "icon",
+      "icon": "yoga",
+      "iconColor": "cyan",
+      "title": "Yoga",
+      "role": "soundmachine-yoga",
+      "playable": "playlists/soundmachine/yoga",
+      "image": "playlist-images/soundmachine.jpg"
+    },
+    {
+      "type": "icon",
+      "icon": "chi",
+      "iconColor": "cyan",
+      "title": "Chi",
+      "role": "soundmachine-chi",
+      "playable": "playlists/soundmachine/chi",
+      "image": "playlist-images/soundmachine.jpg"
+    }
+  ]
+}

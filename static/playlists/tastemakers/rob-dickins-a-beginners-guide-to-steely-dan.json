@@ -1,0 +1,86 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/rd-02.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 35599438
+    },
+    {
+      "type": "track",
+      "trackId": 143134
+    },
+    {
+      "type": "track",
+      "trackId": 35599454
+    },
+    {
+      "type": "track",
+      "trackId": 4500785
+    },
+    {
+      "type": "track",
+      "trackId": 35599456
+    },
+    {
+      "type": "track",
+      "trackId": 4500790
+    },
+    {
+      "type": "track",
+      "trackId": 4500799
+    },
+    {
+      "type": "track",
+      "trackId": 35599459
+    },
+    {
+      "type": "track",
+      "trackId": 35599511
+    },
+    {
+      "type": "track",
+      "trackId": 35599471
+    },
+    {
+      "type": "track",
+      "trackId": 35599478
+    },
+    {
+      "type": "track",
+      "trackId": 4500814
+    },
+    {
+      "type": "track",
+      "trackId": 35599487
+    },
+    {
+      "type": "track",
+      "trackId": 4500829
+    },
+    {
+      "type": "track",
+      "trackId": 35599502
+    },
+    {
+      "type": "track",
+      "trackId": 35599504
+    },
+    {
+      "type": "track",
+      "trackId": 35599513
+    },
+    {
+      "type": "track",
+      "trackId": 35599516
+    },
+    {
+      "type": "track",
+      "trackId": 4500850
+    },
+    {
+      "type": "track",
+      "trackId": 4556514
+    }
+  ]
+}

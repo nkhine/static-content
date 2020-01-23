@@ -1,0 +1,102 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/funk.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 2966570
+    },
+    {
+      "type": "track",
+      "trackId": 31026564
+    },
+    {
+      "type": "track",
+      "trackId": 3532081
+    },
+    {
+      "type": "track",
+      "trackId": 5964807
+    },
+    {
+      "type": "track",
+      "trackId": 34233425
+    },
+    {
+      "type": "track",
+      "trackId": 50046942
+    },
+    {
+      "type": "track",
+      "trackId": 19148608
+    },
+    {
+      "type": "track",
+      "trackId": 2471349
+    },
+    {
+      "type": "track",
+      "trackId": 159282
+    },
+    {
+      "type": "track",
+      "trackId": 3115491
+    },
+    {
+      "type": "track",
+      "trackId": 505658
+    },
+    {
+      "type": "track",
+      "trackId": 171934
+    },
+    {
+      "type": "track",
+      "trackId": 217360
+    },
+    {
+      "type": "track",
+      "trackId": 2207603
+    },
+    {
+      "type": "track",
+      "trackId": 503404
+    },
+    {
+      "type": "track",
+      "trackId": 183314
+    },
+    {
+      "type": "track",
+      "trackId": 169460
+    },
+    {
+      "type": "track",
+      "trackId": 3319921
+    },
+    {
+      "type": "track",
+      "trackId": 3597710
+    },
+    {
+      "type": "track",
+      "trackId": 562749
+    },
+    {
+      "type": "track",
+      "trackId": 15952690
+    },
+    {
+      "type": "track",
+      "trackId": 22638612
+    },
+    {
+      "type": "track",
+      "trackId": 32053647
+    },
+    {
+      "type": "track",
+      "trackId": 39470420
+    }
+  ]
+}

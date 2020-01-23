@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/drum-bass.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 41825712
+    },
+    {
+      "type": "track",
+      "trackId": 23980508
+    },
+    {
+      "type": "track",
+      "trackId": 45627238
+    },
+    {
+      "type": "track",
+      "trackId": 33529525
+    },
+    {
+      "type": "track",
+      "trackId": 47054738
+    },
+    {
+      "type": "track",
+      "trackId": 10104429
+    },
+    {
+      "type": "track",
+      "trackId": 3059686
+    },
+    {
+      "type": "track",
+      "trackId": 13967470
+    },
+    {
+      "type": "track",
+      "trackId": 17018664
+    },
+    {
+      "type": "track",
+      "trackId": 4755196
+    },
+    {
+      "type": "track",
+      "trackId": 48441675
+    },
+    {
+      "type": "track",
+      "trackId": 9645944
+    },
+    {
+      "type": "track",
+      "trackId": 50121733
+    },
+    {
+      "type": "track",
+      "trackId": 18561824
+    },
+    {
+      "type": "track",
+      "trackId": 48845574
+    },
+    {
+      "type": "track",
+      "trackId": 5989942
+    },
+    {
+      "type": "track",
+      "trackId": 17012807
+    },
+    {
+      "type": "track",
+      "trackId": 50507055
+    },
+    {
+      "type": "track",
+      "trackId": 15273344
+    },
+    {
+      "type": "track",
+      "trackId": 30625141
+    },
+    {
+      "type": "track",
+      "trackId": 11983013
+    },
+    {
+      "type": "track",
+      "trackId": 30956295
+    },
+    {
+      "type": "track",
+      "trackId": 13483268
+    },
+    {
+      "type": "track",
+      "trackId": 15273314
+    },
+    {
+      "type": "track",
+      "trackId": 18831259
+    },
+    {
+      "type": "track",
+      "trackId": 14914075
+    },
+    {
+      "type": "track",
+      "trackId": 45615214
+    },
+    {
+      "type": "track",
+      "trackId": 22385945
+    },
+    {
+      "type": "track",
+      "trackId": 17637276
+    },
+    {
+      "type": "track",
+      "trackId": 17019460
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "type": "playlist",
+  "name": "Sweet Soul Music",
+  "image": "playlist-images/sweet-soul-music.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 10916594
+    },
+    {
+      "type": "track",
+      "trackId": 2226913
+    },
+    {
+      "type": "track",
+      "trackId": 12280351
+    },
+    {
+      "type": "track",
+      "trackId": 5839000
+    },
+    {
+      "type": "track",
+      "trackId": 373156
+    },
+    {
+      "type": "track",
+      "trackId": 3246256
+    },
+    {
+      "type": "track",
+      "trackId": 1094915
+    },
+    {
+      "type": "track",
+      "trackId": 581719
+    },
+    {
+      "type": "track",
+      "trackId": 359044
+    },
+    {
+      "type": "track",
+      "trackId": 48047354
+    },
+    {
+      "type": "track",
+      "trackId": 38935650
+    },
+    {
+      "type": "track",
+      "trackId": 12621438
+    },
+    {
+      "type": "track",
+      "trackId": 36390387
+    },
+    {
+      "type": "track",
+      "trackId": 18470540
+    },
+    {
+      "type": "track",
+      "trackId": 4452713
+    },
+    {
+      "type": "track",
+      "trackId": 152799
+    },
+    {
+      "type": "track",
+      "trackId": 4457672
+    },
+    {
+      "type": "track",
+      "trackId": 152954
+    },
+    {
+      "type": "track",
+      "trackId": 4159415
+    },
+    {
+      "type": "track",
+      "trackId": 4061374
+    },
+    {
+      "type": "track",
+      "trackId": 3223983
+    },
+    {
+      "type": "track",
+      "trackId": 19156337
+    },
+    {
+      "type": "track",
+      "trackId": 22333435
+    },
+    {
+      "type": "track",
+      "trackId": 161255
+    },
+    {
+      "type": "track",
+      "trackId": 503620
+    },
+    {
+      "type": "track",
+      "trackId": 6686449
+    },
+    {
+      "type": "track",
+      "trackId": 31407559
+    },
+    {
+      "type": "track",
+      "trackId": 7461452
+    },
+    {
+      "type": "track",
+      "trackId": 4005014
+    },
+    {
+      "type": "track",
+      "trackId": 4350670
+    }
+  ]
+}

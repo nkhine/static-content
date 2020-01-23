@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/pumpkin-white.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 31611566
+    },
+    {
+      "type": "track",
+      "trackId": 7746061
+    },
+    {
+      "type": "track",
+      "trackId": 3300331
+    },
+    {
+      "type": "track",
+      "trackId": 6318886
+    },
+    {
+      "type": "track",
+      "trackId": 5926100
+    },
+    {
+      "type": "track",
+      "trackId": 4600098
+    },
+    {
+      "type": "track",
+      "trackId": 16117866
+    },
+    {
+      "type": "track",
+      "trackId": 50389503
+    },
+    {
+      "type": "track",
+      "trackId": 3326744
+    },
+    {
+      "type": "track",
+      "trackId": 3863410
+    },
+    {
+      "type": "track",
+      "trackId": 22805964
+    },
+    {
+      "type": "track",
+      "trackId": 63461165
+    },
+    {
+      "type": "track",
+      "trackId": 11269262
+    },
+    {
+      "type": "track",
+      "trackId": 70648566
+    },
+    {
+      "type": "track",
+      "trackId": 46979404
+    },
+    {
+      "type": "track",
+      "trackId": 36725901
+    },
+    {
+      "type": "track",
+      "trackId": 8154290
+    },
+    {
+      "type": "track",
+      "trackId": 7746000
+    },
+    {
+      "type": "track",
+      "trackId": 41530817
+    },
+    {
+      "type": "track",
+      "trackId": 10423814
+    },
+    {
+      "type": "track",
+      "trackId": 3160636
+    },
+    {
+      "type": "track",
+      "trackId": 11020223
+    },
+    {
+      "type": "track",
+      "trackId": 64899727
+    },
+    {
+      "type": "track",
+      "trackId": 47150965
+    },
+    {
+      "type": "track",
+      "trackId": 57015689
+    }
+  ]
+}

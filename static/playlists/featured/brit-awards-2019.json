@@ -1,0 +1,122 @@
+{
+    "type": "playlist",
+    "name": "Brit Awards 2019",
+    "image": "playlist-images/brit-awards-2019.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 67776197
+        },
+        {
+            "type": "track",
+            "trackId": 68558444
+        },
+        {
+            "type": "track",
+            "trackId": 73382472
+        },
+        {
+            "type": "track",
+            "trackId": 72076871
+        },
+        {
+            "type": "track",
+            "trackId": 76109932
+        },
+        {
+            "type": "track",
+            "trackId": 77860008
+        },
+        {
+            "type": "track",
+            "trackId": 78846250
+        },
+        {
+            "type": "track",
+            "trackId": 70230837
+        },
+        {
+            "type": "track",
+            "trackId": 73974320
+        },
+        {
+            "type": "track",
+            "trackId": 70312004
+        },
+        {
+            "type": "track",
+            "trackId": 79171196
+        },
+        {
+            "type": "track",
+            "trackId": 77154653
+        },
+        {
+            "type": "track",
+            "trackId": 77941104
+        },
+        {
+            "type": "track",
+            "trackId": 69636186
+        },
+        {
+            "type": "track",
+            "trackId": 74470963
+        },
+        {
+            "type": "track",
+            "trackId": 79805920
+        },
+        {
+            "type": "track",
+            "trackId": 69670190
+        },
+        {
+            "type": "track",
+            "trackId": 72955405
+        },
+        {
+            "type": "track",
+            "trackId": 75723488
+        },
+        {
+            "type": "track",
+            "trackId": 66845409
+        },
+        {
+            "type": "track",
+            "trackId": 71432093
+        },
+        {
+            "type": "track",
+            "trackId": 53073746
+        },
+        {
+            "type": "track",
+            "trackId": 74305832
+        },
+        {
+            "type": "track",
+            "trackId": 73092357
+        },
+        {
+            "type": "track",
+            "trackId": 74474804
+        },
+        {
+            "type": "track",
+            "trackId": 73092359
+        },
+        {
+            "type": "track",
+            "trackId": 80375845
+        },
+        {
+            "type": "track",
+            "trackId": 72488213
+        },
+        {
+            "type": "track",
+            "trackId": 76801439
+        }
+    ]
+}

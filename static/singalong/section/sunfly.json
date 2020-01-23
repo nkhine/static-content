@@ -1,0 +1,115 @@
+{
+  "header": {
+    "title": "Karaoke",
+    "subtitle": ""
+  },
+  "page": {
+    "background": "party"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "title": "Karaoke Classics",
+      "icon": "sing-with-the-stars",
+      "iconColor": "orange",
+      "role": "karaoke-genres-sunfly-classics",
+      "url": "/karaoke/genres/sunfly-classics"
+    },
+    {
+      "type": "icon",
+      "title": "Pop Eras",
+      "icon": "pop",
+      "iconColor": "cyan",
+      "role": "karaoke-section-sunfly-pop",
+      "url": "/karaoke/section/sunfly-pop"
+    },
+    {
+      "type": "icon",
+      "title": "Kids",
+      "icon": "kids",
+      "iconColor": "pink",
+      "role": "karaoke-genres-sunfly-childrens",
+      "url": "/karaoke/genres/sunfly-childrens"
+    },
+    {
+      "type": "icon",
+      "title": "Christmas",
+      "icon": "christmas",
+      "iconColor": "green",
+      "role": "karaoke-genres-sunfly-christmas",
+      "url": "/karaoke/genres/sunfly-christmas"
+    },
+    {
+      "type": "icon",
+      "title": "Disco & Dance",
+      "icon": "disco",
+      "iconColor": "orange",
+      "role": "karaoke-genres-sunfly-dance-disco",
+      "url": "/karaoke/genres/sunfly-dance-disco"
+    },
+    {
+      "type": "icon",
+      "title": "Crooners",
+      "icon": "singalong",
+      "iconColor": "blue",
+      "role": "karaoke-genres-sunfly-crooners",
+      "url": "/karaoke/genres/sunfly-crooners"
+    },
+    {
+      "type": "icon",
+      "title": "Musicals",
+      "icon": "soundtrack",
+      "iconColor": "cyan",
+      "role": "karaoke-genres-sunfly-musicals",
+      "url": "/karaoke/genres/sunfly-musicals"
+    },
+    {
+      "type": "icon",
+      "title": "Rock \"n\" Roll",
+      "icon": "blues",
+      "iconColor": "orange",
+      "role": "karaoke-genres-sunfly-rock-n-roll",
+      "url": "/karaoke/genres/sunfly-rock-n-roll"
+    },
+    {
+      "type": "icon",
+      "title": "Rock Eras",
+      "icon": "rock",
+      "iconColor": "red",
+      "role": "karaoke-section-sunfly-rock",
+      "url": "/karaoke/section/sunfly-rock"
+    },
+    {
+      "type": "icon",
+      "title": "RnB",
+      "icon": "rnb",
+      "iconColor": "blue",
+      "role": "karaoke-genres-sunfly-rnb",
+      "url": "/karaoke/genres/sunfly-rnb"
+    },
+    {
+      "type": "icon",
+      "title": "Indie",
+      "icon": "indie",
+      "iconColor": "orange",
+      "role": "karaoke-genres-sunfly-alt-indie",
+      "url": "/karaoke/genres/sunfly-alt-indie"
+    },
+    {
+      "type": "icon",
+      "title": "Soul Eras",
+      "icon": "rap",
+      "iconColor": "pink",
+      "role": "karaoke-section-sunfly-soul",
+      "url": "/karaoke/section/sunfly-soul"
+    },
+    {
+      "type": "icon",
+      "title": "Country Eras",
+      "icon": "country",
+      "iconColor": "orange",
+      "role": "karaoke-section-sunfly-country",
+      "url": "/karaoke/section/sunfly-country"
+    }
+  ]
+}

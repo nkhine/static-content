@@ -1,0 +1,54 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Tastemakers"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Robbie and Ayda",
+      "subtitle": "",
+      "type": "button",
+      "image": "playlist-images/tastemaker-robbie-ayda.jpg",
+      "url": "/discover/tastemakers/robbie-williams"
+    },
+    {
+      "title": "Sheryl Crow",
+      "subtitle": "",
+      "type": "button",
+      "image": "playlist-images/tastemaker-sheryl-crow.jpg",
+      "url": "/discover/tastemakers/sheryl-crow"
+    },
+    {
+      "title": "Alesha Dixon",
+      "subtitle": "",
+      "type": "button",
+      "image": "playlist-images/tastemaker-alesha-dixon.jpg",
+      "url": "/discover/tastemakers/alesha-dixon"
+    },
+    {
+      "title": "Alexander Armstrong",
+      "subtitle": "",
+      "type": "button",
+      "image": "playlist-images/tastemaker-alexander-armstrong.jpg",
+      "url": "/discover/tastemakers/alexander-armstrong"
+    },
+    {
+      "title": "Stephen Fry",
+      "subtitle": "",
+      "type": "button",
+      "image": "playlist-images/tastemaker-stephen-fry.jpg",
+      "url": "/discover/tastemakers/stephen-fry"
+    },
+    {
+      "title": "Rob Dickins",
+      "subtitle": "",
+      "type": "button",
+      "image": "playlist-images/tastemaker-rob-dickens.jpg",
+      "url": "/discover/tastemakers/rob-dickins"
+    }
+
+  ]
+}

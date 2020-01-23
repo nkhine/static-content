@@ -1,0 +1,114 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/tropical-house.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 44832493
+    },
+    {
+      "type": "track",
+      "trackId": 39545183
+    },
+    {
+      "type": "track",
+      "trackId": 34033456
+    },
+    {
+      "type": "track",
+      "trackId": 47229226
+    },
+    {
+      "type": "track",
+      "trackId": 43352778
+    },
+    {
+      "type": "track",
+      "trackId": 10771114
+    },
+    {
+      "type": "track",
+      "trackId": 8658508
+    },
+    {
+      "type": "track",
+      "trackId": 51706525
+    },
+    {
+      "type": "track",
+      "trackId": 33721888
+    },
+    {
+      "type": "track",
+      "trackId": 43690437
+    },
+    {
+      "type": "track",
+      "trackId": 43287659
+    },
+    {
+      "type": "track",
+      "trackId": 49800039
+    },
+    {
+      "type": "track",
+      "trackId": 47148432
+    },
+    {
+      "type": "track",
+      "trackId": 40964734
+    },
+    {
+      "type": "track",
+      "trackId": 34105802
+    },
+    {
+      "type": "track",
+      "trackId": 31686041
+    },
+    {
+      "type": "track",
+      "trackId": 33194410
+    },
+    {
+      "type": "track",
+      "trackId": 39300403
+    },
+    {
+      "type": "track",
+      "trackId": 35299720
+    },
+    {
+      "type": "track",
+      "trackId": 35085501
+    },
+    {
+      "type": "track",
+      "trackId": 48795291
+    },
+    {
+      "type": "track",
+      "trackId": 32000364
+    },
+    {
+      "type": "track",
+      "trackId": 47924629
+    },
+    {
+      "type": "track",
+      "trackId": 37998273
+    },
+    {
+      "type": "track",
+      "trackId": 35443871
+    },
+    {
+      "type": "track",
+      "trackId": 49723507
+    },
+    {
+      "type": "track",
+      "trackId": 32846404
+    }
+  ]
+}

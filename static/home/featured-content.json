@@ -1,0 +1,537 @@
+[
+  {
+    "title": "2020 Wellbeing",
+    "assets": {
+      "carousel": "wellbeing"
+    },
+    "available": {
+      "startDate": "01 Jan 2020 06:00:00 GMT",
+      "endDate": "01 Feb 2020 00:00:00 GMT",
+      "countries": ["GB", "US"]
+    },
+    "actions": [
+      {
+        "title": "Alternative Inspiration",
+        "playlist": {
+          "imageUrl": "playlist-images/alternative.jpg",
+          "staticPath": "playlists/200-v1"
+        }
+      },
+      {
+        "title": "Urban Motivation",
+        "playlist": {
+          "imageUrl": "playlist-images/urban-motivation.jpg",
+          "staticPath": "playlists/203-v1"
+        }
+      },
+      {
+        "title": "Introspection",
+        "playlist": {
+          "imageUrl": "playlist-images/yoga.jpg",
+          "staticPath": "playlists/202-v1"
+        }
+      },
+      {
+        "title": "Rock & Run",
+        "playlist": {
+          "imageUrl": "playlist-images/rock-and-run.jpg",
+          "staticPath": "playlists/201-v1"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "New Year 2020",
+    "assets": {
+      "carousel": "new-years-2020"
+    },
+    "available": {
+      "startDate": "29 Dec 2019 23:59:59 GMT",
+      "endDate": "02 Jan 2020 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "actions": [
+      {
+        "title": "2019 Hits Recap",
+        "playlist": {
+          "imageUrl": "playlist-images/2019-hits-recap.jpg",
+          "staticPath": "playlists/298-v1"
+        }
+      },
+      {
+        "title": "Pop Party",
+        "playlist": {
+          "imageUrl": "playlist-images/pop-2.jpg",
+          "staticPath": "playlists/196-v1"
+        }
+      },
+      {
+        "title": "New Year's Rock",
+        "playlist": {
+          "imageUrl": "playlist-images/newyears-rock.jpg",
+          "staticPath": "playlists/199-v1"
+        }
+      },
+      {
+        "title": "Get Funky",
+        "playlist": {
+          "imageUrl": "playlist-images/funk.jpg",
+          "staticPath": "playlists/198-v1"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Christmas",
+    "assets": {
+      "carousel": "christmas-2019"
+    },
+    "available": {
+      "startDate": "22 Dec 2019 23:59:59 GMT",
+      "endDate": "26 Dec 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "actions": [
+      {
+        "title": "Traditional Christmas",
+        "playlist": {
+          "imageUrl": "playlist-images/christmas-greats.jpg",
+          "staticPath": "playlists/204-v1"
+        }
+      },
+      {
+        "title": "Set The Christmas Table",
+        "playlist": {
+          "imageUrl": "playlist-images/set-the-table.jpg",
+          "staticPath": "playlists/192-v1"
+        }
+      },
+      {
+        "title": "Moves Like Santa",
+        "playlist": {
+          "imageUrl": "playlist-images/moves-like-santa.jpg",
+          "staticPath": "playlists/193-v1"
+        }
+      },
+      {
+        "title": "Snowy Morning",
+        "playlist": {
+          "imageUrl": "playlist-images/snowy-morning.jpg",
+          "staticPath": "playlists/194-v1"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Frozen",
+    "assets": {
+      "carousel": "frozen"
+    },
+    "available": {
+      "startDate": "26 Nov 2019 00:00:00 GMT",
+      "endDate": "22 Dec 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "release": {
+      "releaseId": 10574259,
+      "releaseName": "Frozen 2",
+      "artistName": "Various Artists",
+      "year": 2019,
+      "imageUrl": "https://artwork-cdn.7static.com/static/img/sleeveart/00/105/742/0010574259_350.jpg"
+    }
+  },
+
+  {
+    "title": "Emeli Sande",
+    "assets": {
+      "carousel": "emeli"
+    },
+    "available": {
+      "startDate": "02 Oct 2019 00:00:00 GMT",
+      "endDate": "03 Nov 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "release": {
+      "releaseId": 10169657,
+      "releaseName": "Real Life",
+      "artistName": "Emeli Sande",
+      "year": 2019,
+      "imageUrl": "https://artwork-cdn.7static.com/static/img/sleeveart/00/101/696/0010169657_350.jpg"
+    }
+  },
+
+  {
+    "title": "Green River",
+    "assets": {
+      "carousel": "creedence"
+    },
+    "available": {
+      "startDate": "03 Sep 2019 00:00:00 GMT",
+      "endDate": "01 Oct 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "release": {
+      "releaseId": 320829,
+      "releaseName": "Green River",
+      "artistName": "Creedence Clearwater Revival",
+      "year": 2008,
+      "imageUrl": "https://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320829_350.jpg"
+    }
+  },
+  {
+    "title": "#YEET",
+    "assets": {
+      "carousel": "the-feels"
+    },
+    "available": {
+      "startDate": "19 Aug 2019 00:00:00 GMT",
+      "endDate": "28 Aug 2019 23:59:59 GMT",
+      "countries": ["GB"]
+    },
+    "actions": [
+      {
+        "title": "Summer Vibes",
+        "playlist": {
+          "imageUrl": "playlist-images/summer-vibes.jpg",
+          "staticPath": "playlists/featured/teens-trending"
+        }
+      },
+      {
+        "title": "Grab the Mic",
+        "url": "/singalong/teens",
+        "button": {
+          "icon": "microphone",
+          "imageUrl": "playlist-images/grab-the-mic.jpg"
+        }
+      },
+      { "title": "" },
+      {
+        "title": "",
+        "url": "/games/teens-trending-3",
+        "premiumFeature": true,
+        "button": {
+          "icon": "origins",
+          "imageUrl": "home/carousel/icons/name-the-song.png"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Kids Summer Fun",
+    "assets": {
+      "carousel": "kids-summer-fun"
+    },
+    "available": {
+      "startDate": "19 Aug 2019 00:00:00 GMT",
+      "endDate": "28 Aug 2019 23:59:59 GMT",
+      "countries": ["GB"]
+    },
+    "actions": [
+      {
+        "title": "Learning",
+        "playlist": {
+          "imageUrl": "playlist-images/kids-learning.jpg",
+          "staticPath": "playlists/featured/kids-learning"
+        }
+      },
+      {
+        "title": "Sing-along",
+        "url": "/singalong/kids",
+        "button": {
+          "icon": "microphone",
+          "imageUrl": "playlist-images/kids-singalong.jpg"
+        }
+      },
+      { "title": "" },
+      {
+        "title": "",
+        "url": "/games/schools-out-preteen-3",
+        "premiumFeature": true,
+        "button": {
+          "icon": "origins",
+          "imageUrl": "home/carousel/icons/name-the-song.png"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Father's Day",
+    "assets": {
+      "carousel": "fathers-day"
+    },
+    "available": {
+      "startDate": "14 Jun 2019 00:00:00 GMT",
+      "endDate": "16 Jun 2019 23:59:59 GMT",
+      "countries": ["GB"]
+    },
+    "playlist": {
+      "title": "For the Dads...",
+      "imageUrl": "playlist-images/fathers-day.jpg",
+      "staticPath": "playlists/featured/fathers-day"
+    }
+  },
+
+  {
+    "title": "Festivals",
+    "assets": {
+      "carousel": "festivals"
+    },
+    "available": {
+      "startDate": "17 Jun 2019 00:00:00 GMT",
+      "endDate": "10 Jul 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "actions": [
+      {
+        "title": "Glastonbury",
+        "playlist": {
+          "imageUrl": "playlist-images/glastonbury-festival.jpg",
+          "staticPath": "playlists/featured/glastonbury-festival"
+        }
+      },
+      {
+        "title": "Latitude",
+        "playlist": {
+          "imageUrl": "playlist-images/latitude-festival.jpg",
+          "staticPath": "playlists/featured/latitude-festival"
+        }
+      },
+      {
+        "title": "TRNSMT",
+        "playlist": {
+          "imageUrl": "playlist-images/trnsmt-festival.jpg",
+          "staticPath": "playlists/featured/trnsmt-festival"
+        }
+      },
+      {
+        "title": "Camp Bestival",
+        "playlist": {
+          "imageUrl": "playlist-images/camp-bestival.jpg",
+          "staticPath": "playlists/featured/camp-bestival"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Pink New Album",
+    "assets": {
+      "carousel": "pink-album"
+    },
+    "available": {
+      "startDate": "09 May 2019 00:00:00 GMT",
+      "endDate": "16 May 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "release": {
+      "releaseId": 9396904,
+      "releaseName": "Hurts 2B Human",
+      "artistName": "P!nk",
+      "year": 2019,
+      "imageUrl": "https://artwork-cdn.7static.com/static/img/sleeveart/00/093/969/0009396904_350.jpg"
+    }
+  },
+
+  {
+    "title": "World Music",
+    "assets": {
+      "carousel": "world-music"
+    },
+    "available": {
+      "startDate": "24 Apr 2019 00:00:00 GMT",
+      "endDate": "08 May 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "actions": [
+      {
+        "title": "Afrobeat",
+        "playlist": {
+          "imageUrl": "playlist-images/afrobeat.jpg",
+          "staticPath": "playlists/genres/world-music/afrobeat"
+        }
+      },
+      {
+        "title": "A Taste of Irish",
+        "playlist": {
+          "imageUrl": "playlist-images/irish-music.jpg",
+          "staticPath": "playlists/genres/world-music/irish-music"
+        }
+      },
+      {
+        "title": "Hot Salsa",
+        "playlist": {
+          "imageUrl": "playlist-images/salsa-and-merengue.jpg",
+          "staticPath": "playlists/genres/world-music/salsa-and-merengue"
+        }
+      },
+      {
+        "title": "Sounds of China",
+        "playlist": {
+          "imageUrl": "playlist-images/get-to-know-china.jpg",
+          "staticPath": "playlists/genres/world-music/get-to-know-china"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Easter Awesome",
+    "assets": {
+      "carousel": "easter"
+    },
+    "available": {
+      "startDate": "08 Apr 2019 00:00:00 GMT",
+      "endDate": "24 Apr 2019 23:59:59 GMT",
+      "countries": ["GB", "US"]
+    },
+    "actions": [
+      {
+        "title": "Disney Hits",
+        "playlist": {
+          "imageUrl": "playlist-images/disney-hits.jpg",
+          "staticPath": "playlists/featured/disney-hits"
+        }
+      },
+      {
+        "title": "Bop 'til You Drop",
+        "playlist": {
+          "imageUrl": "playlist-images/bop-drop.jpg",
+          "staticPath": "playlists/featured/bop-drop"
+        }
+      },
+      {
+        "title": "Kids Singalong",
+        "url": "/singalong/kids",
+        "button": {
+          "imageUrl": "playlist-images/kids-singalong.jpg",
+          "icon": "microphone"
+        }
+      },
+      {
+        "title": "Play the Kids Game",
+        "url": "/games/namethesong/round/children/1",
+        "button": {
+          "imageUrl": "playlist-images/kids-game.jpg",
+          "icon": "origins"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Dido",
+    "assets": {
+      "carousel": "dido-album"
+    },
+    "available": {
+      "startDate": "01 Apr 2019 GMT",
+      "endDate": "08 Apr 2019 00:00:00 GMT",
+      "countries": ["GB"]
+    },
+    "release": {
+      "releaseId": 9206069,
+      "releaseName": "Still on my Mind",
+      "artistName": "Dido",
+      "year": 2019,
+      "imageUrl": "https://artwork-cdn.7static.com/static/img/sleeveart/00/092/060/0009206069_350.jpg",
+      "staticPath": "playlists/featured/mothers-day"
+    }
+  },
+
+  {
+    "title": "Mother's Day",
+    "assets": {
+      "carousel": "mothers-day"
+    },
+    "available": false,
+    "playlist": {
+      "title": "With Love",
+      "imageUrl": "playlist-images/mothers-day.jpg",
+      "staticPath": "playlists/featured/mothers-day"
+    }
+  },
+
+  {
+    "title": "Valentine",
+    "assets": {
+      "carousel": "valentine"
+    },
+    "available": false,
+    "actions": [
+      {
+        "title": "Significant Other",
+        "playlist": {
+          "imageUrl": "playlist-images/significant-other.jpg",
+          "staticPath": "playlists/moods/significant-other"
+        }
+      },
+      {
+        "title": "Together Forever",
+        "playlist": {
+          "imageUrl": "playlist-images/stay-together.jpg",
+          "staticPath": "playlists/moods/stay-together"
+        }
+      },
+      {
+        "title": "Lovin' Folk",
+        "playlist": {
+          "imageUrl": "playlist-images/lovin-folk.jpg",
+          "staticPath": "playlists/genres/lovin-folk"
+        }
+      },
+      {
+        "title": "Sweet Soul Music",
+        "playlist": {
+          "imageUrl": "playlist-images/sweet-soul-music.jpg",
+          "staticPath": "playlists/genres/sweet-soul-music"
+        }
+      }
+    ]
+  },
+
+  {
+    "title": "Today's Offer",
+    "assets": {
+      "carousel": "charcoal-product"
+    },
+    "available": false,
+    "closeIcon": {
+      "icon": "close",
+      "color": "rgb(34,32,36)",
+      "shadowColor": "rgb(255,255,255)"
+    },
+    "actions": [
+      {
+        "title": "Play Video",
+        "titleColor": "rgb(34,32,36)",
+        "titleShadowColor": "rgb(255,255,255)",
+        "icon": "photoframe-play",
+        "iconColor": "rgb(34,32,36)",
+        "iconShadowColor": "rgb(255,255,255)",
+        "url": "/video/charcoal-product.mp4"
+      },
+      {
+        "title": "Testimonials",
+        "titleColor": "rgb(34,32,36)",
+        "titleShadowColor": "rgb(255,255,255)",
+        "icon": "speech",
+        "iconColor": "rgb(34,32,36)",
+        "iconShadowColor": "rgb(255,255,255)",
+        "url": "/video/testimonials.mp4"
+      },
+      {
+        "title": "Buy Now",
+        "titleColor": "rgb(34,32,36)",
+        "titleShadowColor": "rgb(255,255,255)",
+        "icon": "new-playlist",
+        "iconColor": "rgb(34,32,36)",
+        "iconShadowColor": "rgb(255,255,255)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/funk-disco-soul-bumps.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 3737554
+    },
+    {
+      "type": "track",
+      "trackId": 247925
+    },
+    {
+      "type": "track",
+      "trackId": 22639008
+    },
+    {
+      "type": "track",
+      "trackId": 30603352
+    },
+    {
+      "type": "track",
+      "trackId": 30987534
+    },
+    {
+      "type": "track",
+      "trackId": 3326400
+    },
+    {
+      "type": "track",
+      "trackId": 40556481
+    },
+    {
+      "type": "track",
+      "trackId": 17188953
+    },
+    {
+      "type": "track",
+      "trackId": 50084744
+    },
+    {
+      "type": "track",
+      "trackId": 15382370
+    },
+    {
+      "type": "track",
+      "trackId": 233073
+    },
+    {
+      "type": "track",
+      "trackId": 7456549
+    },
+    {
+      "type": "track",
+      "trackId": 30040990
+    },
+    {
+      "type": "track",
+      "trackId": 2502031
+    },
+    {
+      "type": "track",
+      "trackId": 9332614
+    },
+    {
+      "type": "track",
+      "trackId": 34327020
+    },
+    {
+      "type": "track",
+      "trackId": 52728196
+    },
+    {
+      "type": "track",
+      "trackId": 32746260
+    },
+    {
+      "type": "track",
+      "trackId": 30307314
+    },
+    {
+      "type": "track",
+      "trackId": 41387453
+    },
+    {
+      "type": "track",
+      "trackId": 5131978
+    },
+    {
+      "type": "track",
+      "trackId": 4674470
+    },
+    {
+      "type": "track",
+      "trackId": 30062081
+    }
+  ]
+}

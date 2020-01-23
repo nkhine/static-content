@@ -1,0 +1,48 @@
+[
+  {
+    "regex": "^(play )?christmas( playlist[s]?| time)?$",
+    "playable": ["playlists/featured/christmas-greats"]
+  },
+  {
+    "regex": "^play rock( music| songs)?$",
+    "playable": [
+      "playlists/genres/feel-good-indie-rock",
+      "playlists/genres/rock-covers",
+      "playlists/genres/the-boys-are-back-in-town",
+      "playlists/genres/no-more-heroes-punk"
+    ]
+  },
+  {
+    "regex": "^play jazz( music| songs)?$",
+    "playable": [
+      "playlists/genres/jazz-club",
+      "playlists/genres/classic-and-swing-jazz",
+      "playlists/genres/classic-blues"
+    ]
+  },
+
+  { "regex": "^(start|play|do) workout( music| songs)?$", "playable": [ "playlists/moods/workout" ] },
+  { "regex": "^(start|play|do) yoga( music| songs)?$", "playable": [ "playlists/genres/yoga" ] },
+
+  { "regex": "^play (chakra|chi)( ambient| sounds)?$", "playable": [ "playlists/moods/chakra" ] },
+  { "regex": "^play seduction( music| songs)?$", "playable": [ "playlists/moods/seduction" ] },
+  { "regex": "^play (nature|wildlife)( music| ambient| sounds)?$", "playable": [ "playlists/moods/nature", "playlists/moods/nature-2" ] },
+  { "regex": "^play (rain|water)( music| ambient| sounds)?$", "playable": [ "playlists/moods/rain" ] },
+  { "regex": "^play sleep( music| songs| ambient| sounds)?$", "playable": [ "playlists/moods/sleep" ] },
+  { "regex": "^play pop( music| songs)?$", "playable": [ "playlists/genres/pop" ] },
+  { "regex": "^play swing( music| songs)?$", "playable": [ "playlists/genres/swing" ] },
+  { "regex": "^play (modern )? r&b( music| songs)?$", "playable": [ "playlists/genres/modern-rnb" ] },
+  { "regex": "^play juju( music| songs)?$", "playable": [ "playlists/genres/pop" ] },
+  { "regex": "^play edm( music| songs)?$", "playable": [ "playlists/genres/edm" ] },
+  { "regex": "^play rock and roll( music| songs)?$", "playable": [ "playlists/genres/rock-n-roll" ] },
+  { "regex": "^play trance( music| songs)?$", "playable": [ "playlists/genres/trance" ] },
+  { "regex": "^play house( music| songs)?$", "playable": [ "playlists/genres/house", "playlists/genres/house-party" ] },
+  { "regex": "^play classical( music| songs)?$", "playable": [ "playlists/genres/classical" ] },
+  { "regex": "^play (19)?40s?$", "playable": [ "playlists/eras/1940s" ] },
+  { "regex": "^play (19)?50s?$", "playable": [ "playlists/eras/1950s" ] },
+  { "regex": "^play (19)?60s?$", "playable": [ "playlists/eras/1960s" ] },
+  { "regex": "^play (19)?70s?$", "playable": [ "playlists/eras/1970s" ] },
+  { "regex": "^play (19)?80s?$", "playable": [ "playlists/eras/1980s" ] },
+  { "regex": "^play (19)?90s?$", "playable": [ "playlists/eras/1990s" ] },
+  { "regex": "^play (20)?00s?$", "playable": [ "playlists/eras/2000s" ] }
+]

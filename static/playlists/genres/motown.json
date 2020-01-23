@@ -1,0 +1,142 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/motown.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 2242631
+    },
+    {
+      "type": "track",
+      "trackId": 42217920
+    },
+    {
+      "type": "track",
+      "trackId": 1494019
+    },
+    {
+      "type": "track",
+      "trackId": 4004899
+    },
+    {
+      "type": "track",
+      "trackId": 165811
+    },
+    {
+      "type": "track",
+      "trackId": 11775615
+    },
+    {
+      "type": "track",
+      "trackId": 161255
+    },
+    {
+      "type": "track",
+      "trackId": 157903
+    },
+    {
+      "type": "track",
+      "trackId": 39159930
+    },
+    {
+      "type": "track",
+      "trackId": 17570935
+    },
+    {
+      "type": "track",
+      "trackId": 32053564
+    },
+    {
+      "type": "track",
+      "trackId": 19398303
+    },
+    {
+      "type": "track",
+      "trackId": 4046342
+    },
+    {
+      "type": "track",
+      "trackId": 32053559
+    },
+    {
+      "type": "track",
+      "trackId": 3128968
+    },
+    {
+      "type": "track",
+      "trackId": 4243777
+    },
+    {
+      "type": "track",
+      "trackId": 15261959
+    },
+    {
+      "type": "track",
+      "trackId": 43771919
+    },
+    {
+      "type": "track",
+      "trackId": 1034
+    },
+    {
+      "type": "track",
+      "trackId": 37449651
+    },
+    {
+      "type": "track",
+      "trackId": 48175932
+    },
+    {
+      "type": "track",
+      "trackId": 3216093
+    },
+    {
+      "type": "track",
+      "trackId": 3906496
+    },
+    {
+      "type": "track",
+      "trackId": 151989
+    },
+    {
+      "type": "track",
+      "trackId": 359492
+    },
+    {
+      "type": "track",
+      "trackId": 5535882
+    },
+    {
+      "type": "track",
+      "trackId": 4004995
+    },
+    {
+      "type": "track",
+      "trackId": 4673536
+    },
+    {
+      "type": "track",
+      "trackId": 3970559
+    },
+    {
+      "type": "track",
+      "trackId": 172616
+    },
+    {
+      "type": "track",
+      "trackId": 4005002
+    },
+    {
+      "type": "track",
+      "trackId": 3502586
+    },
+    {
+      "type": "track",
+      "trackId": 35147699
+    },
+    {
+      "type": "track",
+      "trackId": 13556265
+    }
+  ]
+}

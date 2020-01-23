@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Jazz"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Jazz Club",
+      "type": "playlist",
+      "image": "playlist-images/jazz-club.jpg",
+      "playable": "playlists/genres/jazz-club"
+    },
+    {
+      "title": "Soulful Divas",
+      "type": "playlist",
+      "image": "playlist-images/chanteuse.jpg",
+      "playable": "playlists/genres/soulful-divas"
+    },
+    {
+      "title": "Classic and Swing",
+      "type": "playlist",
+      "image": "playlist-images/swing.jpg",
+      "playable": "playlists/genres/classic-and-swing-jazz"
+    },
+    {
+      "title": "Classic Blues",
+      "type": "playlist",
+      "image": "playlist-images/classic-blues.jpg",
+      "playable": "playlists/genres/classic-blues"
+    },
+    {
+      "title": "Hot Dixieland",
+      "type": "playlist",
+      "image": "playlist-images/dixieland.jpg",
+      "playable": "playlists/genres/hot-dixieland"
+    },
+    {
+      "title": "Acid Jazz",
+      "type": "playlist",
+      "image": "playlist-images/acid-jazz.jpg",
+      "playable": "playlists/genres/acid-jazz"
+    }
+  ]
+}

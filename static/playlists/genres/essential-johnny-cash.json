@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/johnnycash.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 13174486
+    },
+    {
+      "type": "track",
+      "trackId": 14359240
+    },
+    {
+      "type": "track",
+      "trackId": 57656189
+    },
+    {
+      "type": "track",
+      "trackId": 34989975
+    },
+    {
+      "type": "track",
+      "trackId": 13174461
+    },
+    {
+      "type": "track",
+      "trackId": 52552515
+    },
+    {
+      "type": "track",
+      "trackId": 59062252
+    },
+    {
+      "type": "track",
+      "trackId": 57656124
+    },
+    {
+      "type": "track",
+      "trackId": 56181377
+    },
+    {
+      "type": "track",
+      "trackId": 4452727
+    },
+    {
+      "type": "track",
+      "trackId": 8622919
+    },
+    {
+      "type": "track",
+      "trackId": 4452690
+    },
+    {
+      "type": "track",
+      "trackId": 13174463
+    },
+    {
+      "type": "track",
+      "trackId": 19101062
+    },
+    {
+      "type": "track",
+      "trackId": 15737061
+    },
+    {
+      "type": "track",
+      "trackId": 13174473
+    },
+    {
+      "type": "track",
+      "trackId": 58570928
+    },
+    {
+      "type": "track",
+      "trackId": 16432935
+    },
+    {
+      "type": "track",
+      "trackId": 48070576
+    },
+    {
+      "type": "track",
+      "trackId": 34990869
+    },
+    {
+      "type": "track",
+      "trackId": 60998012
+    },
+    {
+      "type": "track",
+      "trackId": 3213777
+    },
+    {
+      "type": "track",
+      "trackId": 48070563
+    },
+    {
+      "type": "track",
+      "trackId": 547100
+    },
+    {
+      "type": "track",
+      "trackId": 9807273
+    }
+  ]
+}

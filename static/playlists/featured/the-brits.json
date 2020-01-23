@@ -1,0 +1,78 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/the-brits-1.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 58451155
+    },
+    {
+      "type": "track",
+      "trackId": 58377108
+    },
+    {
+      "type": "track",
+      "trackId": 51771979
+    },
+    {
+      "type": "track",
+      "trackId": 38137978
+    },
+    {
+      "type": "track",
+      "trackId": 59023674
+    },
+    {
+      "type": "track",
+      "trackId": 50507192
+    },
+    {
+      "type": "track",
+      "trackId": 51175088
+    },
+    {
+      "type": "track",
+      "trackId": 54169457
+    },
+    {
+      "type": "track",
+      "trackId": 47149320
+    },
+    {
+      "type": "track",
+      "trackId": 51523636
+    },
+    {
+      "type": "track",
+      "trackId": 50510037
+    },
+    {
+      "type": "track",
+      "trackId": 56061260
+    },
+    {
+      "type": "track",
+      "trackId": 49703289
+    },
+    {
+      "type": "track",
+      "trackId": 56000792
+    },
+    {
+      "type": "track",
+      "trackId": 58604155
+    },
+    {
+      "type": "track",
+      "trackId": 58418626
+    },
+    {
+      "type": "track",
+      "trackId": 54181051
+    },
+    {
+      "type": "track",
+      "trackId": 57578489
+    }
+  ]
+}

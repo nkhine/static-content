@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/swing.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 47096859
+    },
+    {
+      "type": "track",
+      "trackId": 31548065
+    },
+    {
+      "type": "track",
+      "trackId": 2045277
+    },
+    {
+      "type": "track",
+      "trackId": 2900100
+    },
+    {
+      "type": "track",
+      "trackId": 19626914
+    },
+    {
+      "type": "track",
+      "trackId": 18798652
+    },
+    {
+      "type": "track",
+      "trackId": 16031638
+    },
+    {
+      "type": "track",
+      "trackId": 21956301
+    },
+    {
+      "type": "track",
+      "trackId": 9823351
+    },
+    {
+      "type": "track",
+      "trackId": 45668725
+    },
+    {
+      "type": "track",
+      "trackId": 18403085
+    },
+    {
+      "type": "track",
+      "trackId": 2362145
+    },
+    {
+      "type": "track",
+      "trackId": 46200202
+    },
+    {
+      "type": "track",
+      "trackId": 18848418
+    },
+    {
+      "type": "track",
+      "trackId": 31541870
+    },
+    {
+      "type": "track",
+      "trackId": 9757954
+    },
+    {
+      "type": "track",
+      "trackId": 14038199
+    },
+    {
+      "type": "track",
+      "trackId": 19207160
+    },
+    {
+      "type": "track",
+      "trackId": 39273566
+    },
+    {
+      "type": "track",
+      "trackId": 35225810
+    },
+    {
+      "type": "track",
+      "trackId": 8822877
+    },
+    {
+      "type": "track",
+      "trackId": 34530444
+    },
+    {
+      "type": "track",
+      "trackId": 18187493
+    },
+    {
+      "type": "track",
+      "trackId": 310861
+    },
+    {
+      "type": "track",
+      "trackId": 13277169
+    },
+    {
+      "type": "track",
+      "trackId": 17855040
+    },
+    {
+      "type": "track",
+      "trackId": 4383641
+    },
+    {
+      "type": "track",
+      "trackId": 13370742
+    },
+    {
+      "type": "track",
+      "trackId": 12192604
+    },
+    {
+      "type": "track",
+      "trackId": 280191
+    }
+  ]
+}

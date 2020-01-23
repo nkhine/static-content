@@ -1,0 +1,51 @@
+{
+  "header": {
+    "title": "Karaoke",
+    "subtitle": "Rock"
+  },
+  "page": {
+    "background": "party"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "60s",
+      "iconColor": "red",
+      "role": "karaoke-sunfly-rock-60s",
+      "url": "/karaoke/genres/sunfly-rock-60s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "70s",
+      "iconColor": "red",
+      "role": "karaoke-sunfly-rock-70s",
+      "url": "/karaoke/genres/sunfly-rock-70s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "80s",
+      "iconColor": "red",
+      "role": "karaoke-sunfly-rock-80s",
+      "url": "/karaoke/genres/sunfly-rock-80s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "90s",
+      "iconColor": "red",
+      "role": "karaoke-sunfly-rock-90s",
+      "url": "/karaoke/genres/sunfly-rock-90s"
+    },
+    {
+      "type": "icon",
+      "icon": "eras",
+      "title": "00s",
+      "iconColor": "red",
+      "role": "karaoke-sunfly-rock-00s",
+      "url": "/karaoke/genres/sunfly-rock-00s"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Moods"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "type": "icon",
+      "icon": "party",
+      "title": "Party",
+      "iconColor": "red",
+      "role": "discover-moods-party",
+      "url": "/discover/moods/party"
+    },
+    {
+      "type": "icon",
+      "icon": "romance",
+      "title": "Romance",
+      "iconColor": "pink",
+      "role": "discover-moods-romance",
+      "url": "/discover/moods/romance"
+    },
+    {
+      "type": "icon",
+      "icon": "relax",
+      "title": "Relax",
+      "iconColor": "blue",
+      "role": "discover-moods-relax",
+      "url": "/discover/moods/relax"
+    },
+    {
+      "type": "icon",
+      "icon": "workout",
+      "title": "Workout",
+      "iconColor": "green",
+      "role": "discover-moods-workout",
+      "url": "/discover/moods/workout"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/rain.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 55074640
+    },
+    {
+      "type": "track",
+      "trackId": 46075206
+    },
+    {
+      "type": "track",
+      "trackId": 19060169
+    },
+    {
+      "type": "track",
+      "trackId": 19060176
+    },
+    {
+      "type": "track",
+      "trackId": 19060184
+    },
+    {
+      "type": "track",
+      "trackId": 48575589
+    },
+    {
+      "type": "track",
+      "trackId": 48575608
+    },
+    {
+      "type": "track",
+      "trackId": 60576022
+    },
+    {
+      "type": "track",
+      "trackId": 60576049
+    },
+    {
+      "type": "track",
+      "trackId": 54854654
+    },
+    {
+      "type": "track",
+      "trackId": 57010451
+    },
+    {
+      "type": "track",
+      "trackId": 53977976
+    },
+    {
+      "type": "track",
+      "trackId": 49245787
+    },
+    {
+      "type": "track",
+      "trackId": 49711690
+    },
+    {
+      "type": "track",
+      "trackId": 56408212
+    },
+    {
+      "type": "track",
+      "trackId": 55246759
+    }
+  ]
+}

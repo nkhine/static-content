@@ -1,0 +1,150 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/cool-kids.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 42203619
+    },
+    {
+      "type": "track",
+      "trackId": 45344639
+    },
+    {
+      "type": "track",
+      "trackId": 45592528
+    },
+    {
+      "type": "track",
+      "trackId": 47655578
+    },
+    {
+      "type": "track",
+      "trackId": 39120494
+    },
+    {
+      "type": "track",
+      "trackId": 42183974
+    },
+    {
+      "type": "track",
+      "trackId": 48441675
+    },
+    {
+      "type": "track",
+      "trackId": 46932644
+    },
+    {
+      "type": "track",
+      "trackId": 48437854
+    },
+    {
+      "type": "track",
+      "trackId": 49907407
+    },
+    {
+      "type": "track",
+      "trackId": 47359487
+    },
+    {
+      "type": "track",
+      "trackId": 48652739
+    },
+    {
+      "type": "track",
+      "trackId": 40049335
+    },
+    {
+      "type": "track",
+      "trackId": 44444465
+    },
+    {
+      "type": "track",
+      "trackId": 46248120
+    },
+    {
+      "type": "track",
+      "trackId": 42598129
+    },
+    {
+      "type": "track",
+      "trackId": 45376023
+    },
+    {
+      "type": "track",
+      "trackId": 46884846
+    },
+    {
+      "type": "track",
+      "trackId": 22933717
+    },
+    {
+      "type": "track",
+      "trackId": 47578080
+    },
+    {
+      "type": "track",
+      "trackId": 45913833
+    },
+    {
+      "type": "track",
+      "trackId": 47809486
+    },
+    {
+      "type": "track",
+      "trackId": 48744182
+    },
+    {
+      "type": "track",
+      "trackId": 51253241
+    },
+    {
+      "type": "track",
+      "trackId": 30935691
+    },
+    {
+      "type": "track",
+      "trackId": 47882353
+    },
+    {
+      "type": "track",
+      "trackId": 47697946
+    },
+    {
+      "type": "track",
+      "trackId": 47812356
+    },
+    {
+      "type": "track",
+      "trackId": 48357147
+    },
+    {
+      "type": "track",
+      "trackId": 45728523
+    },
+    {
+      "type": "track",
+      "trackId": 48682247
+    },
+    {
+      "type": "track",
+      "trackId": 47364229
+    },
+    {
+      "type": "track",
+      "trackId": 39704503
+    },
+    {
+      "type": "track",
+      "trackId": 34033456
+    },
+    {
+      "type": "track",
+      "trackId": 32654832
+    },
+    {
+      "type": "track",
+      "trackId": 34123653
+    }
+  ]
+}

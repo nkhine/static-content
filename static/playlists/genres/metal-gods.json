@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/metal-gods.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 36032749
+    },
+    {
+      "type": "track",
+      "trackId": 5378692
+    },
+    {
+      "type": "track",
+      "trackId": 18524820
+    },
+    {
+      "type": "track",
+      "trackId": 3984101
+    },
+    {
+      "type": "track",
+      "trackId": 3040639
+    },
+    {
+      "type": "track",
+      "trackId": 11129817
+    },
+    {
+      "type": "track",
+      "trackId": 4039088
+    },
+    {
+      "type": "track",
+      "trackId": 17647574
+    },
+    {
+      "type": "track",
+      "trackId": 35119719
+    },
+    {
+      "type": "track",
+      "trackId": 11141505
+    },
+    {
+      "type": "track",
+      "trackId": 44057597
+    },
+    {
+      "type": "track",
+      "trackId": 3220250
+    },
+    {
+      "type": "track",
+      "trackId": 346915
+    },
+    {
+      "type": "track",
+      "trackId": 30150595
+    },
+    {
+      "type": "track",
+      "trackId": 1527810
+    },
+    {
+      "type": "track",
+      "trackId": 14301386
+    },
+    {
+      "type": "track",
+      "trackId": 31939387
+    },
+    {
+      "type": "track",
+      "trackId": 23957093
+    },
+    {
+      "type": "track",
+      "trackId": 2930196
+    },
+    {
+      "type": "track",
+      "trackId": 1286678
+    },
+    {
+      "type": "track",
+      "trackId": 30938097
+    },
+    {
+      "type": "track",
+      "trackId": 3635817
+    },
+    {
+      "type": "track",
+      "trackId": 1337294
+    },
+    {
+      "type": "track",
+      "trackId": 19544071
+    },
+    {
+      "type": "track",
+      "trackId": 37552630
+    },
+    {
+      "type": "track",
+      "trackId": 2327415
+    },
+    {
+      "type": "track",
+      "trackId": 685383
+    },
+    {
+      "type": "track",
+      "trackId": 1432723
+    },
+    {
+      "type": "track",
+      "trackId": 2406266
+    },
+    {
+      "type": "track",
+      "trackId": 2703319
+    }
+  ]
+}

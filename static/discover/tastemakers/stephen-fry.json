@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Stephen Fry"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "The Infinite Variety Of The Female Voice",
+      "type": "playlist",
+      "image": "playlist-images/sf-01.jpg",
+      "playable": "playlists/tastemakers/stephen-fry-the-infinite-variety-of-the-female-voice"
+    },
+    {
+        "title": "Cash, Country and Bluegrass",
+        "type": "playlist",
+        "image": "playlist-images/sf-02.jpg",
+        "playable": "playlists/tastemakers/stephen-fry-cash-country-bluegrass"
+    },
+    {
+        "title": "Dylan And The Singer-Song Writers",
+        "type": "playlist",
+        "image": "playlist-images/sf-03.jpg",
+        "playable": "playlists/tastemakers/stephen-fry-dylan-and-the-singer-song-writers"
+    },
+    {
+        "title": "To Get You Jumping Like A Flea",
+        "type": "playlist",
+        "image": "playlist-images/sf-04.jpg",
+        "playable": "playlists/tastemakers/stephen-fry-to-get-you-jumping-like-a-flea"
+    }
+  ]
+}

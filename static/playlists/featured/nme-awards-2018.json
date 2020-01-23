@@ -1,0 +1,66 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/nme2018.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 63912310
+    },
+    {
+      "type": "track",
+      "trackId": 63986559
+    },
+    {
+      "type": "track",
+      "trackId": 63758048
+    },
+    {
+      "type": "track",
+      "trackId": 64704418
+    },
+    {
+      "type": "track",
+      "trackId": 31114556
+    },
+    {
+      "type": "track",
+      "trackId": 64141740
+    },
+    {
+      "type": "track",
+      "trackId": 62031536
+    },
+    {
+      "type": "track",
+      "trackId": 66206730
+    },
+    {
+      "type": "track",
+      "trackId": 66206684
+    },
+    {
+      "type": "track",
+      "trackId": 64541599
+    },
+    {
+      "type": "track",
+      "trackId": 63091731
+    },
+    {
+      "type": "track",
+      "trackId": 70134521
+    },
+    {
+      "type": "track",
+      "trackId": 63676272
+    },
+    {
+      "type": "track",
+      "trackId": 49201396
+    },
+    {
+      "type": "track",
+      "trackId": 61666327
+    }
+  ]
+}

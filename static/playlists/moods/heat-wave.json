@@ -1,0 +1,62 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/smell-like-teen-spirit.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 152999
+    },
+    {
+      "type": "track",
+      "trackId": 10916606
+    },
+    {
+      "type": "track",
+      "trackId": 5781154
+    },
+    {
+      "type": "track",
+      "trackId": 2004337
+    },
+    {
+      "type": "track",
+      "trackId": 15184472
+    },
+    {
+      "type": "track",
+      "trackId": 30136776
+    },
+    {
+      "type": "track",
+      "trackId": 6019027
+    },
+    {
+      "type": "track",
+      "trackId": 30041514
+    },
+    {
+      "type": "track",
+      "trackId": 42140640
+    },
+    {
+      "type": "track",
+      "trackId": 3162054
+    },
+    {
+      "type": "track",
+      "trackId": 2202
+    },
+    {
+      "type": "track",
+      "trackId": 17418237
+    },
+    {
+      "type": "track",
+      "trackId": 30894405
+    },
+    {
+      "type": "track",
+      "trackId": 196826
+    }
+  ]
+}

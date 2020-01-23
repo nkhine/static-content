@@ -1,0 +1,94 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/house-jamz.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 6621572
+    },
+    {
+      "type": "track",
+      "trackId": 29365478
+    },
+    {
+      "type": "track",
+      "trackId": 32600582
+    },
+    {
+      "type": "track",
+      "trackId": 14973158
+    },
+    {
+      "type": "track",
+      "trackId": 767474
+    },
+    {
+      "type": "track",
+      "trackId": 615819
+    },
+    {
+      "type": "track",
+      "trackId": 7931279
+    },
+    {
+      "type": "track",
+      "trackId": 21809811
+    },
+    {
+      "type": "track",
+      "trackId": 47854897
+    },
+    {
+      "type": "track",
+      "trackId": 8184882
+    },
+    {
+      "type": "track",
+      "trackId": 6293112
+    },
+    {
+      "type": "track",
+      "trackId": 1157555
+    },
+    {
+      "type": "track",
+      "trackId": 4294193
+    },
+    {
+      "type": "track",
+      "trackId": 5916155
+    },
+    {
+      "type": "track",
+      "trackId": 50691702
+    },
+    {
+      "type": "track",
+      "trackId": 31422488
+    },
+    {
+      "type": "track",
+      "trackId": 29435016
+    },
+    {
+      "type": "track",
+      "trackId": 15244358
+    },
+    {
+      "type": "track",
+      "trackId": 43673364
+    },
+    {
+      "type": "track",
+      "trackId": 406429
+    },
+    {
+      "type": "track",
+      "trackId": 2574290
+    },
+    {
+      "type": "track",
+      "trackId": 45906724
+    }
+  ]
+}

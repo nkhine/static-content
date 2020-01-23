@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/snowy-morning.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 7596146
+    },
+    {
+      "type": "track",
+      "trackId": 252450
+    },
+    {
+      "type": "track",
+      "trackId": 20017487
+    },
+    {
+      "type": "track",
+      "trackId": 37472668
+    },
+    {
+      "type": "track",
+      "trackId": 20492704
+    },
+    {
+      "type": "track",
+      "trackId": 8460329
+    },
+    {
+      "type": "track",
+      "trackId": 425045
+    },
+    {
+      "type": "track",
+      "trackId": 864418
+    },
+    {
+      "type": "track",
+      "trackId": 65909849
+    },
+    {
+      "type": "track",
+      "trackId": 246609
+    },
+    {
+      "type": "track",
+      "trackId": 2876300
+    },
+    {
+      "type": "track",
+      "trackId": 14485660
+    },
+    {
+      "type": "track",
+      "trackId": 5464511
+    },
+    {
+      "type": "track",
+      "trackId": 40690051
+    },
+    {
+      "type": "track",
+      "trackId": 78920382
+    },
+    {
+      "type": "track",
+      "trackId": 74302885
+    },
+    {
+      "type": "track",
+      "trackId": 63146826
+    },
+    {
+      "type": "track",
+      "trackId": 18085386
+    },
+    {
+      "type": "track",
+      "trackId": 320586
+    },
+    {
+      "type": "track",
+      "trackId": 8380913
+    },
+    {
+      "type": "track",
+      "trackId": 51943985
+    },
+    {
+      "type": "track",
+      "trackId": 21779594
+    },
+    {
+      "type": "track",
+      "trackId": 42166300
+    },
+    {
+      "type": "track",
+      "trackId": 46458413
+    },
+    {
+      "type": "track",
+      "trackId": 3932177
+    },
+    {
+      "type": "track",
+      "trackId": 37606766
+    },
+    {
+      "type": "track",
+      "trackId": 4498705
+    },
+    {
+      "type": "track",
+      "trackId": 63141614
+    },
+    {
+      "type": "track",
+      "trackId": 77088717
+    },
+    {
+      "type": "track",
+      "trackId": 30982978
+    }
+  ]
+}

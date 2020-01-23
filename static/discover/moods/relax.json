@@ -1,0 +1,65 @@
+{
+  "header": {
+    "title": "Discover",
+    "subtitle": "Relax"
+  },
+  "page": {
+    "background": "default"
+  },
+  "items": [
+    {
+      "title": "Focus",
+      "type": "playlist",
+      "image": "playlist-images/focus.jpg",
+      "playable": "playlists/moods/focus"
+    },
+    {
+      "title": "Sunday Morning",
+      "type": "playlist",
+      "image": "playlist-images/sunday-morning.jpg",
+      "playable": "playlists/moods/sunday-morning"
+    },
+    {
+      "title": "Chill Out",
+      "type": "playlist",
+      "image": "playlist-images/chill-out.jpg",
+      "playable": "playlists/moods/chill-out"
+    },
+    {
+      "title": "Sleep",
+      "type": "playlist",
+      "image": "playlist-images/sleep.jpg",
+      "playable": "playlists/moods/sleep"
+    },
+    {
+      "title": "Spa and Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/spa-and-relaxation.jpg",
+      "playable": "playlists/moods/spa-and-relaxation"
+    },
+    {
+      "title": "Classical Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/rd-04.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-classical-relaxation"
+    },
+    {
+      "title": "Relaxation",
+      "type": "playlist",
+      "image": "playlist-images/rd-08.jpg",
+      "playable": "playlists/tastemakers/rob-dickins-relaxation"
+    },
+    {
+      "title": "Mother Nature",
+      "type": "playlist",
+      "image": "playlist-images/rain.jpg",
+      "playable": "playlists/moods/nature"
+    },
+    {
+      "title": "Sounds of Nature",
+      "type": "playlist",
+      "image": "playlist-images/nature.jpg",
+      "playable": "playlists/moods/nature-2"
+    }
+  ]
+}

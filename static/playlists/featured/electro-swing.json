@@ -1,0 +1,122 @@
+{
+    "type": "playlist",
+    "name": "Electro Swing",
+    "image": "playlist-images/electro-swing.jpg",
+    "playables": [{
+            "type": "track",
+            "trackId": 9977916
+        },
+        {
+            "type": "track",
+            "trackId": 78919045
+        },
+        {
+            "type": "track",
+            "trackId": 49010035
+        },
+        {
+            "type": "track",
+            "trackId": 11056311
+        },
+        {
+            "type": "track",
+            "trackId": 17599775
+        },
+        {
+            "type": "track",
+            "trackId": 77197510
+        },
+        {
+            "type": "track",
+            "trackId": 51638579
+        },
+        {
+            "type": "track",
+            "trackId": 69926973
+        },
+        {
+            "type": "track",
+            "trackId": 69275438
+        },
+        {
+            "type": "track",
+            "trackId": 14087211
+        },
+        {
+            "type": "track",
+            "trackId": 68990199
+        },
+        {
+            "type": "track",
+            "trackId": 70680935
+        },
+        {
+            "type": "track",
+            "trackId": 51636654
+        },
+        {
+            "type": "track",
+            "trackId": 50117023
+        },
+        {
+            "type": "track",
+            "trackId": 75189927
+        },
+        {
+            "type": "track",
+            "trackId": 73323495
+        },
+        {
+            "type": "track",
+            "trackId": 51140104
+        },
+        {
+            "type": "track",
+            "trackId": 15564897
+        },
+        {
+            "type": "track",
+            "trackId": 11648019
+        },
+        {
+            "type": "track",
+            "trackId": 35153257
+        },
+        {
+            "type": "track",
+            "trackId": 21422489
+        },
+        {
+            "type": "track",
+            "trackId": 21423673
+        },
+        {
+            "type": "track",
+            "trackId": 16378377
+        },
+        {
+            "type": "track",
+            "trackId": 78398469
+        },
+        {
+            "type": "track",
+            "trackId": 35803291
+        },
+        {
+            "type": "track",
+            "trackId": 77331402
+        },
+        {
+            "type": "track",
+            "trackId": 10755873
+        },
+        {
+            "type": "track",
+            "trackId": 69343091
+        },
+        {
+            "type": "track",
+            "trackId": 69273129
+        }
+    ]
+}

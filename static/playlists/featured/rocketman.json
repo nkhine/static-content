@@ -1,0 +1,86 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/rocketman.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 67631641
+    },
+    {
+      "type": "track",
+      "trackId": 67631658
+    },
+    {
+      "type": "track",
+      "trackId": 67631637
+    },
+    {
+      "type": "track",
+      "trackId": 717780
+    },
+    {
+      "type": "track",
+      "trackId": 717786
+    },
+    {
+      "type": "track",
+      "trackId": 67631631
+    },
+    {
+      "type": "track",
+      "trackId": 2631625
+    },
+    {
+      "type": "track",
+      "trackId": 67631635
+    },
+    {
+      "type": "track",
+      "trackId": 717814
+    },
+    {
+      "type": "track",
+      "trackId": 717776
+    },
+    {
+      "type": "track",
+      "trackId": 717832
+    },
+    {
+      "type": "track",
+      "trackId": 67631645
+    },
+    {
+      "type": "track",
+      "trackId": 717823
+    },
+    {
+      "type": "track",
+      "trackId": 717810
+    },
+    {
+      "type": "track",
+      "trackId": 84153328
+    },
+    {
+      "type": "track",
+      "trackId": 67631640
+    },
+    {
+      "type": "track",
+      "trackId": 717808
+    },
+    {
+      "type": "track",
+      "trackId": 67631646
+    },
+    {
+      "type": "track",
+      "trackId": 67631638
+    },
+    {
+      "type": "track",
+      "trackId": 717922
+    }
+  ]
+}

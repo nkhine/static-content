@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/modern-rnb.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 61463657
+    },
+    {
+      "type": "track",
+      "trackId": 62139312
+    },
+    {
+      "type": "track",
+      "trackId": 61801842
+    },
+    {
+      "type": "track",
+      "trackId": 65432765
+    },
+    {
+      "type": "track",
+      "trackId": 60637181
+    },
+    {
+      "type": "track",
+      "trackId": 59313981
+    },
+    {
+      "type": "track",
+      "trackId": 59178504
+    },
+    {
+      "type": "track",
+      "trackId": 65386453
+    },
+    {
+      "type": "track",
+      "trackId": 64947520
+    },
+    {
+      "type": "track",
+      "trackId": 64384514
+    },
+    {
+      "type": "track",
+      "trackId": 66756079
+    },
+    {
+      "type": "track",
+      "trackId": 59538389
+    },
+    {
+      "type": "track",
+      "trackId": 62876455
+    },
+    {
+      "type": "track",
+      "trackId": 64454694
+    },
+    {
+      "type": "track",
+      "trackId": 59408601
+    },
+    {
+      "type": "track",
+      "trackId": 65121349
+    },
+    {
+      "type": "track",
+      "trackId": 4314349
+    },
+    {
+      "type": "track",
+      "trackId": 542153
+    },
+    {
+      "type": "track",
+      "trackId": 14136365
+    },
+    {
+      "type": "track",
+      "trackId": 33576075
+    },
+    {
+      "type": "track",
+      "trackId": 19534127
+    },
+    {
+      "type": "track",
+      "trackId": 337940
+    },
+    {
+      "type": "track",
+      "trackId": 2855226
+    },
+    {
+      "type": "track",
+      "trackId": 3586847
+    },
+    {
+      "type": "track",
+      "trackId": 15381064
+    },
+    {
+      "type": "track",
+      "trackId": 39302935
+    },
+    {
+      "type": "track",
+      "trackId": 5056681
+    },
+    {
+      "type": "track",
+      "trackId": 3223561
+    },
+    {
+      "type": "track",
+      "trackId": 36154069
+    },
+    {
+      "type": "track",
+      "trackId": 168948
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/east-coast.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 30103065
+    },
+    {
+      "type": "track",
+      "trackId": 305609
+    },
+    {
+      "type": "track",
+      "trackId": 553343
+    },
+    {
+      "type": "track",
+      "trackId": 86381
+    },
+    {
+      "type": "track",
+      "trackId": 503389
+    },
+    {
+      "type": "track",
+      "trackId": 172693
+    },
+    {
+      "type": "track",
+      "trackId": 30103058
+    },
+    {
+      "type": "track",
+      "trackId": 53925234
+    },
+    {
+      "type": "track",
+      "trackId": 1973897
+    },
+    {
+      "type": "track",
+      "trackId": 203878
+    },
+    {
+      "type": "track",
+      "trackId": 41781433
+    },
+    {
+      "type": "track",
+      "trackId": 3315621
+    },
+    {
+      "type": "track",
+      "trackId": 6370675
+    },
+    {
+      "type": "track",
+      "trackId": 7804422
+    },
+    {
+      "type": "track",
+      "trackId": 33195846
+    },
+    {
+      "type": "track",
+      "trackId": 553558
+    },
+    {
+      "type": "track",
+      "trackId": 1126260
+    },
+    {
+      "type": "track",
+      "trackId": 4662023
+    },
+    {
+      "type": "track",
+      "trackId": 163456
+    },
+    {
+      "type": "track",
+      "trackId": 3299316
+    },
+    {
+      "type": "track",
+      "trackId": 498609
+    },
+    {
+      "type": "track",
+      "trackId": 503735
+    },
+    {
+      "type": "track",
+      "trackId": 3511032
+    },
+    {
+      "type": "track",
+      "trackId": 18404288
+    },
+    {
+      "type": "track",
+      "trackId": 151786
+    },
+    {
+      "type": "track",
+      "trackId": 164757
+    },
+    {
+      "type": "track",
+      "trackId": 8234732
+    },
+    {
+      "type": "track",
+      "trackId": 200588
+    },
+    {
+      "type": "track",
+      "trackId": 4532092
+    },
+    {
+      "type": "track",
+      "trackId": 3320742
+    },
+    {
+      "type": "track",
+      "trackId": 1398851
+    },
+    {
+      "type": "track",
+      "trackId": 4455057
+    },
+    {
+      "type": "track",
+      "trackId": 7425567
+    },
+    {
+      "type": "track",
+      "trackId": 3683076
+    }
+  ]
+}

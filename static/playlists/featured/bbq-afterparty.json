@@ -1,0 +1,102 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/bbq-afterparty.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 7381174
+    },
+    {
+      "type": "track",
+      "trackId": 56656862
+    },
+    {
+      "type": "track",
+      "trackId": 57491166
+    },
+    {
+      "type": "track",
+      "trackId": 1321664
+    },
+    {
+      "type": "track",
+      "trackId": 3877652
+    },
+    {
+      "type": "track",
+      "trackId": 69328867
+    },
+    {
+      "type": "track",
+      "trackId": 75265749
+    },
+    {
+      "type": "track",
+      "trackId": 45624479
+    },
+    {
+      "type": "track",
+      "trackId": 32000364
+    },
+    {
+      "type": "track",
+      "trackId": 72731023
+    },
+    {
+      "type": "track",
+      "trackId": 72624726
+    },
+    {
+      "type": "track",
+      "trackId": 42440616
+    },
+    {
+      "type": "track",
+      "trackId": 70448665
+    },
+    {
+      "type": "track",
+      "trackId": 485123
+    },
+    {
+      "type": "track",
+      "trackId": 64186580
+    },
+    {
+      "type": "track",
+      "trackId": 57437954
+    },
+    {
+      "type": "track",
+      "trackId": 23598005
+    },
+    {
+      "type": "track",
+      "trackId": 57278586
+    },
+    {
+      "type": "track",
+      "trackId": 57431449
+    },
+    {
+      "type": "track",
+      "trackId": 66702025
+    },
+    {
+      "type": "track",
+      "trackId": 70976959
+    },
+    {
+      "type": "track",
+      "trackId": 55052465
+    },
+    {
+      "type": "track",
+      "trackId": 70985445
+    },
+    {
+      "type": "track",
+      "trackId": 72736406
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/most-beautiful-love-songs.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 6642430
+    },
+    {
+      "type": "track",
+      "trackId": 59768504
+    },
+    {
+      "type": "track",
+      "trackId": 9937091
+    },
+    {
+      "type": "track",
+      "trackId": 56232807
+    },
+    {
+      "type": "track",
+      "trackId": 59595965
+    },
+    {
+      "type": "track",
+      "trackId": 16634397
+    },
+    {
+      "type": "track",
+      "trackId": 48694048
+    },
+    {
+      "type": "track",
+      "trackId": 59146994
+    },
+    {
+      "type": "track",
+      "trackId": 6163833
+    },
+    {
+      "type": "track",
+      "trackId": 14313427
+    },
+    {
+      "type": "track",
+      "trackId": 60065102
+    },
+    {
+      "type": "track",
+      "trackId": 629513
+    },
+    {
+      "type": "track",
+      "trackId": 54933365
+    },
+    {
+      "type": "track",
+      "trackId": 37837844
+    },
+    {
+      "type": "track",
+      "trackId": 59438671
+    },
+    {
+      "type": "track",
+      "trackId": 59517730
+    },
+    {
+      "type": "track",
+      "trackId": 1408506
+    },
+    {
+      "type": "track",
+      "trackId": 53963131
+    },
+    {
+      "type": "track",
+      "trackId": 41668722
+    },
+    {
+      "type": "track",
+      "trackId": 59940903
+    },
+    {
+      "type": "track",
+      "trackId": 17617060
+    }
+  ]
+}

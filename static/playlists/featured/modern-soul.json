@@ -1,0 +1,102 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/inner-city-soul.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 41813169
+    },
+    {
+      "type": "track",
+      "trackId": 33230644
+    },
+    {
+      "type": "track",
+      "trackId": 6221993
+    },
+    {
+      "type": "track",
+      "trackId": 45650232
+    },
+    {
+      "type": "track",
+      "trackId": 30759421
+    },
+    {
+      "type": "track",
+      "trackId": 46907701
+    },
+    {
+      "type": "track",
+      "trackId": 29841229
+    },
+    {
+      "type": "track",
+      "trackId": 46229661
+    },
+    {
+      "type": "track",
+      "trackId": 1445
+    },
+    {
+      "type": "track",
+      "trackId": 44608912
+    },
+    {
+      "type": "track",
+      "trackId": 17524941
+    },
+    {
+      "type": "track",
+      "trackId": 23968072
+    },
+    {
+      "type": "track",
+      "trackId": 3588242
+    },
+    {
+      "type": "track",
+      "trackId": 291049
+    },
+    {
+      "type": "track",
+      "trackId": 51674542
+    },
+    {
+      "type": "track",
+      "trackId": 42052769
+    },
+    {
+      "type": "track",
+      "trackId": 16891599
+    },
+    {
+      "type": "track",
+      "trackId": 47867276
+    },
+    {
+      "type": "track",
+      "trackId": 42482305
+    },
+    {
+      "type": "track",
+      "trackId": 1165561
+    },
+    {
+      "type": "track",
+      "trackId": 37060278
+    },
+    {
+      "type": "track",
+      "trackId": 48203218
+    },
+    {
+      "type": "track",
+      "trackId": 9249160
+    },
+    {
+      "type": "track",
+      "trackId": 6078662
+    }
+  ]
+}

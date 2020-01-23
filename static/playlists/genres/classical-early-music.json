@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/classical-early-music.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 4703754
+    },
+    {
+      "type": "track",
+      "trackId": 15063289
+    },
+    {
+      "type": "track",
+      "trackId": 16931267
+    },
+    {
+      "type": "track",
+      "trackId": 32359446
+    },
+    {
+      "type": "track",
+      "trackId": 10015346
+    },
+    {
+      "type": "track",
+      "trackId": 21367487
+    },
+    {
+      "type": "track",
+      "trackId": 21367490
+    },
+    {
+      "type": "track",
+      "trackId": 55621265
+    },
+    {
+      "type": "track",
+      "trackId": 8355582
+    },
+    {
+      "type": "track",
+      "trackId": 42525258
+    },
+    {
+      "type": "track",
+      "trackId": 8594342
+    },
+    {
+      "type": "track",
+      "trackId": 9251666
+    },
+    {
+      "type": "track",
+      "trackId": 16287056
+    },
+    {
+      "type": "track",
+      "trackId": 21367473
+    },
+    {
+      "type": "track",
+      "trackId": 10795503
+    },
+    {
+      "type": "track",
+      "trackId": 16544440
+    },
+    {
+      "type": "track",
+      "trackId": 15139802
+    },
+    {
+      "type": "track",
+      "trackId": 21676156
+    },
+    {
+      "type": "track",
+      "trackId": 18138690
+    },
+    {
+      "type": "track",
+      "trackId": 10915808
+    },
+    {
+      "type": "track",
+      "trackId": 54913453
+    },
+    {
+      "type": "track",
+      "trackId": 8815403
+    },
+    {
+      "type": "track",
+      "trackId": 5567356
+    },
+    {
+      "type": "track",
+      "trackId": 48859297
+    },
+    {
+      "type": "track",
+      "trackId": 43421204
+    }
+  ]
+}

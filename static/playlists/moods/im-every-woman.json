@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/im-every-woman.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 5260568
+    },
+    {
+      "type": "track",
+      "trackId": 628509
+    },
+    {
+      "type": "track",
+      "trackId": 6552370
+    },
+    {
+      "type": "track",
+      "trackId": 46218450
+    },
+    {
+      "type": "track",
+      "trackId": 3246256
+    },
+    {
+      "type": "track",
+      "trackId": 857431
+    },
+    {
+      "type": "track",
+      "trackId": 494912
+    },
+    {
+      "type": "track",
+      "trackId": 4314347
+    },
+    {
+      "type": "track",
+      "trackId": 6335275
+    },
+    {
+      "type": "track",
+      "trackId": 1404
+    },
+    {
+      "type": "track",
+      "trackId": 4610912
+    },
+    {
+      "type": "track",
+      "trackId": 2146272
+    },
+    {
+      "type": "track",
+      "trackId": 178722
+    },
+    {
+      "type": "track",
+      "trackId": 21779594
+    },
+    {
+      "type": "track",
+      "trackId": 21782428
+    },
+    {
+      "type": "track",
+      "trackId": 1157434
+    },
+    {
+      "type": "track",
+      "trackId": 29519864
+    },
+    {
+      "type": "track",
+      "trackId": 2855242
+    },
+    {
+      "type": "track",
+      "trackId": 212878
+    },
+    {
+      "type": "track",
+      "trackId": 42166293
+    },
+    {
+      "type": "track",
+      "trackId": 163899
+    },
+    {
+      "type": "track",
+      "trackId": 21958474
+    },
+    {
+      "type": "track",
+      "trackId": 147840
+    },
+    {
+      "type": "track",
+      "trackId": 6304958
+    },
+    {
+      "type": "track",
+      "trackId": 3721166
+    },
+    {
+      "type": "track",
+      "trackId": 12783733
+    },
+    {
+      "type": "track",
+      "trackId": 17914166
+    },
+    {
+      "type": "track",
+      "trackId": 29729268
+    },
+    {
+      "type": "track",
+      "trackId": 11789526
+    },
+    {
+      "type": "track",
+      "trackId": 6011477
+    }
+  ]
+}

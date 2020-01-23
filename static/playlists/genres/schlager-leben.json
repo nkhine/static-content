@@ -1,0 +1,118 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/schlager-leben.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 64530969
+    },
+    {
+      "type": "track",
+      "trackId": 67708672
+    },
+    {
+      "type": "track",
+      "trackId": 67708373
+    },
+    {
+      "type": "track",
+      "trackId": 70111200
+    },
+    {
+      "type": "track",
+      "trackId": 61866854
+    },
+    {
+      "type": "track",
+      "trackId": 70632617
+    },
+    {
+      "type": "track",
+      "trackId": 70161845
+    },
+    {
+      "type": "track",
+      "trackId": 69055693
+    },
+    {
+      "type": "track",
+      "trackId": 7041374
+    },
+    {
+      "type": "track",
+      "trackId": 9939277
+    },
+    {
+      "type": "track",
+      "trackId": 47563864
+    },
+    {
+      "type": "track",
+      "trackId": 434672
+    },
+    {
+      "type": "track",
+      "trackId": 3464274
+    },
+    {
+      "type": "track",
+      "trackId": 183054
+    },
+    {
+      "type": "track",
+      "trackId": 3536425
+    },
+    {
+      "type": "track",
+      "trackId": 7758251
+    },
+    {
+      "type": "track",
+      "trackId": 4049416
+    },
+    {
+      "type": "track",
+      "trackId": 3330399
+    },
+    {
+      "type": "track",
+      "trackId": 3329080
+    },
+    {
+      "type": "track",
+      "trackId": 4407053
+    },
+    {
+      "type": "track",
+      "trackId": 30154840
+    },
+    {
+      "type": "track",
+      "trackId": 3518713
+    },
+    {
+      "type": "track",
+      "trackId": 3290011
+    },
+    {
+      "type": "track",
+      "trackId": 11644143
+    },
+    {
+      "type": "track",
+      "trackId": 11790299
+    },
+    {
+      "type": "track",
+      "trackId": 3336571
+    },
+    {
+      "type": "track",
+      "trackId": 34735997
+    },
+    {
+      "type": "track",
+      "trackId": 31668328
+    }
+  ]
+}

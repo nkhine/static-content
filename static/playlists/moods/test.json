@@ -1,0 +1,30 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/80s-dance.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 47523690
+    },
+    {
+      "type": "track",
+      "trackId": 6315114
+    },
+    {
+      "type": "track",
+      "trackId": 6315120
+    },
+    {
+      "type": "track",
+      "trackId": 41928462
+    },
+    {
+      "type": "track",
+      "trackId": 49420860
+    },
+    {
+      "type": "track",
+      "trackId": 49420865
+    }
+  ]
+}

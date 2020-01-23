@@ -1,0 +1,98 @@
+{
+  "type": "playlist",
+  "name": "Disney Hits",
+  "image": "playlist-images/disney-hits.jpg",
+  "playables": [ {
+      "type": "track",
+      "trackId": 32846343
+    },
+    {
+      "type": "track",
+      "trackId": 50949577
+    },
+    {
+      "type": "track",
+      "trackId": 49444572
+    },
+    {
+      "type": "track",
+      "trackId": 52158272
+    },
+    {
+      "type": "track",
+      "trackId": 15427780
+    },
+    {
+      "type": "track",
+      "trackId": 15492361
+    },
+    {
+      "type": "track",
+      "trackId": 18145532
+    },
+    {
+      "type": "track",
+      "trackId": 59256265
+    },
+    {
+      "type": "track",
+      "trackId": 53670923
+    },
+    {
+      "type": "track",
+      "trackId": 330730
+    },
+    {
+      "type": "track",
+      "trackId": 7382015
+    },
+    {
+      "type": "track",
+      "trackId": 2278773
+    },
+    {
+      "type": "track",
+      "trackId": 18966008
+    },
+    {
+      "type": "track",
+      "trackId": 32846342
+    },
+    {
+      "type": "track",
+      "trackId": 1501460
+    },
+    {
+      "type": "track",
+      "trackId": 15492416
+    },
+    {
+      "type": "track",
+      "trackId": 70235340
+    },
+    {
+      "type": "track",
+      "trackId": 59256259
+    },
+    {
+      "type": "track",
+      "trackId": 7600787
+    },
+    {
+      "type": "track",
+      "trackId": 9930871
+    },
+    {
+      "type": "track",
+      "trackId": 36031752
+    },
+    {
+      "type": "track",
+      "trackId": 36785118
+    },
+    {
+      "type": "track",
+      "trackId": 3766398
+    }
+  ]
+}

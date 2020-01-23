@@ -1,0 +1,18 @@
+{
+	"type": "playlist",
+	"image": "playlist-images/soundmachine.jpg",
+	"preferredVisualiser": "Relax/",
+	"activatesVisualiser": true,
+	"playables": [
+		{ "type": "track", "trackId": 49708090 },
+		{ "type": "track", "trackId": 49708092 },
+		{ "type": "track", "trackId": 49708097 },
+		{ "type": "track", "trackId": 49708096 },
+		{ "type": "track", "trackId": 49708095 },
+		{ "type": "track", "trackId": 49708088 },
+		{ "type": "track", "trackId": 49708102 },
+		{ "type": "track", "trackId": 49708104 },
+		{ "type": "track", "trackId": 49708110 },
+		{ "type": "track", "trackId": 49708108 }
+	]
+}

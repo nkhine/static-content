@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/elton-john-hits.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 76579269
+    },
+    {
+      "type": "track",
+      "trackId": 717808
+    },
+    {
+      "type": "track",
+      "trackId": 67631645
+    },
+    {
+      "type": "track",
+      "trackId": 717814
+    },
+    {
+      "type": "track",
+      "trackId": 717925
+    },
+    {
+      "type": "track",
+      "trackId": 717922
+    },
+    {
+      "type": "track",
+      "trackId": 717899
+    },
+    {
+      "type": "track",
+      "trackId": 67631653
+    },
+    {
+      "type": "track",
+      "trackId": 67631646
+    },
+    {
+      "type": "track",
+      "trackId": 14485036
+    },
+    {
+      "type": "track",
+      "trackId": 67631631
+    },
+    {
+      "type": "track",
+      "trackId": 67631640
+    },
+    {
+      "type": "track",
+      "trackId": 717823
+    },
+    {
+      "type": "track",
+      "trackId": 717760
+    },
+    {
+      "type": "track",
+      "trackId": 717852
+    },
+    {
+      "type": "track",
+      "trackId": 67631644
+    },
+    {
+      "type": "track",
+      "trackId": 1119283
+    },
+    {
+      "type": "track",
+      "trackId": 14485034
+    },
+    {
+      "type": "track",
+      "trackId": 14491580
+    },
+    {
+      "type": "track",
+      "trackId": 717831
+    },
+    {
+      "type": "track",
+      "trackId": 67631671
+    },
+    {
+      "type": "track",
+      "trackId": 717820
+    },
+    {
+      "type": "track",
+      "trackId": 67631658
+    },
+    {
+      "type": "track",
+      "trackId": 38197478
+    },
+    {
+      "type": "track",
+      "trackId": 6763169
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/folk.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 39748839
+    },
+    {
+      "type": "track",
+      "trackId": 12968796
+    },
+    {
+      "type": "track",
+      "trackId": 5598112
+    },
+    {
+      "type": "track",
+      "trackId": 11270599
+    },
+    {
+      "type": "track",
+      "trackId": 31630671
+    },
+    {
+      "type": "track",
+      "trackId": 6188322
+    },
+    {
+      "type": "track",
+      "trackId": 3196584
+    },
+    {
+      "type": "track",
+      "trackId": 249981
+    },
+    {
+      "type": "track",
+      "trackId": 10906455
+    },
+    {
+      "type": "track",
+      "trackId": 3375500
+    },
+    {
+      "type": "track",
+      "trackId": 128943
+    },
+    {
+      "type": "track",
+      "trackId": 273215
+    },
+    {
+      "type": "track",
+      "trackId": 33979056
+    },
+    {
+      "type": "track",
+      "trackId": 29199885
+    },
+    {
+      "type": "track",
+      "trackId": 3324736
+    },
+    {
+      "type": "track",
+      "trackId": 29167213
+    },
+    {
+      "type": "track",
+      "trackId": 518366
+    },
+    {
+      "type": "track",
+      "trackId": 44588585
+    },
+    {
+      "type": "track",
+      "trackId": 39737355
+    },
+    {
+      "type": "track",
+      "trackId": 2661
+    },
+    {
+      "type": "track",
+      "trackId": 10848138
+    },
+    {
+      "type": "track",
+      "trackId": 2306805
+    },
+    {
+      "type": "track",
+      "trackId": 33913582
+    },
+    {
+      "type": "track",
+      "trackId": 6580440
+    },
+    {
+      "type": "track",
+      "trackId": 30959724
+    }
+  ]
+}

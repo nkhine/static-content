@@ -1,0 +1,67 @@
+{
+  "type": "playlist",
+  "name": "Alesha's Workout",
+  "image": "playlist-images/ad-03.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 29519864
+    },
+    {
+      "type": "track",
+      "trackId": 46870403
+    },
+    {
+      "type": "track",
+      "trackId": 108627
+    },
+    {
+      "type": "track",
+      "trackId": 6930066
+    },
+    {
+      "type": "track",
+      "trackId": 1090217
+    },
+    {
+      "type": "track",
+      "trackId": 48557486
+    },
+    {
+      "type": "track",
+      "trackId": 32854535
+    },
+    {
+      "type": "track",
+      "trackId": 13545748
+    },
+    {
+      "type": "track",
+      "trackId": 181291
+    },
+    {
+      "type": "track",
+      "trackId": 7292375
+    },
+    {
+      "type": "track",
+      "trackId": 21886322
+    },
+    {
+      "type": "track",
+      "trackId": 5774742
+    },
+    {
+      "type": "track",
+      "trackId": 10563088
+    },
+    {
+      "type": "track",
+      "trackId": 46105676
+    },
+    {
+      "type": "track",
+      "trackId": 3358233
+    }
+  ]
+}

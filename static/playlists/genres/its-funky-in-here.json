@@ -1,0 +1,126 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/funky.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 3116001
+    },
+    {
+      "type": "track",
+      "trackId": 581732
+    },
+    {
+      "type": "track",
+      "trackId": 15632849
+    },
+    {
+      "type": "track",
+      "trackId": 35293815
+    },
+    {
+      "type": "track",
+      "trackId": 30136783
+    },
+    {
+      "type": "track",
+      "trackId": 3177077
+    },
+    {
+      "type": "track",
+      "trackId": 34427208
+    },
+    {
+      "type": "track",
+      "trackId": 1382739
+    },
+    {
+      "type": "track",
+      "trackId": 169135
+    },
+    {
+      "type": "track",
+      "trackId": 39470414
+    },
+    {
+      "type": "track",
+      "trackId": 2435080
+    },
+    {
+      "type": "track",
+      "trackId": 37703702
+    },
+    {
+      "type": "track",
+      "trackId": 20912014
+    },
+    {
+      "type": "track",
+      "trackId": 4452740
+    },
+    {
+      "type": "track",
+      "trackId": 47653725
+    },
+    {
+      "type": "track",
+      "trackId": 644742
+    },
+    {
+      "type": "track",
+      "trackId": 3223982
+    },
+    {
+      "type": "track",
+      "trackId": 34233425
+    },
+    {
+      "type": "track",
+      "trackId": 38107000
+    },
+    {
+      "type": "track",
+      "trackId": 171934
+    },
+    {
+      "type": "track",
+      "trackId": 270858
+    },
+    {
+      "type": "track",
+      "trackId": 47105276
+    },
+    {
+      "type": "track",
+      "trackId": 4005002
+    },
+    {
+      "type": "track",
+      "trackId": 139304
+    },
+    {
+      "type": "track",
+      "trackId": 370486
+    },
+    {
+      "type": "track",
+      "trackId": 41072914
+    },
+    {
+      "type": "track",
+      "trackId": 168259
+    },
+    {
+      "type": "track",
+      "trackId": 263920
+    },
+    {
+      "type": "track",
+      "trackId": 2256301
+    },
+    {
+      "type": "track",
+      "trackId": 17377515
+    }
+  ]
+}

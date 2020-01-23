@@ -1,0 +1,134 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/reggae-hits.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 10277803
+    },
+    {
+      "type": "track",
+      "trackId": 10278444
+    },
+    {
+      "type": "track",
+      "trackId": 21801115
+    },
+    {
+      "type": "track",
+      "trackId": 66350491
+    },
+    {
+      "type": "track",
+      "trackId": 20208542
+    },
+    {
+      "type": "track",
+      "trackId": 9745424
+    },
+    {
+      "type": "track",
+      "trackId": 8774686
+    },
+    {
+      "type": "track",
+      "trackId": 56962910
+    },
+    {
+      "type": "track",
+      "trackId": 8901276
+    },
+    {
+      "type": "track",
+      "trackId": 55825141
+    },
+    {
+      "type": "track",
+      "trackId": 1478952
+    },
+    {
+      "type": "track",
+      "trackId": 9884685
+    },
+    {
+      "type": "track",
+      "trackId": 19128088
+    },
+    {
+      "type": "track",
+      "trackId": 10282867
+    },
+    {
+      "type": "track",
+      "trackId": 4138400
+    },
+    {
+      "type": "track",
+      "trackId": 1523598
+    },
+    {
+      "type": "track",
+      "trackId": 14891533
+    },
+    {
+      "type": "track",
+      "trackId": 2233269
+    },
+    {
+      "type": "track",
+      "trackId": 14830968
+    },
+    {
+      "type": "track",
+      "trackId": 9227624
+    },
+    {
+      "type": "track",
+      "trackId": 148604
+    },
+    {
+      "type": "track",
+      "trackId": 21923476
+    },
+    {
+      "type": "track",
+      "trackId": 47016257
+    },
+    {
+      "type": "track",
+      "trackId": 38618834
+    },
+    {
+      "type": "track",
+      "trackId": 19127995
+    },
+    {
+      "type": "track",
+      "trackId": 10277791
+    },
+    {
+      "type": "track",
+      "trackId": 1158
+    },
+    {
+      "type": "track",
+      "trackId": 57303906
+    },
+    {
+      "type": "track",
+      "trackId": 2202
+    },
+    {
+      "type": "track",
+      "trackId": 8969697
+    },
+    {
+      "type": "track",
+      "trackId": 21521955
+    },
+    {
+      "type": "track",
+      "trackId": 62890236
+    }
+  ]
+}

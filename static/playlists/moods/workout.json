@@ -1,0 +1,154 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/workout.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 22230384
+    },
+    {
+      "type": "track",
+      "trackId": 54217299
+    },
+    {
+      "type": "track",
+      "trackId": 30977326
+    },
+    {
+      "type": "track",
+      "trackId": 41204569
+    },
+    {
+      "type": "track",
+      "trackId": 38311658
+    },
+    {
+      "type": "track",
+      "trackId": 35370912
+    },
+    {
+      "type": "track",
+      "trackId": 40502509
+    },
+    {
+      "type": "track",
+      "trackId": 38311658
+    },
+    {
+      "type": "track",
+      "trackId": 32595365
+    },
+    {
+      "type": "track",
+      "trackId": 29116567
+    },
+    {
+      "type": "track",
+      "trackId": 40562866
+    },
+    {
+      "type": "track",
+      "trackId": 34104121
+    },
+    {
+      "type": "track",
+      "trackId": 31551613
+    },
+    {
+      "type": "track",
+      "trackId": 35065431
+    },
+    {
+      "type": "track",
+      "trackId": 151244
+    },
+    {
+      "type": "track",
+      "trackId": 3320529
+    },
+    {
+      "type": "track",
+      "trackId": 9249160
+    },
+    {
+      "type": "track",
+      "trackId": 5784071
+    },
+    {
+      "type": "track",
+      "trackId": 2899047
+    },
+    {
+      "type": "track",
+      "trackId": 536741
+    },
+    {
+      "type": "track",
+      "trackId": 167216
+    },
+    {
+      "type": "track",
+      "trackId": 37394
+    },
+    {
+      "type": "track",
+      "trackId": 3103506
+    },
+    {
+      "type": "track",
+      "trackId": 3436090
+    },
+    {
+      "type": "track",
+      "trackId": 6764831
+    },
+    {
+      "type": "track",
+      "trackId": 247951
+    },
+    {
+      "type": "track",
+      "trackId": 171947
+    },
+    {
+      "type": "track",
+      "trackId": 12773
+    },
+    {
+      "type": "track",
+      "trackId": 132206
+    },
+    {
+      "type": "track",
+      "trackId": 2210
+    },
+    {
+      "type": "track",
+      "trackId": 16295491
+    },
+    {
+      "type": "track",
+      "trackId": 164396
+    },
+    {
+      "type": "track",
+      "trackId": 14180072
+    },
+    {
+      "type": "track",
+      "trackId": 4983488
+    },
+    {
+      "type": "track",
+      "trackId": 4753221
+    },
+    {
+      "type": "track",
+      "trackId": 41545307
+    },
+    {
+      "type": "track",
+      "trackId": 4442495
+    }
+  ]
+}

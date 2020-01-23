@@ -1,0 +1,114 @@
+{
+  "type": "playlist",
+  "image": "playlist-images/discover-modern-soul.jpg",
+  "playables": [
+    {
+      "type": "track",
+      "trackId": 157906
+    },
+    {
+      "type": "track",
+      "trackId": 41879700
+    },
+    {
+      "type": "track",
+      "trackId": 9937070
+    },
+    {
+      "type": "track",
+      "trackId": 3838865
+    },
+    {
+      "type": "track",
+      "trackId": 13126023
+    },
+    {
+      "type": "track",
+      "trackId": 7236671
+    },
+    {
+      "type": "track",
+      "trackId": 50697686
+    },
+    {
+      "type": "track",
+      "trackId": 6642354
+    },
+    {
+      "type": "track",
+      "trackId": 14356980
+    },
+    {
+      "type": "track",
+      "trackId": 684939
+    },
+    {
+      "type": "track",
+      "trackId": 1197878
+    },
+    {
+      "type": "track",
+      "trackId": 51958436
+    },
+    {
+      "type": "track",
+      "trackId": 3116001
+    },
+    {
+      "type": "track",
+      "trackId": 3128952
+    },
+    {
+      "type": "track",
+      "trackId": 41879703
+    },
+    {
+      "type": "track",
+      "trackId": 1331309
+    },
+    {
+      "type": "track",
+      "trackId": 684941
+    },
+    {
+      "type": "track",
+      "trackId": 3289543
+    },
+    {
+      "type": "track",
+      "trackId": 153113
+    },
+    {
+      "type": "track",
+      "trackId": 40827229
+    },
+    {
+      "type": "track",
+      "trackId": 6642413
+    },
+    {
+      "type": "track",
+      "trackId": 151628
+    },
+    {
+      "type": "track",
+      "trackId": 4621827
+    },
+    {
+      "type": "track",
+      "trackId": 378562
+    },
+    {
+      "type": "track",
+      "trackId": 32008844
+    },
+    {
+      "type": "track",
+      "trackId": 11022737
+    },
+    {
+      "type": "track",
+      "trackId": 17582265
+    }
+  ]
+}
